@@ -1,6 +1,7 @@
 from convert_conllu import convert_conllu_file
-from process_output import get_expected_output_list, process_real_output_list, export_list_to_file
-from tokenizer_accuracy import get_total_correct_token, get_tokenizer_accuracy
+from process_output import export_list_to_file, get_expected_output_list, process_real_output_list
+from tokenizer_accuracy import get_tokenizer_accuracy, get_total_correct_token
+
 
 
 # Dataset list
