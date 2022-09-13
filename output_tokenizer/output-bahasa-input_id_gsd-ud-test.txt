@@ -1,0 +1,14227 @@
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+Sampul	NN
+dari	IN
+dua	CD
+singel	X
+pertama	OD
+difoto	VB
+oleh	IN
+Emma	NNP
+Summerton	NNP
+pada	IN
+bulan	NN
+April	NNP
+2010	CD
+dan	CC
+tiga	CD
+gambar	NN,VB 
+lain	JJ
+nya	PRP
+diambil	VB
+oleh	IN
+artis	NN
+yang	SC
+dirilis	VB
+untuk	SC 
+mempromosikan	VB
+album	NN
+di	IN
+bulan	NN
+Juli	NNP
+.	Z
+
+Sampul	NN
+resmi	JJ
+album	NN
+menunjukkan	VB
+Perry	NNP
+sedang	JJ,CC,MD 
+berbaring	VB
+telanjang	VB
+di	IN
+awan	NN
+kembang gula	NN
+,	Z
+dilukis	VB
+di	IN
+atas	NN 
+kanvas	NN
+oleh	IN
+Will	NNP
+Cotton	NNP
+dan	CC
+dirilis	VB
+pada	IN
+tanggal	NN,VB 
+21	CD
+Juli	NNP
+melalui	X
+webstream	X
+langsung	JJ
+.	Z
+
+#
+
+Baler	NNP
+adalah	VB
+munisipalitas	X
+yang	SC
+terletak	VB
+di	IN
+provinsi	NN
+Aurora	NNP
+,	Z
+Filipina	NNP
+.	Z
+
+#
+
+Bagaimana	NNP
+sejarah	NN
+berdiri	VB
+nya	PRP
+SMAN	NNP
+1	CD
+Pekanbaru	NNP
+yang	SC
+sudah	MD
+berusia	VB
+setengah	CD
+abad	NN
+itu	PR
+?	Z
+
+#
+
+Pencurian	NN
+dan	CC
+perampokan	NN
+juga	RB
+sangat	RB
+jarang	RB
+terjadi	VB
+di	IN
+wilayah	NN
+ini	PR
+.	Z
+
+#
+
+Dalam	IN 
+lima	CD
+tahun	NN
+sejak	SC,IN 
+panggilan	NN
+of	X
+Duty	NNP
+4	CD
+berlangsung	VB
+,	Z
+ia	PRP
+telah	MD
+dipromosikan	VB
+menjadi	VB
+kapten	NN
+di	IN
+Special	NNP
+Air	NNP
+Service	NNP
+.	Z
+
+#
+
+Laut	NN
+Sulawesi	NNP
+merupakan	VB
+tempat	NN
+bagi	NN,IN,VB 
+banyak	CD
+spesies	NN
+ikan	NN,VB 
+dan	CC
+makhluk	NN
+bawah	NN
+air	NN
+.	Z
+
+#
+
+Siapa	WH 
+dapat	MD,VB 
+memastikan	VB
+apakah	X
+sebuah	X
+kenyataan	NN
+itu	PR
+sesungguhnya	RB
+impian	NN
+dan	CC
+sebuah	X
+impian	NN
+itu	PR
+justru	RB
+sesungguhnya	RB
+kenyataan	NN
+?	Z
+
+#
+
+Salmon	NNP
+biasa	JJ
+diasap	VB
+untuk	SC 
+membuat	VB
+lox	X
+,	Z
+dan	CC
+beberapa	CD
+spesies	NN
+ikan	NN,VB 
+seperti	SC,IN 
+bandeng	X
+,	Z
+hering	X
+,	Z
+makerel	X
+,	Z
+tongkol	X
+,	Z
+tenggiri	X
+,	Z
+dan	CC
+gabus	NN
+juga	RB
+biasa	JJ
+diasap	VB
+panas	JJ,NN 
+.	Z
+
+#
+
+Bahkan	RB
+ia	PRP
+menolak	VB
+telah	MD
+meni	VB
+kah	RP
+dan	CC
+memiliki	VB
+anak	NN
+dari	IN
+Sakuntala	NNP
+.	Z
+
+#
+
+Disaat	VB
+bersamaan	VB
+,	Z
+Maxentius	NNP
+mendeklarasikan	VB
+perang	NN
+terhadap	IN
+Constantine	NNP
+,	Z
+yang	SC
+telah	MD
+membunuh	VB
+ayah	NN
+nya	PRP
+(Maximian	X
+adalah	VB
+ayah kandung	NN
+Maxentius).	NNP
+
+#
+
+Dengan	SC,IN 
+U	NNP
+-	SYM,Z 
+Boat	NNP
+1918	CD
+kerugian	NN
+telah	MD
+mencapai	VB
+tingkat	NN
+yang	SC
+tidak dapat	RB
+diterima	VB
+,	Z
+sementara	X
+moral	NN
+awak kapal	NN
+mereka	PRP
+telah	MD
+memburuk	VB
+secara	JJ
+drastis	JJ
+dan	CC
+pada	IN
+musim gugur	NN
+menjadi	VB
+jelas	JJ
+bahwa	SC
+Kekuatan	NNP
+Tengah	NNP
+tidak	NEG
+bisa	MD 
+memenangkan	VB
+perang	NN
+.	Z
+
+#
+
+Pada	IN
+awal	NN
+tahun	NN
+2005	CD
+,	Z
+
+muncul	VB
+Symbian	NNP
+OS	NNP
+v9	CD
+.	Z
+
+
+1	CD
+dengan	SC,IN 
+sistem	NN
+keamanan	NN
+platform	X
+baru	JJ,NN,MD 
+yang	SC
+dikenal	VB
+sebagai	IN
+capability	X
+-	SYM,Z 
+based	X
+security	X
+.	Z
+
+#
+
+Ramanuja	NNP
+adalah	VB
+seorang	JJ
+teolog	X
+,	Z
+filsuf	X
+,	Z
+dan	CC
+juga	RB
+penafsir	NN
+kitab suci	NN
+Hindu	NNP
+.	Z
+
+#
+
+Kamila	NNP
+bertanya	VB
+kenapa	WH 
+Eyang	NNP
+Tini	NNP
+menyuruh	VB
+nya	PRP
+naik	VB
+mobil	NN
+?	Z
+
+#
+
+Setelah	SC
+Keraton	NNP
+Macan	NNP
+Putih	NNP
+hancur	JJ
+penerus	NN
+Raja	NNP
+Blambangan	NNP
+yaitu	SC
+Mas	NNP
+Jaka	NNP
+Rempeg	NNP
+mendirikan	VB
+Kerajaan	NNP
+Bayu	NNP
+yang	SC
+berada	VB
+di	IN
+sekitar	IN,RB,NN 
+Rawa	NNP
+Bayu	NNP
+kerajaan	NN
+ini	PR
+tidak	NEG
+bertahan	VB
+lama	JJ
+karena	SC,IN 
+perang	NN
+Puputan	NNP
+Bayu	NNP
+1771	CD
+,	Z
+
+yakni	SC
+dalam	IN 
+hitungan	NN
+bulan	NN
+saja	RB
+disini	VB
+dapat	MD,VB 
+ditemukan	VB
+beberapa	CD
+sisa	NN
+artefact	X
+dan	CC
+bekas	JJ
+peperangan	X
+dengan	SC,IN 
+VOC	NNP
+Hingga	NNP
+kini	X
+meskipun	SC
+Kerajaan	NNP
+sudah	MD
+hancur	JJ
+Para	NNP
+kerabat	NN
+Kerajaan	NNP
+secara	JJ
+turun	VB
+temurun	JJ
+tetap	RB,JJ,VB 
+menjaga	VB
+beberapa	CD
+pusaka	JJ
+penting	JJ
+peninggalan	NN
+Kerajaan	NNP
+.	Z
+
+#
+
+Dapat	MD,VB 
+dikatakan	VB
+mulai	VB
+dari	IN
+daerah	NN
+Landungsari	NNP
+(barat),	X
+Palowijen	NNP
+(utara),	X
+Pakis	NNP
+(timur),	X
+Turen	NNP
+(selatan).	X
+
+#
+
+Sementara itu	NNP
+,	Z
+seorang	JJ
+pelawak	NN
+merayu	VB
+seorang	JJ
+pembantu rumah tangga	NN
+.	Z
+
+#
+
+Jejaring	NNP
+Pendidikan Nasional	NN
+(JARDIKNAS)	X
+merupakan	VB
+infrastruktur	NN
+jaringan	NN
+skala	NN
+nasional	JJ
+yang	SC
+menghubungkan	VB
+seluruh	CD
+institusi	NN
+/	SYM,Z 
+lembaga	NN
+pendidikan	NN
+,	Z
+kantor dinas	NN
+pendidikan	NN
+tingkat	NN
+provinsi	NN
+/	SYM,Z 
+kota	NN
+/	SYM,Z 
+kabupaten	NN
+,	Z
+perguruan tinggi	NN
+,	Z
+dan	CC
+sekolah-seko	NN
+lah	RP
+di	IN
+seluruh	CD
+Indonesia	NNP
+.	Z
+
+#
+
+Siapakah	NNP
+sebenarnya	RB
+gadis	NN
+yang	SC
+mirip	JJ
+si	DT
+Cemong	NNP
+?	Z
+
+#
+
+Film	NN
+ini	PR
+juga	RB
+masih	MD
+didukung	VB
+oleh	IN
+Slamet	NNP
+Rahardjo	NNP
+,	Z
+beserta	X
+beberapa	CD
+bintang	NN
+baru	JJ,NN,MD 
+seperti	SC,IN 
+Vino	NNP
+Bastian	NNP
+dan	CC
+Raihaanun	NNP
+.	Z
+
+#
+
+Karakter	NN
+utama	JJ
+di	IN
+permainan	NN
+ini	PR
+bernama	VB
+Claude	NNP
+Speed	NNP
+.	Z
+
+#
+
+Dibintangi	VB
+oleh	IN
+sepuluh	CD
+orang	NND 
+pemain	NN
+utama	JJ
+yang	SC
+didapat	VB
+melalui	X
+proses	NN
+audisi	X
+dan	CC
+masa	NN
+karantina	NN
+dalam	IN 
+acara	NN
+AAdC	NNP
+?	Z
+
+#
+
+Ketika	SC
+mereka	PRP
+melihat	VB
+Dia	NNP
+mereka	PRP
+menyembah	VB
+nya	PRP
+,	Z
+tetapi	CC
+beberapa	CD
+orang	NN 
+ragu-ragu	VB
+.	Z
+
+#
+
+Gerhana	NNP
+ini	PR
+terlihat	VB
+di	IN
+Antartika	NNP
+yang	SC
+sedang	JJ,CC,MD 
+mengalami	VB
+musim panas	NN
+,	Z
+Selandia	NNP
+baru	JJ,NN,MD 
+menjelang	X
+matahari	NN
+terbenam	VB
+dengan	SC,IN 
+bagian	NN
+matahari	NN
+yang	SC
+terhalangi	VB
+20	CD
+%.	X
+Semenanjung	NNP
+Antartika	NNP
+barat	NN
+mengalami	VB
+bagian	NN
+matahari	NN
+yang	SC
+terhalangi	VB
+mencapai	VB
+90	CD
+%.	X
+
+#
+
+Desa	NN
+ini	PR
+memiliki	VB
+kodepos	X
+86262	CD
+.	Z
+
+#
+
+Pada	IN
+The	NNP
+Unauthorized	NNP
+Black	NNP
+Book	NNP
+of	X
+Hypnotic	NNP
+Mind	NNP
+Control	NNP
+penulis	NN
+JK	NNP
+juga	RB
+Ellis	NNP
+CITES	NNP
+Lifton	NNP
+kriteria	NN
+,	Z
+menulis:	X
+
+"	Z
+Jika	SC
+kebanyakan	NN
+Robert	NNP
+'	Z
+s	NND
+Lifton	NNP
+delapan	CD
+titik	NND 
+model	NN
+pemikiran	NN
+reformasi	NN
+sedang	JJ,CC,MD 
+digunakan	VB
+dalam	IN 
+sebuah	X
+organisasi	NN
+kultus	X
+,	Z
+ini	PR
+kemungkinan	NN
+besar	JJ
+yang	SC
+berbahaya	VB
+dan	CC
+merusak	VB
+kultus	X
+.	Z
+
+"	Z
+
+#
+
+Daerah-daerah	NN
+konflik	NN
+yang	SC
+paling	RB
+sengit	JJ
+antara	X
+pasukan	NN
+Muslim	NNP
+dan	CC
+Kroat	NNP
+Bosnia	NNP
+melawan	VB
+Serbia	NNP
+Bosnia	NNP
+terjadi	VB
+di	IN
+daerah-daerah	NN
+strategis	JJ
+utama	JJ
+nya	PRP
+di	IN
+Gunung	NNP
+Ozren	NNP
+(sebelah	X
+utara	NN
+kota	NN
+Sarajevo),	NNP
+kota	NN
+Brcko	NNP
+(bagian	X
+utara	NN
+Bosnia	NNP
+Herzegovina),	NNP
+Gorazde	NNP
+,	Z
+Maglaj	NNP
+dan	CC
+Olovo	NNP
+,	Z
+akhirnya	RB
+meluas	VB
+ke	IN
+wilayah	NN
+Sarajevo	NNP
+yaitu	SC
+di	IN
+kota	NN
+Vares	NNP
+(lebih	X
+kurang	RB
+40	CD
+km	NND
+dari	IN
+Sarajevo).	NNP
+
+#
+
+Pada	IN
+1832	CD
+dia	PRP
+menulis	VB
+bahwa	SC
+mereka	PRP
+dapat	MD,VB 
+dilindungi:	X
+Oleh	NNP
+kebijakan	NN
+pemerintah	NN
+untuk	SC 
+melindungi	VB
+...	X
+
+#
+
+Kalanidhi	NNP
+Maran	NNP
+juga	RB
+mendirikan	VB
+radio	NN
+FM	NNP
+yang	SC
+bernama	VB
+Vishaka	NNP
+FM	NNP
+.	Z
+
+#
+
+Ia	PRP
+adalah	VB
+murid	NN
+dari	IN
+Carolus	NNP
+Linnaeus	NNP
+,	Z
+dan	CC
+dianggap	VB
+sebagai	IN
+entomolog	X
+terpenting	JJ
+dari	IN
+abad	NN
+ke-18	CD
+,	Z
+
+dan	CC
+hasil	NN
+klasifikasi	NN
+nya	PRP
+sampai	SC,IN 
+sekarang	X
+menjadi	VB
+dasar	NN
+bagi	NN,IN,VB 
+klasifikasi	NN
+serangga	NN
+modern	JJ
+.	Z
+
+#
+
+Ia	PRP
+merupakan	VB
+putra	NN
+dari	IN
+bumi	NN
+,	Z
+yang	SC
+dilukiskan	VB
+sebagai	IN
+wanita	NN
+cantik	JJ
+bernama	VB
+Pertiwi	NNP
+.	Z
+
+#
+
+pulau	NN
+untuk	SC,IN 
+pelabuhan	NN
+,	Z
+Pulau	NNP
+Rokkō,	NNP
+dan	CC
+pulau	NN
+untuk	SC,IN 
+bandara	NN
+Kobe	NNP
+.	Z
+
+Pelabuhan	NN
+ini	PR
+sudah	MD
+berdiri	VB
+sejak	SC,IN 
+abad	NN
+X	NNP
+,	Z
+dan	CC
+pada	IN
+1858	CD
+,	Z
+
+pelabuhan	NN
+ini	PR
+dibuka	VB
+untuk	SC,IN 
+jalur	NN
+pelayaran	NN
+ke	IN
+luar negeri	NN
+.	Z
+
+#
+
+Kerusuhan	NN
+di	IN
+perbatasan	NN
+Israel	NNP
+bulan	NN
+Mei	NNP
+2011	CD
+juga	RB
+terinspirasi	VB
+oleh	IN
+kebangkitan	NN
+dunia	NN
+Arab	NNP
+ini	PR
+.	Z
+
+#
+
+Kota	NN
+Kirchdorf	NNP
+an	X
+der	X
+Amper	NNP
+memiliki	VB
+luas	JJ
+sebesar	X
+32988	CD
+km².	X
+
+#
+
+Tanjung	NNP
+Johor	NNP
+adalah	VB
+salah satu	JJ
+kelurahan	NN
+di	IN
+Kecamatan	NNP
+Pelayangan	NNP
+,	Z
+Kota	NNP
+Jambi	NNP
+,	Z
+Provinsi	NNP
+Jambi	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+``Apabila	X
+di	IN
+kemudian hari	NN
+anak-anakmu	NN
+bertanya	VB
+kepada	IN
+ayahnya:	X
+Apakah	NNP
+arti	NN,VB 
+batu-batu	NN
+ini	PR
+?	Z
+
+#
+
+Sebagai	IN
+tambahan	NN
+dapat	MD,VB 
+pula	RB
+diberi	VB
+serta	CC 
+kolang	X
+-	SYM,Z 
+kaling	X
+.	Z
+
+#
+
+Ketika	SC
+kabar	NN
+itu	PR
+sampai	SC,IN 
+di	IN
+telinga	NN
+Sakera	NNP
+maka	SC
+Sakera	NNP
+marah	JJ
+dan	CC
+kabur	JJ
+dari	IN
+penjara	NN
+.	Z
+
+#
+
+Musim	NN
+ini	PR
+adalah	VB
+musim	NN
+ke-78	OD 
+dari	IN
+liga	NN
+Portugal	NNP
+,	Z
+kompetisi	NN
+ini	PR
+didominasi	VB
+oleh	IN
+3	CD
+tim	NN
+yang	SC
+dijuluki	VB
+Os	NNP
+Três	NNP
+Grandes	NNP
+(Futebol	X
+Clube	NNP
+do	X
+Porto	NNP
+,	Z
+Sport	NNP
+Lisboa	NNP
+e	X
+Benfica	NNP
+,	Z
+dan	CC
+Sporting	NNP
+Clube	NNP
+de	X
+Portugal),	NNP
+yang	SC
+menguasai	VB
+75	CD
+gelar	NN,VB 
+liga	NN
+,	Z
+dengan	SC,IN 
+Clube	NNP
+de	X
+Futebol	NNP
+
+"	Z
+Os	NNP
+Belenenses	NNP
+"	Z
+
+dan	CC
+Boavista	NNP
+Futebol	NNP
+Clube	NNP
+memenangi	VB
+2	CD
+gelar	NN,VB 
+lain	JJ
+nya	PRP
+.	Z
+
+#
+
+Nkurunziza	NNP
+bergabung	VB
+dengan	SC,IN 
+ewan	X
+Nasional	NNP
+untuk	SC,IN 
+Membela	NNP
+Demokrasi	NNP
+-	SYM,Z 
+Pasukan	NNP
+Pembela	NNP
+Demokrasi	NNP
+(CNDD	X
+-	SYM,Z 
+FDD)	NNP
+pada	IN
+1995	CD
+sebagai	IN
+seorang	JJ
+tentara	NN
+,	Z
+setelah	SC
+militer	NN
+menyerbu	VB
+kampus	NN
+universitas	NN
+nya	PRP
+.	Z
+
+#
+
+Sebelum	SC
+dipanggang	VB
+,	Z
+daging	NN
+dilumuri	VB
+dengan	SC,IN 
+bumbu	NN
+berupa	VB
+campuran	NN
+bawang putih	NN
+,	Z
+akar	NN
+tanaman	NN
+ketumbar	NN
+,	Z
+dan	CC
+lengkuas	X
+yang	SC
+ditumbuk	VB
+ditambah	VB
+garam	NN
+,	Z
+kecap	NN 
+asin	JJ
+,	Z
+dan	CC
+kecap	NN 
+ikan	NN,VB 
+sesuai	JJ
+selera	NN
+.	Z
+
+#
+
+Walaupun	SC
+berdarah	VB
+keturunan	NN
+India	NNP
+,	Z
+tapi	CC
+semangat	NN
+kecintaan	NN
+nya	PRP
+terhadap	IN
+Negara Kesatuan	NN
+Republik	NNP
+Indonesia	NNP
+(NKRI)	X
+sangatlah	X
+tinggi	JJ
+.	Z
+
+#
+
+Masatoshi	NNP
+lulus	JJ
+dari	IN
+Universitas	NNP
+Tokyo	NNP
+pada	IN
+1951	CD
+dan	CC
+melanjutkan	VB
+riset	NN
+di	IN
+pendidikan	NN
+sarjananya	X
+.	Z
+
+#
+
+Benteng	NNP
+Lohagarh	NNP
+(	Z
+"	Z
+Benteng	NNP
+Besi	NNP
+"	Z
+)	Z
+adalah	VB
+benteng	X
+yang	SC
+terletak	VB
+di	IN
+Bharatpur	NNP
+di	IN
+Rajasthan	NNP
+,	Z
+India	NNP
+.	Z
+
+#
+
+Akcaya	NNP
+adalah	VB
+sebuah	X
+nama	NN
+kelurahan	NN
+di	IN
+wilayah	NN
+Pontianak	NNP
+Selatan	NNP
+,	Z
+kota	NN
+Pontianak	NNP
+,	Z
+Provinsi	NNP
+Kalimantan	NNP
+Barat	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Dan	CC
+bagaimanakah	X
+kamu	PRP
+lihat	VB
+keadaan	NN
+nya	PRP
+sekarang	X
+?	Z
+
+#
+
+Mereka	PRP
+dirikan	VB
+gereja	NN
+dan	CC
+sekolah-seko	NN
+lah	RP
+untuk	SC 
+mengajarkan	VB
+dan	CC
+mengembangkan	VB
+ajaran	NN
+Yahudi	NNP
+di	IN
+seluruh	CD
+pelosok	X
+wilayah	NN
+kerajaan	NN
+atau	CC
+kekuasaan	NN
+nya	PRP
+.	Z
+
+#
+
+Suwug	NNP
+adalah	VB
+sebuah	X
+desa	NN
+berpenduduk	VB
+3.000	CD
+jiwa	NN
+yang	SC
+terletak	VB
+di	IN
+kecamatan	NN
+Sawan	NNP
+,	Z
+Kabupaten	NNP
+Buleleng	NNP
+,	Z
+provinsi	NN
+Bali	NNP
+,	Z
+di bawah	VB
+bukit	NN
+Sudaji	NNP
+.	Z
+
+#
+
+Jika	SC
+bukan	NEG
+diri	NN,VB 
+nya	PRP
+yang	SC
+akan	IN,MD 
+membantu	VB
+Zhong	NNP
+memakamkan	VB
+(dan	X
+menghormati)	X
+abu	NN
+ayah	NN
+nya	PRP
+,	Z
+siapa	WH 
+lagi	MD,RB 
+yang	SC
+akan	IN,MD 
+menolong	VB
+?	Z
+
+#
+
+11:	CD
+Konvoi	NNP
+mencapai	VB
+Malta	NNP
+dari	IN
+Alexandria;	NNP
+sebuah	X
+pengumuman	NN
+resmi	JJ
+menyatakan	VB
+bahwa	SC
+pulau	NN
+itu	PR
+
+"	Z
+dihidupkan	VB
+dari	IN
+pengepungan	NN
+.	Z
+
+"	Z
+
+#
+
+Namun	CC
+karena	SC,IN 
+tulisan-tulisan	NN
+nya	PRP
+dianggap	VB
+membahayakan	VB
+pemerintahan	NN
+kolonial	JJ
+,	Z
+Trimurti	NNP
+dipenjarakan	VB
+lagi	MD,RB 
+oleh	IN
+Belanda	NNP
+tahun	NN
+1939	CD
+-	SYM,Z 
+1943	CD
+.	Z
+
+#
+
+Sejarah	NN
+topeng	NN
+dan	CC
+kostum	NN
+Halloween	NNP
+sebelum	SC
+tahun	NN
+1900	CD
+di	IN
+Amerika	NNP
+atau	CC
+di	IN
+tempat	NN
+lain	JJ
+masih	MD
+sedikit	CD
+yang	SC
+diketahui	VB
+karena	SC,IN 
+keterbatasan	NN
+sumber	NN
+primer	NN
+.	Z
+
+#
+
+Nanah	NNP
+berisi	VB
+
+"	Z
+jenazah	NN
+"	Z
+
+dari	IN
+kawan	NN 
+dan	CC
+lawan	VB
+-	SYM,Z 
+fagosit	X
+yang	SC
+terbunuh	VB
+dalam	IN 
+kinerja	NN
+nya	PRP
+disebut	VB
+sel	NN
+nanah	X
+.	Z
+
+#
+
+Bagaimana	NNP
+nasib	NN
+Maya	NNP
+,	Z
+Naomy	NNP
+dan	CC
+Ryan	NNP
+?	Z
+
+#
+
+Selama	JJ
+periode	NN
+ini	PR
+,	Z
+Walker	NNP
+diangkat	VB
+menjadi	VB
+Mayor	NNP
+Jendral	NNP
+.	Z
+
+#
+
+Dia	PRP
+terdiam	JJ
+lama	JJ
+kemudian	CC,NN 
+berkata	VB
+``Apakah	X
+dia	PRP
+itu	PR
+nabi	NN,VB 
+yang	SC
+pernah	MD
+kamu	PRP
+katakan	VB
+pada	IN
+kami	PRP
+yang	SC
+akan	IN,MD 
+membenarkan	VB
+kebenaran	NN
+dakwah	X
+para	DT
+nabi	NN,VB 
+terdahulu	JJ
+?	Z
+
+#
+
+Tempat	NN
+ini	PR
+kemudian	CC,NN 
+ditunjuk	VB
+sebagai	IN
+salah satu	JJ
+komune	X
+dalam	IN 
+département	X
+di	IN
+Oise	NNP
+.	Z
+
+#
+
+Sejong	NNP
+juga	RB
+sangat	RB
+berjasa	VB
+terhadap	IN
+pengembangan	NN
+pertanian	NN
+rakyat	NN
+Joseon	NNP
+,	Z
+jadi	JJ
+ia	PRP
+mengizinkan	VB
+para	DT
+petani	NN
+untuk	SC 
+membayar	VB
+pajak	NN
+lebih	RB
+sedikit	CD
+atau	CC
+lebih	RB
+banyak	CD
+pada	IN
+saat	SC,NN 
+terjadi	VB
+nya	PRP
+kemunduran	NN
+atau	CC
+kemajuan	NN
+ekonomi	NN,VB 
+negara	NN
+.	Z
+
+#
+
+Empat	CD
+gempa	NN
+susulan	NN
+berkekatan	X
+2,8	CD
+,	Z
+
+2,2	CD
+,	Z
+
+4,2	CD
+,	Z
+
+dan	CC
+3,4	CD
+terjadi	VB
+dalam	IN 
+kurun	NN
+12	CD
+jam	NND
+setelah	SC
+gempa	NN
+pertama	OD
+.	Z
+
+#
+
+Paris	NNP
+merupakan	VB
+salah satu	JJ
+dari	IN
+beberapa	CD
+komune	X
+Perancis	NNP
+dimana	VB
+batasan	NN
+nya	PRP
+diperluas	VB
+untuk	SC 
+memperluas	VB
+wilayah	NN
+urbanisasi	NN
+.	Z
+
+#
+
+Film	NN
+ini	PR
+menghadirkan	VB
+keganjilan-keganjilan	NN
+yang	SC
+ditemukan	VB
+dalam	IN 
+kasus	NN
+kematian	NN
+Munir	NNP
+.	Z
+
+#
+
+Kakak	NN
+Gertrud	NNP
+jatuh cinta	VB
+dengan	SC,IN 
+seorang	JJ
+wanita	NN
+muda	JJ
+yang	SC
+ketakutan	NN
+dengannya	X
+.	Z
+
+#
+
+Ia	PRP
+memperoleh	VB
+beasiswa	NN
+dari	IN
+Bank	NNP
+Dunia	NNP
+dalam	IN 
+rangka	NN
+memberantas	VB
+kemiskinan	NN
+di	IN
+Meksiko;	NNP
+Ninochka	NNP
+Stronovsky	NNP
+adalah	VB
+seorang	JJ
+pemain	NN
+catur	NN
+andal	VB
+dari	IN
+Georgia	NNP
+.	Z
+
+#
+
+Habitat	NN
+bangau	X
+mahkota	X
+merah	JJ
+ada	JJ
+di	IN
+rawa-rawa	NN
+,	Z
+pinggir	NN
+sungai	NN
+,	Z
+persawahan	NN
+dan	CC
+lahan-lahan	NN
+basah	JJ
+.	Z
+
+#
+
+Seri	JJ
+ini	PR
+diciptakan	VB
+,	Z
+ditulis	VB
+,	Z
+dan	CC
+diproduksi	VB
+oleh	IN
+Bruce	NNP
+Geller	NNP
+.	Z
+
+#
+
+Banyak	CD
+orang	NN 
+mencoba	VB
+tantangan	NN
+Columbus	NNP
+tersebut	PR,VB 
+,	Z
+namun	CC
+gagal	JJ
+.	Z
+
+#
+
+Interferensi	NNP
+pentana	X
+atau	CC
+interaksi	NN
+sin	X
+-	SYM,Z 
+pentana	X
+adalah	VB
+rintangan	NN
+sterik	X
+yang	SC
+diterima	VB
+oleh	IN
+dua	CD
+gugus	NN 
+metil	X
+terminal	X
+pada	IN
+salah satu	JJ
+konformasi	X
+kimia	NN
+n	X
+-	SYM,Z 
+pentana	X
+.	Z
+
+#
+
+Sejarah	NN
+Roosendaal	NNP
+kembali	VB
+ke	IN
+abad	NN
+ke-12	CD
+dan	CC
+13	CD
+.	Z
+
+#
+
+Fungsi	NN
+manajemen	NN
+pertama	OD
+kali	NN,VB 
+diperkenalkan	VB
+oleh	IN
+seorang	JJ
+industrialis	X
+Perancis	NNP
+bernama	VB
+Henry	NNP
+Fayol	NNP
+pada	IN
+awal	NN
+abad	NN
+ke-20	CD
+.	Z
+
+#
+
+Baru-baru ini	RB
+,	Z
+resor	X
+telah	MD
+menggunakan	VB
+kata-kata	NN
+
+"	Z
+Maximum	NNP
+Vegas	NNP
+"	Z
+
+karena	SC,IN 
+banyak	JJ
+nya	PRP
+aktivitas	NN
+yang	SC
+ditawarkan	VB
+MGM	NNP
+Grand	NNP
+pada	IN
+tamu	NN
+nya	PRP
+.	Z
+
+#
+
+Berdasarkan	VB
+penelitian	NN
+yang	SC
+dilakukan	VB
+oleh	IN
+Museum	NNP
+Nasional	NNP
+Korea	NNP
+,	Z
+nasi	NN
+yang	SC
+paling	RB
+enak	JJ
+dihasilkan	VB
+dari	IN
+gamasot	X
+,	Z
+kedua	OD,CD 
+dolsot	X
+dan	CC
+yang	SC
+terakhir	OD
+dari	IN
+penanak	X
+nasi	NN
+elektronik	NN
+.	Z
+
+#
+
+Ia	PRP
+memulai	VB
+Perang	NNP
+Perancis	NNP
+-	SYM,Z 
+Italia	NNP
+yang	SC
+panjang	JJ
+yang	SC
+memberi	VB
+warna	NN
+paruh	NN
+pertama	OD
+abad	NN
+ke-16	CD
+.	Z
+
+#
+
+Masirei	NNP
+adalah	VB
+sebuah	X
+distrik	NN
+di	IN
+Kabupaten	NNP
+Waropen	NNP
+,	Z
+Papua	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Tak	NEG
+seorang	JJ
+pun	RP
+tampak	JJ
+nya	PRP
+sudah	MD
+menduga	VB
+kemungkinan	NN
+pada	IN
+waktu	NN
+itu	PR
+masa	NN
+lah	RP
+emosional	JJ
+mungkin	MD
+terletak	VB
+pada	IN
+akar	NN
+kesalehan	NN
+normal	JJ
+Gustav	NNP
+.	Z
+
+#
+
+Selain	CC 
+Apam	NNP
+Barabai	NNP
+,	Z
+Pakasam	NNP
+juga	RB
+merupakan	VB
+makanan	NN
+khas	JJ
+dari	IN
+kota	NN
+ini	PR
+.	Z
+
+#
+
+Pada	IN
+pewarnaan	NN
+terpengaruh	VB
+gaya	NN
+Pop	NNP
+Art	NNP
+dengan	SC,IN 
+warna-warna	NN
+nya	PRP
+yang	SC
+mencolok	VB
+dan	CC
+ramai	NN,VB 
+.	Z
+
+#
+
+Lophiiformes	NNP
+adalah	VB
+ikan	NN,VB 
+karnivora	X
+,	Z
+mulut	NN
+nya	PRP
+besar	JJ
+dan	CC
+bergigi	VB
+.	Z
+
+#
+
+shikamaru	X
+belum	NEG
+kehabisan	NN
+akal	NN
+,	Z
+dia	PRP
+lalu	VB/CC 
+memancing	VB
+Tayuya	NNP
+mendekat	VB
+dan	CC
+menjebak	VB
+nya	PRP
+dengan	SC,IN 
+kagemane	X
+,	Z
+kageshibari	X
+no	X
+jutsu	X
+.	Z
+
+#
+
+Masjid	NN
+ini	PR
+memiliki	VB
+lima	CD
+menara	NN,VB 
+dan	CC
+tiga	CD
+kubah	X
+yang	SC
+sangat	RB
+besar	JJ
+.	Z
+
+#
+
+Geologis	NNP
+Belanda	NNP
+Jean	NNP
+-	SYM,Z 
+Jacquez	NNP
+Dozy	NNP
+mengunjungi	VB
+Indonesia	NNP
+pada	IN
+1936	CD
+untuk	SC,IN 
+menskala	X
+glasier	X
+Pegunungan	NNP
+Jayawijaya	NNP
+di	IN
+provinsi	NN
+Irian	NNP
+Jaya	NNP
+di	IN
+Papua	NNP
+Barat	NNP
+.	Z
+
+#
+
+yang	SC
+merupakan	VB
+drama	NN
+sempalan	X
+dari	IN
+drama	NN
+televisi	NN
+Megutan	NNP
+tte	X
+Mahou	NNP
+Tsukaeru	NNP
+no	X
+?	Z
+
+#
+
+Hanya	RB
+satu	CD
+peluncuran	NN
+tersebut	PR,VB 
+dilakukan	VB
+,	Z
+dengan	SC,IN 
+sekelompok	JJ
+satelit	NN
+Globalstar	NNP
+,	Z
+yang	SC
+berakhir	VB
+dengan	SC,IN 
+kegagalan	NN
+setelah	SC
+kesalahan	NN
+komputer	NN
+menyebabkan	VB
+cutoff	X
+dini	JJ,VB 
+dari	IN
+tahap	NN
+kedua	OD 
+.	Z
+
+#
+
+Apa	WH 
+nama	NN
+lembaga	NN
+yang	SC
+akan	IN,MD 
+melayani	VB
+radio-radio	NN
+ini	PR
+?	Z
+
+#
+
+Ketika	SC
+MGM	NNP
+Grand	NNP
+memulai	VB
+renovasi	NN
+nya	PRP
+tahun	NN
+1996	CD
+,	Z
+
+Oz	NNP
+Casino	NNP
+adalah	VB
+yang	SC
+pertama	OD
+.	Z
+
+#
+
+Anak-anak	NN
+,	Z
+wanita	NN
+dan	CC
+orang tua	NN
+berkumpul	VB
+di	IN
+Potocari	NNP
+untuk	SC 
+mencari	VB
+perlindungan	NN
+dari	IN
+pasukan	NN
+Belanda	NNP
+.	Z
+
+#
+
+Akan tetapi	NN
+,	Z
+Grand	NNP
+Final	NNP
+Pentas	NNP
+Idola	NNP
+Cilik	NNP
+2013	CD
+kali	NN,VB 
+ini	PR
+diselenggarakan	VB
+di	IN
+Studio	NNP
+1	CD
+RCTI	NNP
+.	Z
+
+Pada	IN
+Bintang	NNP
+Grand	NNP
+Final	NNP
+Idola	NNP
+Cilik	NNP
+2013	CD
+yang	SC
+digelar	VB
+sore	NN
+hari	NN
+Sabtu	NNP
+,	Z
+20	CD
+April	NNP
+2013	CD
+,	Z
+
+Bagas	NNP
+akhirnya	RB
+terpilih	VB
+sebagai	IN
+Juara	NNP
+Pertama	NNP
+Idola	NNP
+Cilik	NNP
+2013	CD
+dan	CC
+Difa	NNP
+menjadi	VB
+Juara	NNP
+Kedua	NNP
+Idola	NNP
+Cilik	NNP
+2013	CD
+.	Z
+
+#
+
+Soket	NN
+370	CD
+awal	NN
+nya	PRP
+hanya	RB
+diperuntukkan	X
+bagi	NN,IN,VB 
+prosesor	NN
+Intel	NNP
+Celeron	NNP
+yang	SC
+mematok	VB
+harga	NN
+lebih	RB
+murah	JJ
+daripada	SC,IN 
+Pentium	NNP
+II	NNP
+maupun	CC
+Pentium	NNP
+III	NNP
+.	Z
+
+Celeron	NNP
+merupakan	VB
+hasil	NN
+praktik	NN
+tandingan	NN
+yang	SC
+dilakukan	VB
+oleh	IN
+Intel	NNP
+menyusul	VB
+marak	JJ
+nya	PRP
+komputer	NN
+berbasis	VB
+prosesor	NN
+dengan	SC,IN 
+soket	NN
+7	CD
+yang	SC
+berharga	VB
+murah	JJ
+,	Z
+tetapi	CC
+dengan	SC,IN 
+kualitas	NN
+yang	SC
+tidak	NEG
+murahan	NN
+.	Z
+
+#
+
+Kapasitas	NN
+penumpang	NN
+bajaj	X
+adalah	VB
+dua	CD
+orang	NN 
+,	Z
+atau	CC
+ditambah	VB
+satu	CD
+anak	NN
+kecil	JJ
+,	Z
+yang	SC
+semuanya	RB
+akan	IN,MD 
+duduk	VB
+di	IN
+belakang	NN
+sopir	X
+bajaj	X
+.	Z
+
+#
+
+Akan	VB
+kah	RP
+Mat	NNP
+Bunglon	NNP
+dan	CC
+Dul	NNP
+Bajing	NNP
+berhasil	JJ
+mendapatkan	VB
+patung	NN
+yang	SC
+diinginkan	VB
+nya	PRP
+?	Z
+
+#
+
+Bagaimana	NNP
+Kayla	NNP
+menghadapi	VB
+Rita	NNP
+sebagai	IN
+madu	NN
+nya	PRP
+,	Z
+sementara	X
+diri	NN,VB 
+nya	PRP
+semakin	RB
+lama	JJ
+menjadi	VB
+semakin	RB
+sehat	NN
+?	Z
+
+#
+
+Pada	IN
+pertandingan	NN
+tersebut	PR,VB 
+,	Z
+ia	PRP
+memenangkan	VB
+tendangan penalti	NN
+yang	SC
+berhasil	JJ
+dieksekusi	VB
+Hazard	NNP
+menjadi	VB
+gol	NN
+pertama	OD
+dan	CC
+mencetak	VB
+gol	NN
+kedua	OD 
+memanfaatkan	VB
+umpan	NN
+Hazard	NNP
+.	Z
+
+#
+
+Dalam	IN 
+sinus	X
+tersebut	PR,VB 
+ketiga	CD 
+saraf	NN
+kranial	X
+tersebut	PR,VB 
+berada	VB
+cukup	RB
+dekat	JJ
+dengan	SC,IN 
+cabang	NN
+pertama	OD
+dan	CC
+kedua	OD,CD 
+dari	IN
+saraf	NN
+trigeminal	X
+,	Z
+seperti	SC,IN 
+hal	NN
+nya	PRP
+dengan	SC,IN 
+arteri	NN
+karotis	X
+interna	X
+.	Z
+
+#
+
+Di	IN
+dalam	NN 
+riwayat	X
+abad	NN
+ke-13	OD 
+,	Z
+
+Samguk	NNP
+Yusa	NNP
+menyatakan	VB
+bahwa	SC
+Kim	NNP
+Inmun	NNP
+wafat	X
+di	IN
+dalam	NN 
+kapal	NN
+di	IN
+dalam	NN 
+perjalanan	NN
+kembali	VB
+ke	IN
+Silla	NNP
+,	Z
+tapi	CC
+mengingat	VB
+catatan	NN
+yang	SC
+agak	RB
+rinci	JJ
+tentang	VB
+kematian	NN
+Kim	NNP
+dan	CC
+selanjutnya	RB
+penguburan	NN
+duta	NN
+besar	JJ
+ditemukan	VB
+di	IN
+dalam	NN 
+sejarah	NN
+Tang	NNP
+dan	CC
+diulang	VB
+di	IN
+dalam	NN 
+riwayat	X
+Samguk	NNP
+Sagi	NNP
+.	Z
+
+#
+
+Kota	NN
+Vaterstetten	NNP
+memiliki	VB
+luas	JJ
+sebesar	X
+34.18	CD
+km².	X
+Vaterstetten	NNP
+pada	IN
+tahun	NN
+2006	CD
+,	Z
+
+memiliki	VB
+penduduk	NN
+sebanyak	CD
+21.401	CD
+jiwa	NN
+.	Z
+
+#
+
+Ketika	SC
+Facebook	NNP
+sudah	MD
+dikenal	VB
+luas	JJ
+,	Z
+Mark	NNP
+tega	X
+meninggalkan	VB
+Eduardo	NNP
+Saverin	NNP
+(Andrew	X
+Garfield),	NNP
+teman	NN
+sekampus	JJ
+Mark	NNP
+yang	SC
+ikut	VB
+mendanai	VB
+situs	NN
+Facebook	NNP
+.	Z
+
+#
+
+Slamet	NNP
+Gundono	NNP
+lulus	JJ
+dari	IN
+STSI	NNP
+pada	IN
+tahun	NN
+1999	CD
+.	Z
+
+#
+
+Untuk	SC,IN 
+tempat	NN
+berlindung	VB
+,	Z
+komodo	NN
+menggali	VB
+lubang	NN
+selebar	JJ
+1	CD
+–	X
+3	CD
+meter	NND
+dengan	SC,IN 
+tungkai	NN
+depan	NN
+dan	CC
+cakar	NN
+nya	PRP
+yang	SC
+kuat	JJ
+.	Z
+
+#
+
+Makanya	SC
+jangan	NEG
+heran	VB
+,	Z
+tahun	NN
+1917	CD
+,	Z
+
+dari	IN
+2.415	CD
+penduduk	NN
+,	Z
+sebanyak	CD
+1.391	CD
+orang	NN 
+di	IN
+antaranya	X
+sudah	MD
+bekerja	VB
+,	Z
+antara	X
+lain	JJ
+297	CD
+orang	NN 
+jadi	JJ
+ambtenar	X
+dan	CC
+31	CD
+orang	NN 
+menjadi	VB
+dokter	NN
+.	Z
+
+#
+
+Wilayah	NN
+Bantam	NNP
+Raya	NNP
+terletak	VB
+di	IN
+sekitar	NN 
+muara	NN
+sungai	NN
+Barito	NNP
+dan	CC
+penduduk	NN
+asli	JJ
+nya	PRP
+dikenal	VB
+sebagai	IN
+orang	NN 
+Berangas	NNP
+(Barangas)	X
+yang	SC
+menggunakan	VB
+bahasa	NN
+Barangas	NNP
+.	Z
+
+#
+
+Unidayan	NNP
+mencetak	VB
+sejarah	NN
+sebagai	IN
+perguruan tinggi	NN
+swasta	JJ
+pertama	OD
+yang	SC
+mengelola	VB
+Program	NNP
+Pascasarjana	NNP
+di	IN
+wilayah	NN
+Provinsi	NNP
+Sulawesi	NNP
+Tenggara	NNP
+.	Z
+
+#
+
+Cipocok	NNP
+Jaya	NNP
+adalah	VB
+sebuah	X
+kecamatan	NN
+di	IN
+Kota	NNP
+Serang	NNP
+,	Z
+Provinsi	NNP
+Banten	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Kereta	NN
+ini	PR
+hanya	RB
+berhenti	VB
+di:	X
+Stasiun	NNP
+Kebumen	NNP
+,	Z
+Stasiun	NNP
+Karanganyar	NNP
+,	Z
+Stasiun	NNP
+Gombong	NNP
+,	Z
+Stasiun	NNP
+Sumpiuh	NNP
+,	Z
+Stasiun	NNP
+Kroya	NNP
+,	Z
+Stasiun	NNP
+Kebasen	NNP
+,	Z
+Stasiun	NNP
+Purwokerto	NNP
+,	Z
+Stasiun	NNP
+Bumiayu	NNP
+,	Z
+Stasiun	NNP
+Prupuk	NNP
+,	Z
+Stasiun	NNP
+Ciledug	NNP
+,	Z
+Stasiun	NNP
+Cirebon	NNP
+Prujakan	NNP
+,	Z
+Stasiun	NNP
+Jatibarang	NNP
+,	Z
+Stasiun	NNP
+Haurgeulis	NNP
+,	Z
+Stasiun	NNP
+Cikampek	NNP
+Stasiun	NNP
+Jatinegara	NNP
+,	Z
+dan	CC
+stasiun	NN
+Pasar	NNP
+Senen	NNP
+Berangkat	NNP
+pada	IN
+pagi	NN
+hari	NN
+dari	IN
+Stasiun	NNP
+Pasar	NNP
+Senen	NNP
+sampai	SC,IN 
+di	IN
+Stasiun	NNP
+Kutoarjo	NNP
+sore	NN
+hari	NN
+nya	PRP
+.	Z
+
+#
+
+Permainan	NN
+“Deketin	X
+Muke	NNP
+LOE”	NNP
+yang	SC
+dimainkan	VB
+adalah	VB
+Blow	NNP
+It	NNP
+dan	CC
+Phobia	NNP
+Face	NNP
+Down	NNP
+.	Z
+
+Peserta	NN
+harus	MD
+menyelesaikan	VB
+kedua	CD 
+tantangan	NN
+tersebut	PR,VB 
+dan	CC
+akan	IN,MD 
+dihitung	VB
+dengan	SC,IN 
+waktu	NN
+,	Z
+yang	SC
+tercepat	JJ
+akan	IN,MD 
+menjadi	VB
+pemenang	NN
+.	Z
+
+#
+
+Asal mula	NN
+Perang	NNP
+Kalingga	NNP
+(265	CD
+SM	NNP
+atau	CC
+263	CD
+SM)	NNP
+tidak	NEG
+jelas	JJ
+.	Z
+
+#
+
+Adalah	VB
+sebuah	X
+kemungkinan	NN
+untuk	SC 
+membayangkan	VB
+ruang	NN
+-	SYM,Z 
+waktu	NN
+yang	SC
+terputus	JJ
+,	Z
+masing-masing	PRP 
+sudah	MD
+ada	JJ
+tapi	CC
+tidak dapat	RB
+berinteraksi	VB
+satu	CD
+sama	JJ
+lain	JJ
+.	Z
+
+#
+
+Tumbuhan	NN
+ini	PR
+masih	MD
+berkerabat	VB
+dengan	IN 
+peria	NN
+.	Z
+
+#
+
+Kampung	NN
+Manggis	NNP
+adalah	VB
+salah satu	JJ
+kelurahan	NN
+di	IN
+Kecamatan	NNP
+Padangpanjang	NNP
+Barat	NNP
+,	Z
+Kota	NNP
+Padangpanjang	NNP
+,	Z
+Sumatera	NNP
+Barat	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Namun	CC
+demikian	PR
+,	Z
+pada	IN
+akhir-akhir	X
+ini	PR
+budaya	NN
+gotong royong	VB
+hampir	RB
+terkikis	VB
+dengan	SC 
+masuk	VB
+nya	PRP
+budaya-budaya	NN
+dari	IN
+luar	JJ,NN 
+desa	NN
+Padaherang	NNP
+dan	CC
+kemajuan teknologi	NN
+.	Z
+
+#
+
+Dia	PRP
+mendapat	VB
+dukungan	NN
+komite	NN
+pemilu	NN
+Civic	NNP
+Center	NNP
+Aliansi	NNP
+,	Z
+terkait	VB
+erat	VB
+tetapi	CC
+tidak	NEG
+identik	JJ
+dengan	SC,IN 
+partai politik	NN
+Pusat	NNP
+Persetujuan	NNP
+(Porozumienie	X
+Centrum)	NNP
+yang	SC
+dipimpin	VB
+oleh	IN
+saudara	NN
+nya	PRP
+.	Z
+
+#
+
+Centrin	NNP
+TV	NNP
+satelit	NN
+(menggunakan	X
+merek dagang	NN
+Centrin	NNP
+TV)	NNP
+adalah	VB
+stasiun televisi	NN
+satelit	NN
+berlangganan	VB
+di	IN
+Indonesia	NNP
+yang	SC
+dioperasikan	VB
+oleh	IN
+PT	NNP
+Central	NNP
+Tivi	NNP
+Digital	NNP
+.	Z
+
+#
+
+Sebelum	SC
+memulai	VB
+pertempuran	NN
+,	Z
+kedua	CD 
+pasukan	NN
+itu	PR
+berbaris	VB
+,	Z
+dengan	SC 
+membelakangi	VB
+kemah	X
+mereka	PRP
+.	Z
+
+#
+
+Hakekat	NN
+belajar	NN
+demikian	PR
+membuat	VB
+banyak	CD
+pendidik	NN
+mengubah	VB
+perspektif	NN
+,	Z
+praktik	NN
+,	Z
+dan	CC
+penilaian	NN
+mereka	PRP
+terhadap	IN
+tampilan	NN
+siswa	NN
+ke	IN
+arah	NN
+khusus	JJ
+yang	SC
+memengaruhi	X
+siswa	NN
+dengan	IN 
+drastis	JJ
+.	Z
+
+#
+
+Semua	CD
+perundangan	NN
+ditulis	VB
+dalam	IN 
+bahasa	NN
+Walio	NNP
+menggunakan	VB
+huruf	NN
+Arab	NNP
+,	Z
+yang	SC
+dinamakan	VB
+Buru	NNP
+Wolio	NNP
+seperti	SC,IN 
+kerajaan-kerajaan	NN
+Melayu	NNP
+menggunakan	VB
+bahasa	NN
+Melayu	NNP
+tulisan	NN
+Melayu	NNP
+/	SYM,Z 
+Jawi	NNP
+.	Z
+
+Huruf	NN
+dan	CC
+bahasa	NN
+tersebut	PR,VB 
+selain	CC 
+digunakan	VB
+untuk	SC,IN 
+perundangan	NN
+,	Z
+juga	RB
+digunakan	VB
+dalam	IN 
+penulisan	NN
+salasilah	X
+kesultanan	X
+,	Z
+naskhah-naskhah	NN
+dan	CC
+lain-lain	JJ
+.	Z
+
+#
+
+Akan	VB
+kah	RP
+kebahagian	X
+mereka	PRP
+terwujud	VB
+?	Z
+
+#
+
+Pagi	NN
+berikut	VB
+nya	PRP
+,	Z
+Love	NNP
+bangun	VB
+dan	CC
+menemukan	VB
+Cobain	NNP
+sudah	MD
+overdose	X
+dengan	SC,IN 
+paduan	NN
+dari	IN
+champagne	X
+dan	CC
+Rohypnol	NNP
+.	Z
+
+#
+
+Manganya	NNP
+telah	MD
+diterbitkan	VB
+sebanyak	CD
+17	CD
+volume	NN
+di	IN
+Jepang	NNP
+,	Z
+enam	CD
+di	IN
+Amerika	NNP
+dan	CC
+12	CD
+Indonesia	NNP
+.	Z
+
+#
+
+Perone	NNP
+meninggalkan	VB
+QPR	NNP
+karena	SC,IN 
+kontrak	NN
+nya	PRP
+tidak	NEG
+diperpanjang	VB
+.	Z
+
+#
+
+Matrix	NNP
+Auto	NNP
+adalah	VB
+layanan	NN
+selular	JJ
+pasca	JJ
+bayar	VB
+yang	SC
+dapat	MD,VB 
+diisi	VB
+ulang	VB
+,	Z
+kombinasi	NN
+dari	IN
+manfaat	NN
+layanan	NN
+pasca	JJ
+bayar	VB
+dan	CC
+pra-bayar	JJ,VB 
+.	Z
+
+#
+
+Kaum	NN
+wanita	NN
+biasanya	RB
+langsung	JJ
+naik	VB
+ke	IN
+kaheli	X
+bokulu	X
+untuk	SC 
+meratapi	VB
+jenazah	NN
+.	Z
+
+#
+
+Teori	NN
+merupakan	VB
+sebuah	X
+relasi	NN
+dari	IN
+konsep-konsep	NN
+atau	CC
+secara	JJ
+lebih	RB
+jelas	JJ
+nya	PRP
+teori	NN
+merupakan	VB
+bagaimana	X
+konsep-konsep	NN
+berhubungan	VB
+.	Z
+
+#
+
+Walaupun	SC
+sangat	RB
+mencintai	VB
+Amerika	NNP
+Serikat	NNP
+,	Z
+Jennings	NNP
+baru	JJ,NN,MD 
+menjadi	VB
+warga negara	NN
+Amerika	NNP
+Serikat	NNP
+sejak	SC,IN 
+tahun	NN
+2003	CD
+.	Z
+
+#
+
+Ia	PRP
+mengaku	VB
+sebagai	IN
+Rachel	NNP
+Solando	NNP
+(Clarkson)	X
+yang	SC
+asli	JJ
+.	Z
+
+#
+
+Telah	MD
+dinyatakan	VB
+sebagai	IN
+monumen	NN
+alami	JJ,VB 
+sejak	SC,IN 
+bulan	NN
+Juni	NNP
+2006	CD
+.	Z
+
+#
+
+Dalam	IN 
+sebuah	X
+pidato	NN
+di	IN
+South	NNP
+Carolina	NNP
+pada	IN
+tanggal	NN,VB 
+16	CD
+April	NNP
+1947	CD
+,	Z
+
+Baruch	NNP
+menyatakan	VB
+bahwa:	X
+
+"	Z
+Janganlah	NNP
+kita	PRP
+tertipu:	X
+hari	NN
+ini	PR
+kita	PRP
+ada	JJ
+di	IN
+tengah-tengah	NN
+perang dingin	NN
+.	Z
+
+"	Z
+
+#
+
+Fitur	NN
+ini	PR
+bisa	MD 
+digunakan	VB
+untuk	SC 
+membalas	VB
+twit	X
+yang	SC
+disampaikan	VB
+oleh	IN
+pengguna	NN
+lain	JJ
+serta	CC 
+digunakan	VB
+untuk	SC 
+menyampaikan	VB
+ulang	VB
+pesan	NN
+yang	SC
+terdapat	VB
+pada	IN
+halaman	NN
+kita	PRP
+.	Z
+
+#
+
+Kedua	CD 
+atap	NN
+menara	NN,VB 
+dibuat	VB
+pada	IN
+November	NNP
+2007	CD
+.	Z
+
+#
+
+"	Z
+C	NNP
+"	Z
+
+yakni	SC
+konsekuensi-konsekuensi	NN
+berupa	VB
+gejala	NN
+neurotik	X
+dan	CC
+emosi	NN
+negatif	JJ
+seperti	SC,IN 
+panik	JJ
+,	Z
+dendam	NN
+,	Z
+dan	CC
+amarah	NN
+karena	SC,IN 
+depresi	NN
+yang	SC
+bersumber	VB
+dari	IN
+keyakinan	NN
+yang	SC
+keliru	VB
+.	Z
+
+#
+
+Di	IN
+rumah	NN
+pada	IN
+waktu	NN
+senggang	X
+,	Z
+ia	PRP
+mencoba	VB
+mengarang	VB
+lagu	NN
+anak-anak	NN
+sambil	SC 
+memetik	VB
+gitar	NN
+milik	VB
+nya	PRP
+.	Z
+
+#
+
+Dari	IN
+segi	NN
+fasilitas	NN
+,	Z
+SMK	NNP
+Negeri	NNP
+2	CD
+Depok	NNP
+memiliki	VB
+gedung sekolah	NN
+bagi	NN,IN,VB 
+setiap	CD
+jurusan	NN
+,	Z
+sarana	NN
+praktik	NN
+,	Z
+dua	CD
+lokasi	NN
+tempat parkir	NN
+(bagi	X
+guru	NN
+dan	CC
+bagi	NN,IN,VB 
+siswa),	X
+auditorium	X
+,	Z
+lab	X
+bahasa	NN
+,	Z
+kantin	X
+yang	SC
+dinyatakan	VB
+sebagai	IN
+kantin	X
+terbaik	JJ
+antara	X
+SMA	NNP
+/	SYM,Z 
+SMK	NNP
+di	IN
+kabupaten	NN
+Sleman	NNP
+,	Z
+masjid	NN
+,	Z
+ruang	NN
+sidang	NN
+,	Z
+gedung-gedung	NN
+dan	CC
+ruangan	NN
+untuk	SC,IN 
+berbagai	CD
+subsekbid	X
+(organisasi-organisasi	NN
+dibawah	VB
+OSIS	NNP
+SMK	NNP
+Negeri	NNP
+2	CD
+Depok	NNP
+,	Z
+yaitu;	X
+KTYME	NNP
+-	SYM,Z 
+K	NNP
+(YOC),	X
+KTYME	NNP
+-	SYM,Z 
+I	NNP
+KBPL	NNP
+,	Z
+KBBP	NNP
+,	Z
+BPPK	NNP
+,	Z
+PAKS	NNP
+,	Z
+dan	CC
+KJDK)	NNP
+dan	CC
+lapangan	NN
+sepak bola	NN
+,	Z
+voli	NN
+,	Z
+basket	X
+.	Z
+
+#
+
+Sebagai	IN
+manga	X
+diterbitkan	VB
+di	IN
+Jepang	NNP
+pada	IN
+tahun	NN
+1999	CD
+,	Z
+
+sedangkan	CC
+anime	X
+-	SYM,Z 
+nya	X
+diproduksi	VB
+Nippon	NNP
+Animation	NNP
+(perusahaan	X
+animator	X
+Dogtanian	NNP
+dan	CC
+Three	NNP
+Muskehounds	NNP
+fame).	X
+
+#
+
+Bagaimana	NNP
+kisah	NN
+selanjutnya	RB
+?	Z
+
+#
+
+Dikenal	VB
+karena	SC,IN 
+kemampuan	NN
+nya	PRP
+yang	SC
+mengacau	VB
+permainan	NN
+bek	NN
+,	Z
+watak	NN
+nya	PRP
+agresif	JJ
+,	Z
+saat	SC,NN 
+diarahkan	VB
+dalam	IN 
+arah	NN
+yang	SC
+benar	JJ
+,	Z
+dapat	MD,VB 
+dijadikan	VB
+sebagai	IN
+penggerak	NN
+kawan-kawan	NN
+setim	JJ
+nya	PRP
+.	Z
+
+#
+
+Sektor	NN
+pertanian	NN
+komoditi	NN
+unggulan	NN
+nya	PRP
+adalah	VB
+sub	X
+sektor	NN
+tanaman	NN
+perkebunan	NN
+dengan	SC,IN 
+komoditi	NN
+Kelapa sawit	NN
+,	Z
+kakao	X
+,	Z
+kopi	NN,VB 
+,	Z
+kelapa	NN
+,	Z
+dan	CC
+Nilam	NNP
+.	Z
+
+#
+
+Ia	PRP
+bermain	VB
+sebagai	IN
+penyerang	NN
+.	Z
+
+#
+
+Kota	NN
+ini	PR
+terletak	VB
+di	IN
+tepi	NN
+barat	NN
+Sungai	NNP
+Chao	NNP
+Phraya	NNP
+,	Z
+dekat	JJ
+Teluk	NNP
+Thailand	NNP
+.	Z
+
+#
+
+Keluarga	NN
+Anna	NNP
+dan	CC
+Adrian	NNP
+kembali	VB
+menghadapi	VB
+cobaan	NN
+di	IN
+bulan	NN
+suci	JJ
+Ramadhan	NNP
+ini	PR
+.	Z
+
+#
+
+Karena	SC 
+teralihkan	VB
+perhatian	NN
+nya	PRP
+,	Z
+Miki	NNP
+kehilangan	NN
+kendali	NN
+pesawat	NN
+dan	CC
+akhirnya	RB
+mendarat	VB
+darurat	JJ
+.	Z
+
+#
+
+Maka	SC
+setelah	SC
+berkordinasi	X
+dengan	SC,IN 
+berbagai	CD
+kyai	X
+,	Z
+akhirnya	RB
+muncul	VB
+kesepakatan	NN
+untuk	SC 
+membentuk	VB
+organisasi	NN
+yang	SC
+bernama	VB
+Nahdlatul	NNP
+Ulama	NNP
+(Kebangkitan	X
+Ulama)	NNP
+pada	IN
+16	CD
+Rajab	NNP
+1344	CD
+H	NNP
+(31	CD
+Januari	NNP
+1926).	CD
+
+#
+
+Samarinda	NNP
+juga	RB
+mempunyai	VB
+produk	NN
+tekstil	NN
+yang	SC
+bernama	VB
+Sarung	NNP
+Samarinda	NNP
+dan	CC
+Batik	NNP
+Ampiek	NNP
+,	Z
+batik	X
+yang	SC
+bermotif	VB
+ukiran	NN
+Dayak	NNP
+.	Z
+
+#
+
+Mau	NN,RB,MD 
+tau	X
+rute	NN
+yang	SC
+dilalui	VB
+angkutan	NN
+di	IN
+jakarta	NN
+lewat	VB
+SMS	NNP
+?	Z
+
+#
+
+3	CD
+klub	NN
+teratas	JJ
+masuk	VB
+secara	JJ
+otomatis	JJ
+,	Z
+sedangkan	CC
+urutan	NN
+ke-4	OD 
+masuk	VB
+melalui	X
+babak	NN
+play-off	X
+.	Z
+
+#
+
+Ia	PRP
+bermain	VB
+sebagai	IN
+gelandang	NN
+.	Z
+
+#
+
+Sejak	SC 
+dibangun	VB
+1978	CD
+,	Z
+
+Bandar Udara	NN
+Ngloram	NNP
+dimiliki	VB
+PPT	NNP
+Migas	NNP
+.	Z
+
+#
+
+Karangmojo	NNP
+adalah	VB
+desa	NN
+di	IN
+kecamatan	NN
+Klego	NNP
+,	Z
+Boyolali	NNP
+,	Z
+Jawa	NNP
+Tengah	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Jubah	NN
+kepausan	NN
+direnggut	VB
+dari	IN
+mayat	NN
+nya	PRP
+,	Z
+tiga	CD
+jari	NN
+dari	IN
+tangan	NN
+kanan	JJ
+nya	PRP
+yang	SC
+digunakan	VB
+Paus	NNP
+untuk	SC,IN 
+menahbiskan	X
+dipotong	VB
+,	Z
+dan	CC
+jenazah	NN
+nya	PRP
+dilemparkan	VB
+ke sungai	NN
+Tiber	NNP
+(dan	X
+belakangan	NN
+diselamatkan	VB
+oleh	IN
+seorang	JJ
+biarawan).	X
+
+#
+
+Koran	NN
+anarkis	X
+Perancis	NNP
+,	Z
+Le	NNP
+Drapeau	NNP
+Noir	NNP
+(	Z
+"	Z
+The	NNP
+Black	NNP
+Flag	NNP
+"	Z
+),	X
+yang	SC
+bertahan	VB
+sampai	SC,IN 
+tahun	NN
+1882	CD
+,	Z
+
+merupakan	VB
+salah satu	JJ
+acuan	NN
+dari	IN
+penggunaan	NN
+warna	NN
+hitam	JJ
+sebagi	X
+warna	NN
+anarkis	X
+.	Z
+
+#
+
+Persaingan	NN
+antara	X
+keduanya	CD
+berakhir	VB
+dengan	SC 
+muncul	VB
+nya	PRP
+era	X
+USB	NNP
+.	Z
+
+Zip	NNP
+drive	X
+tersedia	JJ,VB 
+dalam	IN 
+beberapa	CD
+antarmuka	NN
+(interface)	X
+termasuk	X
+Paralel	NNP
+port	X
+Zip	NNP
+drive	X
+eksternal	JJ
+sebenarnya	RB
+adalah	VB
+drive	X
+SCSI	NNP
+yang	SC
+terpadu	VB
+dengan	SC,IN 
+paralel	X
+-	SYM,Z 
+ke -	PR,PRP 
+SCSI	NNP
+controller	X
+,	Z
+arti	NN,VB 
+nya	PRP
+pelaksanaan	NN
+SCSI	NNP
+bus	NN
+secara	JJ
+benar	JJ
+tetapi	CC
+tanpa	SC,IN 
+penyangga	NN
+sirkuit	NN
+listrik	NN
+yang	SC
+diperlukan	VB
+untuk	SC 
+menghubungkan	VB
+perangkat	NN
+eksternal	JJ
+lain	JJ
+nya	PRP
+.	Z
+
+#
+
+Walau	SC
+air mata	NN
+rasanya	RB
+tak	NEG
+ingin	RB
+berhenti	VB
+mengalir	VB
+,	Z
+tapi	CC
+Delisa	NNP
+mencoba	VB
+memahami	VB
+apa	SC 
+itu	PR
+ikhlas	JJ
+,	Z
+mengerjakan	VB
+sesuatu	PRP
+tanpa	SC 
+mengharap	VB
+balasan	NN
+.	Z
+
+#
+
+Namun	CC
+,	Z
+Taejong	NNP
+menyimpan	VB
+reformasi	NN
+Jeong	NNP
+Dojeondengan	NNP
+utuh	JJ
+hampir	RB
+diseluruh	X
+bagian	NN
+.	Z
+
+#
+
+Musim	NN
+kemarau	JJ
+adalah	VB
+pasangan	NN
+dari	IN
+musim	NN
+penghujan	NN
+dalam	IN 
+wilayah	NN
+dwimusim	X
+.	Z
+
+#
+
+Kamonji	NNP
+B	NNP
+adalah	VB
+desa	NN
+di	IN
+kecamatan	NN
+Balaesang	NNP
+,	Z
+Donggala	NNP
+,	Z
+Sulawesi	NNP
+Tengah	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Di	IN
+tengah	MD,NN 
+Kota	NNP
+Tulungagung	NNP
+,	Z
+terdapat	VB
+Kali	NNP
+Ngrowo	NNP
+yang	SC
+merupakan	VB
+anak	NN
+Kali	NNP
+Brantas	NNP
+dan	CC
+seolah	X
+membagi	VB
+Kota	NNP
+Tulungagung	NNP
+menjadi	VB
+dua	CD
+bagian:	X
+utara	NN
+dan	CC
+selatan	NN
+.	Z
+
+#
+
+Dengar	VB
+kah	RP
+kau	PRP
+?	Z
+
+#
+
+Dia	PRP
+juga	RB
+menjabat	VB
+sebagai	IN
+tokoh	NN
+penting	JJ
+dalam	IN 
+gerakan	NN,VB 
+kemerdekaan	NN
+India	NNP
+.	Z
+
+#
+
+Dilancarkan	VB
+oleh	IN
+Perdana Menteri	NN
+Israel	NNP
+Golda	NNP
+Meir	NNP
+pada	IN
+tahun	NN
+1972	CD
+,	Z
+
+operasi	NN
+ini	PR
+mungkin	MD
+berlanjut	VB
+selama	JJ
+lebih	RB
+dari	IN
+20	CD
+tahun	NN
+.	Z
+
+#
+
+Bagaimana	NNP
+persahabatan	NN
+nya	PRP
+dengan	IN 
+Aldo	NNP
+?	Z
+
+#
+
+Pimpinan	NN
+Gereja	NNP
+Advent	NNP
+di	IN
+Jerman	NNP
+dan	CC
+Austria	NNP
+pada	IN
+tahun	NN
+2005	CD
+menyesalkan	VB
+kegagalan	NN
+yang	SC
+terjadi	VB
+pada	IN
+saat	SC,NN 
+Perang	NNP
+Dunia	NNP
+II	NNP
+.	Z
+
+#
+
+Johanna	NNP
+termasuk	X
+di	IN
+antara	X
+71	CD
+pemuda	NN
+yang	SC
+hadir	VB
+dalam	IN 
+Kongres	NNP
+Pemuda	NNP
+Kedua	NNP
+,	Z
+Oktober	NNP
+1928	CD
+dan	CC
+turut	VB
+serta	CC 
+mengikrarkan	VB
+Sumpah	NNP
+Pemuda	NNP
+yang	SC
+berlangsung	VB
+di	IN
+sebuah	X
+gedung	NN
+yang	SC
+terletak	VB
+di	IN
+Jalan	NNP
+Kramat	NNP
+Raya	NNP
+no	X
+.	Z
+
+#
+
+Lebih	RB
+dari	IN
+110.000	CD
+orang	NN 
+ditahan	VB
+di	IN
+10	CD
+kamp konsentrasi	NN
+yang	SC
+terletak	VB
+jauh	JJ
+di	IN
+pedalaman	X
+dan	CC
+jauh	JJ
+dari	IN
+pantai	NN
+.	Z
+
+#
+
+Peserta	NN
+kelompok	NN
+IPA	NNP
+mengerjakan	VB
+Tes	NNP
+Bidang Studi	NN
+IPA	NNP
+yang	SC
+mencangkup	X
+Matematika	NNP
+(IPA),	X
+Fisika	NNP
+,	Z
+Kimia	NNP
+,	Z
+dan	CC
+Biologi	NNP
+.	Z
+
+#
+
+Buku	NN 
+ini	PR
+terkenal	VB
+dengan	SC,IN 
+gaya	NN
+penulisan	NN
+nya	PRP
+yang	SC
+secara	JJ
+bebas	JJ
+mempergunakan	VB
+catatan kaki	NN
+untuk	SC 
+menyuarakan	VB
+komentar-komentar	NN
+sarkastis	X
+dari	IN
+salah satu	JJ
+tokoh	NN
+utama	JJ
+nya	PRP
+,	Z
+Bartimaeus	NNP
+.	Z
+
+#
+
+Bagaimana	NNP
+manusia	NN
+sebagai	IN
+individu	NN
+dapat	MD,VB 
+masuk	VB
+ke	IN
+dalam	NN 
+suatu	CD
+hubungan	NN
+dengan	IN 
+Allah	NNP
+?	Z
+
+#
+
+Wachter	NNP
+juga	RB
+memiliki	VB
+sebuah	X
+tato	X
+rusa	X
+pada	IN
+bagian	NN
+kaki	NN 
+kiri	JJ
+nya	PRP
+.	Z
+
+#
+
+Pada	IN
+hari	NN
+kedua	OD 
+,	Z
+peserta	NN
+mengerjakan	VB
+kelompok	NN
+soal	NN
+yang	SC
+berbeda	VB
+sesuai	JJ
+dengan	IN 
+pendaftaran	NN
+.	Z
+
+#
+
+Yaksa	NNP
+heran	VB
+karena	SC,IN 
+Nakula	NNP
+adalah	VB
+adik	NN
+tiri	JJ
+,	Z
+bukan	NEG
+adik	NN
+kandung	VB
+.	Z
+
+#
+
+Jika	SC
+Tuhan	NNP
+itu	PR
+fana	X
+
+'	Z
+atau	CC
+mati	JJ,VB 
+,	Z
+bagaimana	X
+nasib	NN
+ciptaan-Nya	NN
+seperti	IN 
+manusia	NN
+?	Z
+
+#
+
+Bandar Udara	NN
+Internasional	NNP
+Astana	NNP
+adalah	VB
+bandar udara	NN
+internasional	JJ
+Astana	NNP
+,	Z
+Kazakhstan	NNP
+dengan	SC,IN 
+kode	NN
+IATA	NNP
+TSE	NNP
+,	Z
+terletak	VB
+14	CD
+km	NND
+di	IN
+luar	JJ,NN 
+kota	NN
+Astana	NNP
+.	Z
+
+#
+
+Arnaud	NNP
+Clement	NNP
+sedang	JJ,CC,MD 
+berjuang	VB
+menyisihkan	VB
+peserta	NN
+asal	NN
+Jerman	NNP
+Michael	NNP
+Berrer	NNP
+.	Z
+
+#
+
+Beberapa	CD
+tempat	NN
+di	IN
+Kreta	NNP
+menunjukkan	VB
+
+"	Z
+wawasan	NN
+keluar	VB
+"	Z
+
+bangsa	NN
+ini	PR
+.	Z
+
+#
+
+Universitas	NN
+Sjakhyakirti	NNP
+,	Z
+adalah	VB
+perguruan tinggi	NN
+swasta	JJ
+di	IN
+Palembang	NNP
+,	Z
+Indonesia	NNP
+,	Z
+yang	SC
+berdiri	VB
+pada	IN
+tahun	NN
+1980	CD
+.	Z
+
+#
+
+Di	IN
+Jepang	NNP
+umum	JJ
+nya	PRP
+terdapat	VB
+tiga	CD
+jenis	NN 
+kue	X
+keju	NN
+yang	SC
+dikenal	VB
+,	Z
+yaitu	SC
+cheesecake	X
+panggang	VB
+,	Z
+cheesecake	X
+yang	SC
+tidak	NEG
+dipanggang	VB
+dan	CC
+kue	X
+souffle	X
+keju	NN
+.	Z
+
+#
+
+Sesampainya	SC
+Sawerigading	NNP
+,	Z
+ia	PRP
+mendapati	VB
+bahwa	SC
+Nili	NNP
+Nayo	NNP
+adalah	VB
+bersaudara	VB
+dengan	SC,IN 
+I	NNP
+La	NNP
+Galigo	NNP
+,	Z
+karena	SC,IN 
+Raja	NNP
+Sigi	NNP
+dan	CC
+Ganti	NNP
+adalah	VB
+sekeluarga	JJ
+.	Z
+
+#
+
+Time	NNP
+Force	NNP
+adalah	VB
+serial	X
+Power	NNP
+Rangers	NNP
+yang	SC
+ke-7	OD,CD 
+dari	IN
+serangkaian	X
+serial	X
+Power	NNP
+Rangers	NNP
+.	Z
+
+#
+
+Dalam	IN 
+rilisan	NN
+Indonesianya	NNP
+,	Z
+SAME	NNP
+SAME	NNP
+berduet	X
+dengan	IN 
+Audy	NNP
+.	Z
+
+Dave	NNP
+kembali	VB
+mendirikan	VB
+sebuah	X
+band	X
+pada	IN
+akhir	NN
+tahun	NN
+2007	CD
+.	Z
+
+#
+
+Vincent	NNP
+Enyeama	NNP
+()	X
+merupakan	VB
+seorang	JJ
+pemain	NN
+sepak bola	NN
+Nigeria	NNP
+yang	SC
+berposisi	VB
+sebagai	IN
+penjaga gawang	NN
+.	Z
+
+#
+
+Dita	VB
+nya	PRP
+mengenainya	X
+Minogue	NNP
+menjawab	VB
+,	Z
+``Saya	X
+pikir	VB
+BB	NNP
+adalah	VB
+seorang	JJ
+simbol	NN
+sex	X
+,	Z
+bukan	NEG
+?	Z
+
+#
+
+Lagu	NN
+
+"	Z
+뭘봐	X
+(Close	X
+Your	NNP
+Mouth	NNP
+Song)	NNP
+"	Z
+
+dirilis	VB
+pada	IN
+22	CD
+Juni	NNP
+2011	CD
+secara	JJ
+digital	NN
+di	IN
+Korea	NNP
+Selatan	NNP
+.	Z
+
+#
+
+Ia	PRP
+menjadi	VB
+Gubernur	NNP
+Bali	NNP
+menggantikan	VB
+Anak	NNP
+Agung	NNP
+Bagus	NNP
+Sutedja	NNP
+.	Z
+
+#
+
+Dia	PRP
+membuat	VB
+penampilan	NN
+terakhir	JJ
+nya	PRP
+untuk	SC,IN 
+klub	NN
+pada	IN
+tanggal	NN,VB 
+28	CD
+November	NNP
+,	Z
+dalam	IN 
+kekalahan	NN
+2	CD
+-	SYM,Z 
+0	CD
+untuk	IN 
+Ipatinga	NNP
+.	Z
+
+#
+
+Pada	IN
+tahun	NN
+2011	CD
+,	Z
+
+Human	NNP
+Rights	NNP
+Watch	NNP
+melaporkan	VB
+Pemerintah	NNP
+India	NNP
+telah	MD
+
+"	Z
+belum	NEG
+mengadili	VB
+mereka	PRP
+yang	SC
+bertanggung jawab	VB
+atas	IN 
+pembunuhan	NN
+massal	NN
+"	Z
+.	Z
+
+#
+
+Andi	VB
+Meriem	NNP
+pernah	MD
+meni	VB
+kah	RP
+dengan	SC,IN 
+Bambang	NNP
+Hertasning	NNP
+,	Z
+memiliki	VB
+seorang	JJ
+anak	NN
+bernama	VB
+Dania	NNP
+,	Z
+dan	CC
+kemudian	CC,NN 
+meni	VB
+kah	RP
+untuk	SC,IN 
+kedua	OD,CD 
+kali	NN,VB 
+nya	PRP
+dengan	SC,IN 
+Hendra	NNP
+Pribadi	NNP
+.	Z
+
+#
+
+Menurut	NNP
+tradisi	NN
+,	Z
+bangsa	NN
+Saxon	NNP
+(beserta	X
+suku-suku	NN
+lainnya)	X
+pertama	OD
+kali	NN,VB 
+memasuki	VB
+Britania	NNP
+secara	JJ
+bersama	VB
+-	SYM,Z 
+sama	JJ
+sebagai	IN
+bagian	NN
+dari	IN
+kesepakatan	NN
+untuk	SC 
+melindungi	VB
+suku	NN
+Briton	NNP
+dari	IN
+gangguan	NN
+suku	NN
+Pikt	NNP
+,	Z
+suku	NN
+Gael	NNP
+,	Z
+dan	CC
+sejumlah	CD
+suku	NN
+lain	JJ
+nya	PRP
+.	Z
+
+#
+
+Balun	NNP
+Ijuk	NNP
+merupakan	VB
+desa	NN
+yang	SC
+sangat	RB
+berbeda	VB
+dengan	SC,IN 
+desa	NN
+lain	JJ
+yang	SC
+ada	JJ
+di	IN
+Pulau	NNP
+Bangka	NNP
+yang	SC
+terkenal	VB
+dengan	SC,IN 
+tambang	NN
+timah	NN
+nya	PRP
+.	Z
+
+#
+
+Mahkota	NNP
+lambang	NN
+ini	PR
+adalah	VB
+Dharmacakra	NNP
+,	Z
+yang	SC
+melambangkan	VB
+Buddhisme	NNP
+dan	CC
+keadilan	NN
+menempati	VB
+posisi utama	NN
+di	IN
+negara	NN
+ini	PR
+.	Z
+
+#
+
+Pagaran	NN
+Tonga	NNP
+merupakan	VB
+salah satu	JJ
+desa	NN
+yang	SC
+ada	JJ
+di	IN
+kecamatan	NN
+Padang	NNP
+Bolak	NNP
+,	Z
+kabupaten	NN
+Padang	NNP
+Lawas	NNP
+Utara	NNP
+,	Z
+provinsi	NN
+Sumatera	NNP
+Utara	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Seni	NN,VB 
+Pantun	NNP
+disajikan	VB
+masyarakat	NN
+Sunda	NNP
+dalam	IN 
+dua	CD
+bentuk	NN 
+.	Z
+
+#
+
+Ia	PRP
+tetap	RB,JJ,VB 
+mengembangkan	VB
+bidang	NN 
+usaha	NN
+Jasa	NNP
+Konsultansi	NNP
+untuk	SC,IN 
+pekerjaan	NN
+mulai	VB
+Survei	NNP
+,	Z
+Perancangan	NNP
+dan	CC
+Perencanaan	NNP
+,	Z
+Manajemen Proyek	NN
+,	Z
+Manajemen	NNP
+Konstruksi	NNP
+,	Z
+Pengawasan	NNP
+/	SYM,Z 
+Perencanaan	NNP
+pada	IN
+Bidang	NNP
+Engineering	NNP
+maupun	CC
+Bidang	NNP
+Jasa	NNP
+Non	NNP
+Konstruksi	NNP
+.	Z
+
+#
+
+Xuanwu	NNP
+melakukan	VB
+hal	NN
+tersebut	PR,VB 
+dan	CC
+dengan	SC,IN 
+resmi	JJ
+mengambil	VB
+alih	VB
+masa	NN
+lah	RP
+pemerintahan	NN
+ke	IN
+tangan	NN
+nya	PRP
+.	Z
+
+#
+
+Dataran	NN
+tempat	NN
+jin	NN
+Adachigahara	NNP
+berkeliaran	VB
+konon	X
+terletak	VB
+di	IN
+dekat	JJ
+kota	NN
+Fukushima	NNP
+.	Z
+
+#
+
+Selain	CC 
+itu	PR
+,	Z
+apa	WH 
+yang	SC
+dapat	MD,VB 
+kita	PRP
+pelajari	VB
+dari	IN
+pria	NN
+yang	SC
+disebut	VB
+bapak	NN
+pendidikan	NN
+modern	JJ
+?	Z
+
+#
+
+Akan tetapi	NN
+,	Z
+pada	IN
+waktu	NN
+yang	SC
+sama	JJ
+,	Z
+Peter	NNP
+dari	IN
+Torres	NNP
+,	Z
+Giudice	NNP
+Cagliari	NNP
+dan	CC
+saudara	NN
+laki-laki	NN
+Konstantinus	NNP
+,	Z
+memberontak	VB
+melawan	VB
+warga	NN
+Pisa	NNP
+dan	CC
+mengusir	VB
+mereka	PRP
+,	Z
+bersekutu	VB
+dengan	SC,IN 
+Genoa	NNP
+melawan	VB
+mereka	PRP
+dan	CC
+melawan	VB
+Peter	NNP
+dari	IN
+Arborea	NNP
+.	Z
+
+#
+
+Apakah	NNP
+orang-orang	NN
+yang	SC
+telah	MD
+engkau	PRP
+tangkap	VB
+dengan	SC,IN 
+pedang	NN
+dan	CC
+panahmu	NN
+itu	PR
+harus	MD
+engkau	PRP
+bunuh	VB
+?	Z
+
+#
+
+Menurut	NNP
+Serber	NNP
+,	Z
+Oppenheimer	NNP
+memberitahukan	VB
+kepada	IN
+Arthur	NNP
+Compton	NNP
+,	Z
+yang	SC
+tidak	NEG
+bisa	MD,NN 
+diam	JJ,VB 
+.	Z
+
+#
+
+Dia	PRP
+memberi	VB
+Tangguh	NNP
+sebuah	X
+kalung	NN
+yang	SC
+dapat	MD,VB 
+merubah	VB
+nya	PRP
+menjadi	VB
+seorang	JJ
+superhero	X
+yang	SC
+bernama	VB
+Sembrani	NNP
+.	Z
+
+#
+
+Kemana	NNP
+impian	NN
+jiwa	NN
+muda	JJ
+ini	PR
+membawa	VB
+mereka	PRP
+?	Z
+
+#
+
+Glinda	NNP
+membawa	VB
+trio	X
+Oscar	NNP
+ke	IN
+tempat	NN
+tinggal	VB
+nya	PRP
+di	IN
+Oz	NNP
+untuk	SC 
+menghindari	VB
+pasukan	NN
+Winkie	NNP
+dan	CC
+babun	X
+terbang	VB
+yang	SC
+dikendalikan	VB
+Evanora	NNP
+.	Z
+
+#
+
+Limpasu	NNP
+adalah	VB
+sebuah	X
+kecamatan	NN
+di	IN
+Kabupaten	NNP
+Hulu Sungai	NN
+Tengah	NNP
+,	Z
+Kalimantan	NNP
+Selatan	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Selama	JJ
+berada	VB
+di	IN
+gunung	NN
+Nollo	NNP
+,	Z
+mereka	PRP
+diperintah	VB
+oleh	IN
+Raja	NNP
+LATUSOPACUA	NNP
+.	Z
+
+#
+
+Meskipun	SC
+M1	NNP
+Garand	NNP
+termasuk	X
+senapan	NN
+yang	SC
+sangat	RB
+modern	JJ
+pada	IN
+masa	NN
+nya	PRP
+,	Z
+M1	NNP
+masih	MD
+memiliki	VB
+kekurangan	NN
+.	Z
+
+#
+
+Bank	NN
+ini	PR
+dibentuk	VB
+melalui	X
+kombinasi	NN
+antara	X
+aktivitas	NN
+perbankan	NN
+investasi	NN
+Bank	NNP
+of	X
+America	NNP
+dan	CC
+Merrill	NNP
+Lynch	NNP
+setelah	SC
+diambil	VB
+alih	VB
+Bank	NNP
+of	X
+America	NNP
+pada	IN
+Januari	NNP
+2009	CD
+.	Z
+
+#
+
+Setiap	CD
+kata	NN
+yang	SC
+telah	MD
+dicatat	VB
+akan	IN,MD 
+disusun	VB
+menurut	X
+abjad	NN
+.	Z
+
+#
+
+Sementara	NNP
+jika	SC
+di	IN
+kota	NN
+tersebut	PR,VB 
+ada	JJ
+12	CD
+juta	CD
+penduduk	NN
+yang	SC
+menganggur	VB
+dari	IN
+18	CD
+juta	CD
+jiwa	NN
+yang	SC
+ada	JJ
+,	Z
+maka	SC
+pengangguran	NN
+tersebut	PR,VB 
+merupakan	VB
+isu	NN
+,	Z
+yang	SC
+pemecahan	NN
+nya	PRP
+menuntut	VB
+kajian	NN
+lebih	RB
+luas	JJ
+lagi	MD,RB 
+.	Z
+
+#
+
+Hingga	SC,IN 
+semua	CD
+penduduk	NN
+terkumpul	VB
+,	Z
+Allah	NNP
+menurunkan	VB
+petir	NN
+dengan	SC,IN 
+suara	NN
+nya	PRP
+yang	SC
+keras	JJ
+di	IN
+atas	NN 
+mereka	PRP
+.	Z
+
+#
+
+Myocastor	NNP
+coypus	X
+,	Z
+Octodon	NNP
+degus	X
+,	Z
+Lycalopex	NNP
+culpaeus	X
+,	Z
+Theristicus	NNP
+caudatus	X
+,	Z
+Diuca	NNP
+diuca	X
+,	Z
+Cyanoliseus	NNP
+patagonus	X
+,	Z
+Vanellus	NNP
+chilensis	X
+dan	CC
+Turdus	NNP
+adalah	VB
+beberapa	CD
+spesies	NN
+hewan	NN
+asli	JJ
+dari	IN
+zona	NN
+ini	PR
+.	Z
+
+#
+
+Setelah	SC
+kembali	VB
+ke	IN
+keraton	X
+,	Z
+sang	DT
+Pangeran	NNP
+jatuh	VB
+sakit	JJ,NN 
+dan	CC
+meninggal dunia	VB
+sehari	JJ
+kemudian	NN 
+.	Z
+
+#
+
+Puisi	NNP
+ini	PR
+terdiri	VB
+dalam	IN 
+sajak	X
+bersuku	VB
+lima	CD
+dan	CC
+selain	CC 
+menceritakan	VB
+kisah	NN
+asal	NN
+-	SYM,Z 
+usul	VB
+manusia	NN
+,	Z
+juga	RB
+berfungsi	VB
+sebagai	IN
+almanak	X
+praktis	JJ
+sehari-hari	JJ
+.	Z
+
+#
+
+Bagaimana	NNP
+dengan	SC,IN 
+ramalan	NN
+Florence	NNP
+tentang	VB
+akan	IN,MD 
+terjadi	VB
+nya	PRP
+pasang	NND,VB,NN 
+tertinggi	JJ
+tersebut	PR,VB 
+?	Z
+
+#
+
+Menurutnya	NNP
+,	Z
+Mpu	NNP
+Partha	NNP
+ini	PR
+lebih	RB
+tepat	JJ
+dianggap	VB
+sebagai	IN
+ayah	NN
+Dyah	NNP
+Kebi	NNP
+daripada	SC,IN 
+Dyah	NNP
+Wawa	NNP
+.	Z
+
+Selain	CC 
+itu	PR
+ditemukan	VB
+pula	RB
+nama	NN
+Rakryan	NNP
+Bawang	NNP
+Dyah	NNP
+Srawana	NNP
+yang	SC
+bisa	MD,NN 
+juga	RB
+merupakan	VB
+ayah	NN
+Dyah	NNP
+Kebi	NNP
+.	Z
+
+Istana	NN
+Kerajaan	NNP
+Medang	NNP
+pada	IN
+awal	NN
+berdiri	VB
+nya	PRP
+diperkirakan	VB
+terletak	VB
+di	IN
+daerah	NN
+Mataram	NNP
+(dekat	X
+Yogyakarta	NNP
+sekarang).	X
+
+#
+
+Parasit	NNP
+dapat	MD,VB 
+menyediakan	VB
+informasi	NN
+tentang	VB
+ekologi populasi	NN
+inang	X
+.	Z
+
+#
+
+[376]	CD
+musik	NN
+Rock	NNP
+mewarisi	VB
+tradisi	NN
+rakyat	NN
+dari	IN
+lagu	NN
+protes	NN
+,	Z
+membuat	VB
+pernyataan	NN
+politik	NN
+tentang	VB
+topik	NN
+,	Z
+seperti	SC,IN 
+perang	NN
+,	Z
+agama	NN
+,	Z
+kemiskinan	NN
+,	Z
+hak-hak	NN
+sipil	JJ
+,	Z
+keadilan	NN
+dan	CC
+lingkungan	NN
+[377]	CD
+aktivisme	X
+politik	NN
+.	Z
+
+#
+
+Love	NNP
+Indonesia	NNP
+menyediakan	VB
+filter	NN
+pencarian	NN
+untuk	SC,IN 
+Hotel	NNP
+yang	SC
+tersedia	JJ,VB 
+di	IN
+Jakarta	NNP
+dan	CC
+kota-kota	NN
+lain	JJ
+berdasarkan	VB
+nama	NN
+,	Z
+terdekat	JJ
+ke	IN
+pengguna	NN
+,	Z
+akreditasi	NN
+Hotel	NNP
+bintang	NN
+,	Z
+tipe	NN
+,	Z
+lokasi	NN
+dan	CC
+promosi	NN
+.	Z
+
+#
+
+Pres	NNP
+.	Z
+
+Manuel	NNP
+A	NNP
+.	Z
+
+Roxas	NNP
+adalah	VB
+munisipalitas	X
+di	IN
+provinsi	NN
+Zamboanga	NNP
+del	X
+Norte	NNP
+,	Z
+Filipina	NNP
+.	Z
+
+#
+
+Dalam	IN 
+Bagian	NNP
+I	NNP
+,	Z
+Naruto	NNP
+,	Z
+Sakura	NNP
+,	Z
+dan	CC
+Shikamaru	NNP
+telah	MD
+diberikan	VB
+tugas	NN
+Kelas	NNP
+A	NNP
+untuk	SC 
+mencegah	VB
+Sasuke	NNP
+dari	IN
+mengejar	VB
+Gaara	NNP
+ketika	SC
+terjadi	VB
+serangan	NN
+oleh	IN
+Otogakure	NNP
+dan	CC
+Sunagakure	NNP
+ke	IN
+Konohagakure	NNP
+.	Z
+
+#
+
+Taishi	NNP
+Ci	NNP
+setia	NN
+sampai	SC,IN 
+akhir	NN
+hayat	NN
+nya	PRP
+kepada	IN
+negara	NN
+Wu	NNP
+.	Z
+
+#
+
+Juru bicara	NN
+BMKG	NNP
+menyatakan	VB
+,	Z
+gempa Bumi	NN
+dirasakan	VB
+di	IN
+kota-kota	NN
+terdekat	JJ
+,	Z
+tapi	CC
+tidak	NEG
+ada	JJ
+kerusakan	NN
+maupun	CC
+korban	NN
+jiwa	NN
+yang	SC
+dilaporkan	VB
+.	Z
+
+#
+
+Dengan	SC,IN 
+penerangan	NN
+seada	JJ
+nya	PRP
+dari	IN
+korek api	NN
+yang	SC
+ia	PRP
+temukan	VB
+,	Z
+Paul	NNP
+sadar	JJ
+kalau	SC
+ia	PRP
+berada	VB
+di	IN
+sebuah	X
+ruangan	NN
+yang	SC
+sangat	RB
+sempit	JJ
+.	Z
+
+#
+
+Bentuk	NN 
+pameran	NN
+ini	VB
+lah	RP
+yang	SC
+dipilih	VB
+oleh	IN
+para	DT
+sponsor	NN
+dari	IN
+berbagai	CD
+negara	NN
+untuk	SC 
+menyelenggarakan	VB
+aneka	CD
+kegiatan	NN
+pekan raya	NN
+di	IN
+kota-kota	NN
+di	IN
+Inggris	NNP
+guna	NN,SC,IN 
+menampilkan	VB
+produk-produk	NN
+makanan	NN
+,	Z
+anggur	NN
+,	Z
+bahan-bahan	NN
+pakaian	NN
+,	Z
+barang	NN
+pecah	JJ,VB 
+-	SYM,Z 
+belah	NND,VB,NN 
+,	Z
+benda-benda	NN
+kaca	NN
+atau	CC
+souvenir	X
+.	Z
+
+#
+
+Padaherang	NNP
+adalah	VB
+desa	NN
+di	IN
+kecamatan	NN
+Padaherang	NNP
+,	Z
+Pangandaran	NNP
+,	Z
+Jawa	NNP
+Barat	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Akan tetapi	NN
+,	Z
+Gelimer	NNP
+menolak	VB
+.	Z
+
+#
+
+Mohamed	NNP
+Camara	NNP
+()	X
+adalah	VB
+seorang	JJ
+pemain	NN
+sepak bola	NN
+berkewarganegaraan	VB
+Guinea	NNP
+yang	SC
+bermain	VB
+untuk	SC,IN 
+klub	NN
+Troyes	NNP
+biasa	JJ
+bermain	VB
+pada	IN
+posisi	NN
+penyerang	NN
+.	Z
+
+#
+
+Mereka	PRP
+pertama	OD
+melejit	VB
+lewat	VB
+album	NN
+1987	CD
+Appetite	NNP
+for	X
+Destruction	NNP
+Dengan	NNP
+hits	X
+Sweet	NNP
+Child	NNP
+O	NNP
+
+'	Z
+Mine	NNP
+,	Z
+Paradise	NNP
+City	NNP
+,	Z
+dan	CC
+Welcome	NNP
+To	NNP
+The	NNP
+Jungle	NNP
+dan	CC
+kemudian	CC,NN 
+merilis	VB
+album	NN
+akustik	NN
+yang	SC
+di	IN
+beri	VB
+nama	NN
+GN	NNP
+'	Z
+
+R	NNP
+Lies	NNP
+dengan	SC,IN 
+hits	X
+manis	JJ
+Patience	NNP
+dan	CC
+kemudian	CC,NN 
+menerbitkan	VB
+dua	CD
+album	NN
+berbarengan	X
+Use	NNP
+Your	NNP
+Illusion	NNP
+I	NNP
+dan	CC
+Use	NNP
+Your	NNP
+Illusion	NNP
+II	NNP
+yang	SC
+juga	RB
+melejit	VB
+dan	CC
+meledak	VB
+dengan	SC,IN 
+beberapa	CD
+hits	X
+fenomenal	X
+seperti	IN 
+Don	NNP
+
+'	Z
+t	X
+Cry	NNP
+,	Z
+November	NNP
+Rain	NNP
+,	Z
+Civil	NNP
+War	NNP
+,	Z
+Knockin	NNP
+'	Z
+
+on	X
+Heaven	NNP
+'	Z
+s	NND
+Door	NNP
+,	Z
+dan	CC
+Estranged	NNP
+.	Z
+
+#
+
+Benar	JJ
+kah	RP
+?	Z
+
+#
+
+“Kuburan	X
+Keling”	NNP
+di	IN
+Minangkabau	NNP
+dalam	IN 
+bahaya	JJ,NN 
+kepunahan	NN
+karena	SC 
+dibongkar	VB
+oleh	IN
+akar-akar	NN
+pohon	NN
+karet	NN
+.	Z
+
+#
+
+Aku	VB
+selalu	RB
+bertanya	VB
+,	Z
+siapakah	X
+diriku	NN,VB 
+sebenarnya	RB
+di	IN
+dalam	NN 
+hari-harimu	NN
+,	Z
+Viola	NNP
+?	Z
+
+#
+
+Selain	CC 
+itu	PR
+Persib	NNP
+berhasil	JJ
+menjadi	VB
+tim	NN
+peringkat	NN
+kedua	OD 
+pada	IN
+tahun	NN
+1950	CD
+,	Z
+
+1959	CD
+,	Z
+
+1966	CD
+,	Z
+
+1983	CD
+,	Z
+
+dan	CC
+1985	CD
+.	Z
+
+#
+
+Peningkatan	NN
+volume	NN
+penumpang	NN
+harian	NN
+juga	RB
+mengindikasikan	VB
+kebutuhan	NN
+penambahan	NN
+armada	NN
+saat	SC,NN 
+ini	PR
+yang	SC
+ahnya	X
+20	CD
+unit	NN
+.	Z
+
+#
+
+Di	IN
+Belanda	NNP
+,	Z
+Zarina	NNP
+mempunyai	VB
+kesempatan	NN
+mendatangi	VB
+beberapa	CD
+tempat	NN
+menarik	JJ,VB 
+seperti	SC,IN 
+Amsterdam	NNP
+,	Z
+Pelabuhan	NNP
+Rotterdam	NNP
+,	Z
+dan	CC
+beberapa	CD
+daerah	NN
+yang	SC
+indah	JJ
+serta	IN 
+daerah pertanian	NN
+.	Z
+
+#
+
+Bars	NNP
+stools	X
+dibuat	VB
+sesuai	JJ
+dengan	SC,IN 
+keinginan	NN
+dan	CC
+selera	NN
+yang	SC
+pemilik	NN
+bar	X
+.	Z
+
+#
+
+Pendidikan	NN
+formalnya	X
+adalah	VB
+di	IN
+bidang	NN 
+kedokteran	NN
+.	Z
+
+#
+
+Selama	JJ
+5	CD
+hari	NN
+pembantaian	NN
+ini	PR
+,	Z
+8000	CD
+Muslim	NNP
+Bosnia	NNP
+telah	MD
+terbunuh	VB
+.	Z
+
+#
+
+Nikel	NN
+Raney	NNP
+yang	SC
+tersedia	JJ,VB 
+secara	JJ
+komersial	JJ
+memiliki	VB
+luas	JJ
+permukaan	NN
+rata-rata	JJ
+100	CD
+m²	X
+per	X
+gram	NND
+katalis	NN
+.	Z
+
+#
+
+Rodgers	NNP
+memiliki	VB
+nama panggilan	NN
+
+"	Z
+Buck	NNP
+Rodgers	NNP
+"	Z
+,	Z
+sesuai	JJ
+sebuah	X
+karakter	NN
+fiktif	X
+yang	SC
+bernama	VB
+sama	JJ
+.	Z
+
+#
+
+Peran	NN
+pemangku	NN
+agama	NN
+mulai	VB
+menyusut	VB
+pada	IN
+1950-an	CD
+dan	CC
+1960-an	CD
+karena	SC,IN 
+sebagian	CD
+kekuatan	NN
+hukum	NN,VB 
+dan	CC
+pendidikan	NN
+dan	CC
+tanggung jawab	NN
+dialihkan	VB
+kepada	IN
+otoritas	NN
+sekuler	JJ
+.	Z
+
+#
+
+Bulan	NN
+April	NNP
+sebelumnya	SC
+,	Z
+David	NNP
+Coulthard	NNP
+mengumumkan	VB
+pengunduran	NN
+diri	NN,VB 
+nya	PRP
+dari	IN
+tim	NN
+,	Z
+tetapi	CC
+ia	PRP
+masih	MD
+akan	IN,MD 
+tetap	RB,JJ,VB 
+tinggal	VB
+di	IN
+RBR	NNP
+sebagai	IN
+konsultan	NN
+.	Z
+
+#
+
+Kegiatan	NN
+ini	PR
+umum	JJ
+nya	PRP
+dilakukan	VB
+untuk	SC 
+beristirahat	VB
+dari	IN
+ramai	NN,VB 
+nya	PRP
+perkotaan	NN
+,	Z
+atau	CC
+dari	IN
+keramaian	NN
+secara	JJ
+umum	JJ
+,	Z
+untuk	SC 
+menikmati	VB
+keindahan	NN
+alam	NN
+.	Z
+
+#
+
+Gardu	NN
+adalah	VB
+salah satu	JJ
+desa	NN
+di	IN
+Kecamatan	NNP
+Arga	NNP
+Makmur	NNP
+,	Z
+Kabupaten	NNP
+Bengkulu	NNP
+Utara	NNP
+,	Z
+Bengkulu	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Grammatophyllum	NNP
+schmidtianum	X
+adalah	VB
+spesies	NN
+anggrek	NN
+dari	IN
+keluarga	NN
+Orchidaceae	NNP
+.	Z
+
+#
+
+Lalu	VB/CC 
+siapa	WH 
+yang	SC
+akan	IN,MD 
+memperhatikan	VB
+nasib	NN
+rakyat	NN
+kita	PRP
+?	Z
+
+#
+
+Namun	CC
+,	Z
+tidak	NEG
+ada	JJ
+bukti	NN
+yang	SC
+mendukung	VB
+fakta	NN
+tersebut	PR,VB 
+.	Z
+
+#
+
+Pada	IN
+29	CD
+Maret	NNP
+1941	CD
+,	Z
+
+frekuensi	NN
+dipindahkan	VB
+ke	IN
+1450	CD
+kHz	X
+.	Z
+
+#
+
+Mengapa	WH 
+begitu	SC,PR,RB 
+?	Z
+
+#
+
+Pencoklatan	NN
+juga	RB
+terjadi	VB
+karena	SC,IN 
+reaksi	NN
+antara	X
+protein	NN
+,	Z
+peptida	X
+,	Z
+dan	CC
+asam amino	NN
+dengan	SC,IN 
+hasil	NN
+dekomposisi	NN
+lemak	NN
+.	Z
+
+#
+
+Ciri	NN
+khas	JJ
+manta	X
+adalah	VB
+sepasang	X
+
+"	Z
+tanduk	X
+"	Z
+
+di	IN
+dekat	JJ
+mulut	NN
+nya	PRP
+.	Z
+
+#
+
+Di sini	PR,PRP 
+SMP	NNP
+Kristen	NNP
+Virgo	NNP
+Fidelis	NNP
+berada	VB
+di	IN
+kelurahan	NN
+ini	PR
+.	Z
+
+#
+
+Sesudah	NNP
+itu	PR
+aku	VB
+bertanya	VB
+kepadanya:	X
+Anak	NNP
+siapakah	X
+engkau	PRP
+?	Z
+
+#
+
+Menurut	NNP
+kisah	NN
+Islam	NNP
+,	Z
+hanya	RB
+saja	RB
+jin	NN
+yang	SC
+menyertai	X
+Muhammad	NNP
+telah	MD
+dikalahkan	VB
+olehnya	X
+.	Z
+
+#
+
+Pak	NNP
+Douw	NNP
+,	Z
+anda	PRP
+telah	MD
+berusaha	VB
+untuk	SC 
+maju	VB
+menjadi	VB
+Bupati	NNP
+,	Z
+bagaimana	X
+kalau	SC
+seandainya	SC
+nanti	VB
+anda	PRP
+gagal	JJ
+mendapatkan	VB
+dukungan	NN
+dan	CC
+tidak	NEG
+terpilih	VB
+di	IN
+PILKADA	NNP
+Nabire	NNP
+?	Z
+
+#
+
+Di	IN
+Surabaya	NNP
+,	Z
+ia	PRP
+bertemu	VB
+dengan	SC,IN 
+seorang	JJ
+pedagang	NN
+arloji	X
+asal	NN
+Jerman	NNP
+,	Z
+Johannes	NNP
+Emde	NNP
+,	Z
+yang	SC
+sangat	RB
+peduli	JJ
+dengan	SC,IN 
+penginjilan	NN
+di	IN
+kalangan	NN
+orang	NN 
+Jawa	NNP
+.	Z
+
+Kam	NNP
+turut	VB
+berjasa	VB
+menanamkan	VB
+kesadaran	NN
+akan	IN,MD 
+panginjilan	X
+di	IN
+dalam	NN 
+diri	NN,VB 
+Emde	NNP
+.	Z
+
+Selain	CC 
+itu	PR
+,	Z
+Kam	NNP
+juga	RB
+membentuk	VB
+komunitas	NN
+kecil	JJ
+Orang-orang	NNP
+Saleh	NNP
+Surabaya	NNP
+,	Z
+yang	SC
+giat	NN
+dalam	IN 
+penginjilan	NN
+.	Z
+
+#
+
+Lalu	VB/CC 
+apa	WH 
+yang	SC
+menentukan	VB
+suatu	CD
+campuran	NN
+akan	IN,MD 
+menghasilkan	VB
+efek	NN
+kacang	NN
+Brasil	NNP
+atau	CC
+kebalikan	NN
+nya	PRP
+?	Z
+
+#
+
+Saat	SC,NN 
+Raga	NNP
+menceritakan	VB
+kisah	NN
+nya	PRP
+,	Z
+Al	NNP
+semakin	RB
+terpukul	VB
+.	Z
+
+#
+
+Oz	NNP
+Casino	NNP
+juga	RB
+memiliki	VB
+
+"	Z
+Emerald	NNP
+City	NNP
+Gift	NNP
+Shop	NNP
+"	Z
+
+dan	CC
+
+"	Z
+Oz	NNP
+Buffet	NNP
+"	Z
+.	Z
+
+#
+
+Bintang	NN
+ini	PR
+berada	VB
+pada	IN
+jarak	JJ
+528	CD
+tahun cahaya	NN
+dari	IN
+Bumi	NNP
+.	Z
+
+Bintang	NN
+ini	PR
+bermagnitudo	VB
+5.16	CD
+.	Z
+
+#
+
+Dalam	IN 
+kelompok	NN
+kedua	OD 
+(Thallo	X
+,	Z
+Auxo	NNP
+,	Z
+dan	CC
+Karpo),	NNP
+mereka	PRP
+dikatakan	VB
+berasal	VB
+dari	IN
+Afrodit	NNP
+dan	CC
+merupakan	VB
+lambang	NN
+dari	IN
+kehidupan	NN
+dan	CC
+pertumbuhan	NN
+.	Z
+
+#
+
+Kali	NN,VB 
+Anget	NNP
+sebenarnya	RB
+sangat	RB
+potensial	NN
+untuk	SC 
+dijadikan	VB
+sebagai	IN
+salah satu	JJ
+tujuan	NN
+wisata	NN
+Gunungwuled	NNP
+.	Z
+
+#
+
+Ukuran	NN
+partikel	NN
+juga	RB
+menentukan	VB
+besar	JJ
+nya	PRP
+ruang	NN
+antar	VB
+bahan	NN
+(porositas).	X
+
+#
+
+Nama	NN
+panjang	JJ
+nya	PRP
+adalah	VB
+Muadz	NNP
+bin	X
+Jabal	NNP
+bin	X
+Amr	NNP
+bin	X
+Aus	NNP
+al	X
+-	SYM,Z 
+Khazraji	NNP
+,	Z
+sedangkan	CC
+nama	NN
+julukan	NN
+nya	PRP
+adalah	VB
+“Abu	X
+Abdurahman”.	NNP
+Ia	NNP
+dilahirkan	VB
+di	IN
+Madinah	NNP
+dan	CC
+memeluk	VB
+Islam	NNP
+pada	IN
+usia	NN
+18	CD
+tahun	NN
+.	Z
+
+#
+
+John	NNP
+Hick	NNP
+adalah	VB
+salah satu	JJ
+tokoh	NN
+yang	SC
+menggunakan	VB
+pandangan	NN
+ini	PR
+.	Z
+
+#
+
+Selain	CC 
+para	DT
+tentara	NN
+utama	JJ
+,	Z
+Pasukan	NNP
+Akhemeniyah	NNP
+juga	RB
+memiliki	VB
+satuan	NN
+tambahan	NN
+berupa	VB
+kelompok-kelompok	NN
+tentara	NN
+bersenjatakan	VB
+panah	NN
+atau	CC
+lembing	X
+.	Z
+
+#
+
+Banyak	CD
+orang	NN 
+tidak	NEG
+mengenal	VB
+sosok	X
+Dien	NNP
+Tamaela	NNP
+,	Z
+karena	SC,IN 
+dia	PRP
+meninggal dunia	VB
+pada	IN
+usia	NN
+muda	JJ
+.	Z
+
+#
+
+Pada	IN
+tahun	NN
+2001	CD
+,	Z
+
+Bank	NN
+Dunia	NNP
+memperkirakan	VB
+bahwa	SC
+partisipasi	NN
+murni	JJ
+siswa	NN
+Sekolah Dasar	NN
+adalah	VB
+46	CD
+%	SYM
+dan	CC
+21	CD
+persen	NN,CD 
+dari	IN
+pelajar	NN
+sekolah menengah	NN
+yang	SC
+terdiri	VB
+dari	IN
+siswa	NN
+yang	SC
+memenuhi	VB
+syarat	NN
+.	Z
+
+#
+
+Sedangkan	CC
+Obito	NNP
+adalah	VB
+klan	X
+uchiha	X
+yang	SC
+sepertinya	X
+kurang	RB
+berbakat	VB
+(bila	X
+dibanding	VB
+Itachi	NNP
+atau	CC
+Sasuke)	NNP
+yang	SC
+bahkan	RB
+belum	NEG
+mendapatkan	VB
+sharingan	X
+.	Z
+
+#
+
+Namun	CC
+,	Z
+dengan	SC,IN 
+tren	NN
+regional	JJ
+di	IN
+langit	NN
+terbuka	JJ,VB 
+perjanjian	NN
+ditandatangani	VB
+,	Z
+sangat	RB
+mungkin	MD
+bahwa	SC
+semua	CD
+bandara	NN
+dapat	MD,VB 
+melihat	VB
+peningkatan	NN
+lalu lintas	NN
+.	Z
+
+#
+
+Di sini	PR,PRP 
+letak	NN
+desa	NN
+nya	PRP
+berada	VB
+di	IN
+bagian	NN
+tengah	MD,NN 
+Sumbawa	NNP
+.	Z
+
+#
+
+Di	IN
+Indonesia	NNP
+sendiri	JJ
+,	Z
+Imam	NNP
+Samudera	NNP
+ditetapkan	VB
+Polda	NNP
+Metro	NNP
+Jaya	NNP
+sebagai	IN
+salah satu	JJ
+tokoh	NN
+pelaku	NN
+teror	NN
+di	IN
+Indonesia	NNP
+.	Z
+
+#
+
+Acara	NN
+LED	NNP
+tersebut	PR,VB 
+bertujuan	VB
+untuk	SC 
+memacu	VB
+minat	NN
+bangsa	NN
+Indonesia	NNP
+sejak	SC,IN 
+SMU	NNP
+untuk	SC 
+menciptakan	VB
+inovasi	NN
+teknologi	NN
+yang	SC
+berguna	VB
+bagi	NN,IN,VB 
+perkembangan	NN
+dunia	NN
+teknologi	NN
+elektroteknik	X
+Indonesia	NNP
+.	Z
+
+#
+
+Upson	NNP
+juga	RB
+bermain	VB
+untuk	SC,IN 
+tim	NN
+nasional	JJ
+dan	CC
+di	IN
+Piala	NNP
+Dunia	NNP
+2010	CD
+.	Z
+
+#
+
+Herakles	NNP
+kemudian	CC,NN 
+melanjutkan	VB
+pertarungan	NN
+nya	PRP
+dengan	SC,IN 
+Kiknos	NNP
+dan	CC
+membunuh	VB
+anak	NN
+Ares	NNP
+tersebut	PR,VB 
+.	Z
+
+#
+
+Dari	IN
+pipa-pipa	NN
+yang	SC
+dicat	VB
+hijau	JJ
+itu	PR
+,	Z
+meluncur	VB
+air	NN
+dengan	SC,IN 
+deras	JJ
+nya	PRP
+.	Z
+
+#
+
+Songgon	NNP
+adalah	VB
+sebuah	X
+nama	NN
+desa	NN
+di	IN
+wilayah	NN
+Songgon	NNP
+,	Z
+Kabupaten	NNP
+Banyuwangi	NNP
+,	Z
+Provinsi	NNP
+Jawa	NNP
+Timur	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Keakuratan	NN
+ukuran	NN
+ini	PR
+sangat	RB
+bervariasi	VB
+.	Z
+
+#
+
+Selain	CC 
+itu	PR
+dengan	SC,IN 
+latar belakang	NN
+gunung-gunung	NN
+(Gunung	X
+Selili).	NNP
+
+#
+
+Kabupaten	NN
+ini	PR
+dibentuk	VB
+berdasarkan	VB
+Undang-Undang	NNP
+Nomor	NNP
+27	CD
+Tahun	NNP
+2008	CD
+yang	SC
+merupakan	VB
+pemekaran	NN
+dari	IN
+Kabupaten	NNP
+Donggala	NNP
+.	Z
+
+#
+
+Kondisi	NN
+keluarga	NN
+nya	PRP
+-	SYM,Z 
+yang	SC
+terdiri	VB
+dari	IN
+10	CD
+anak	NN
+-	SYM,Z 
+sangat	RB
+memprihatinkan	VB
+sehingga	SC
+ia	PRP
+diadopsi	VB
+oleh	IN
+seorang	JJ
+pria	NN
+yang	SC
+bernama	VB
+Wilson	NNP
+.	Z
+
+#
+
+Suasana	NN
+kosmopolitan	X
+di	IN
+kota	NN
+ini	PR
+memberikan	VB
+kontribusi	NN
+terhadap	IN
+budaya	NN
+dinamis	JJ
+,	Z
+salah	JJ
+satunya	X
+adalah	VB
+Hallé	NNP
+Orchestra	NNP
+.	Z
+
+#
+
+Memetika	NNP
+pertama	OD
+kali	NN,VB 
+dikemukakan	VB
+ketika	SC
+Richard	NNP
+Dawkins	NNP
+mereduksi	VB
+proses	NN
+dari	IN
+evolusi	NN
+gen	NN
+biologi	NN
+menjadi	VB
+satuan	NN
+pokok	JJ,NN 
+yaitu	SC
+replikator	X
+(gen).	X
+
+#
+
+Bersama	VB
+-	SYM,Z 
+sama	JJ
+mereka	PRP
+bertiga	X
+disebut	VB
+Rajo	NNP
+Tigo	NNP
+Selo	NNP
+,	Z
+arti	NN,VB 
+nya	PRP
+tiga	CD
+orang	NND 
+raja	NN
+yang	SC
+
+"	Z
+bersila	X
+"	Z
+
+atau	CC
+bertahta	VB
+.	Z
+
+#
+
+Sebuah	NNP
+Himne	NNP
+untuk	SC,IN 
+Poseidon	NNP
+ada	JJ
+dalam	IN 
+Himne	NNP
+Homeros	NNP
+berupa	VB
+tujuh	CD
+baris	NN
+himne	NN
+yang	SC
+menyebutkan	VB
+Poseidon	NNP
+sebagai	IN
+
+"	Z
+penggerak	NN
+bumi	NN
+dan	CC
+lautan	NN
+,	Z
+dewa	NN
+laut	NN
+dalam	IN 
+,	Z
+dan	CC
+pemilik	NN
+Gunung	NNP
+Helikon	NNP
+dan	CC
+Aegae	NNP
+yang	SC
+luas	JJ
+"	Z
+.	Z
+
+#
+
+Dia	PRP
+adalah	VB
+salah satu	JJ
+co	X
+-	SYM,Z 
+penulis	NN
+lagu	NN
+
+"	Z
+Boardmeeting	NNP
+"	Z
+
+dari	IN
+album	NN
+tahun	NN
+2007	CD
+
+"	Z
+Timbaland	NNP
+Presents	NNP
+Shock	NNP
+Value	NNP
+"	Z
+.	Z
+
+#
+
+Mereka	PRP
+disembah	VB
+terutama	JJ
+di	IN
+kota	NN
+Athena	NNP
+,	Z
+Argos	NNP
+dan	CC
+Olimpia	NNP
+.	Z
+
+#
+
+Hesiod	NNP
+menggambarkan	VB
+bahwa	SC
+Pegasus	NNP
+sedang	JJ,CC,MD 
+minum	VB
+dengan	SC,IN 
+tenang	JJ
+di	IN
+salah satu	JJ
+mata air	NN
+ketika	SC
+Bellerofon	NNP
+menangkap	VB
+nya	PRP
+.	Z
+
+#
+
+Tahun	NN
+1826	CD
+,	Z
+
+steam	X
+cylinder	X
+untuk	SC,IN 
+pertama	OD
+kali	NN,VB 
+nya	PRP
+digunakan	VB
+dalam	IN 
+pengeringan	NN
+dan	CC
+pada	IN
+tahun	NN
+1927	CD
+Amerika	NNP
+Serikat	NNP
+mulai	VB
+menggunakan	VB
+mesin	NN
+Fourdrinier	NNP
+.	Z
+
+#
+
+Pada	IN
+tanggal	NN,VB 
+14	CD
+Februari	NNP
+1942	CD
+Palembang	NNP
+jatuh	VB
+ke	IN
+tangan	NN
+jepang	NNP
+dan	CC
+pada	IN
+tanggal	NN,VB 
+8	CD
+Maret	NNP
+1942	CD
+Belanda	NNP
+menyerah	VB
+tanpa	IN 
+syarat	NN
+.	Z
+
+#
+
+Versi	NN
+anime	X
+berakhir	VB
+dengan	SC,IN 
+adegan	NN
+di mana	PR,PRP 
+semua	CD
+berkumpul	VB
+di	IN
+depan	NN
+rumah	NN
+poni	VB
+untuk	SC 
+makan	VB
+dan	CC
+minum	VB
+bersama	VB
+.	Z
+
+#
+
+Personel	NN
+termuda	JJ
+Hanggini	NNP
+Purinda	NNP
+Retto	NNP
+dan	CC
+yang	SC
+tertua	JJ
+adalah	VB
+Prilly	NNP
+Latuconsina	NNP
+.	Z
+
+#
+
+Sejak	SC,IN 
+itu	PR
+LBPH	NNP
+tersebut	PR,VB 
+dikenal	VB
+sebagai	IN
+Teknologi	NNP
+Sosrobahu	NNP
+.	Z
+
+#
+
+Kemudian	CC,NN 
+berubah	VB
+menjadi	VB
+SPG	NNP
+berdasarkan	VB
+Surat	NNP
+Keputusan	NNP
+Menteri	NNP
+Pendidikan	NNP
+dan	CC
+Kebudayaan	NNP
+No	NNP
+.	Z
+
+70	CD
+tahun	NN
+1964	CD
+tanggal	NN,VB 
+21	CD
+Juli	NNP
+1964	CD
+.	Z
+
+#
+
+Sebagian besar	NN
+pemeluk	NN
+agama	NN
+Buddha	NNP
+Korea	NNP
+di	IN
+Amerika	NNP
+mengikuti	VB
+mazhab	X
+Chogye	NNP
+.	Z
+
+#
+
+(2)	CD
+Ikut	VB
+andil	NN
+dalam	IN 
+rangka	NN
+Operasi	NNP
+Dwikora	NNP
+di	IN
+Riau	NNP
+Daratan	NNP
+dengan	SC 
+mengirimkan	VB
+satu	CD
+Detasemen	NNP
+Zipur	NNP
+di	IN
+BP	NNP
+-	SYM,Z 
+kan	X
+pada	IN
+Brigif	NNP
+15	CD
+/	SYM,Z 
+Tirtayasa	NNP
+dibawah	VB
+Pimpinan	NNP
+Lettu	NNP
+Czi	NNP
+Mochtar	NNP
+.	Z
+
+#
+
+Asmuni	NNP
+menyangka	VB
+Gepenglah	NNP
+penculik	NN
+nya	PRP
+,	Z
+sehingga	SC
+Gepeng	NNP
+diambil	VB
+dari	IN
+asrama	NN
+Srimulat	NNP
+.	Z
+
+#
+
+Terakhir	OD
+kAssoma	X
+menjabat	VB
+sebagai	IN
+Gubernur	NNP
+Provinsi	NNP
+Huambo	NNP
+dan	CC
+Sekretaris	NNP
+Utama	NNP
+Popular	NNP
+Movement	NNP
+for	X
+the	X
+Liberation	NNP
+of	X
+Angola	NNP
+(MPLA)	X
+di	IN
+Provinsi	NNP
+Huambo	NNP
+.	Z
+
+#
+
+Namun	CC
+seorang	JJ
+bijak	JJ
+telah	MD
+muncul	VB
+-	SYM,Z 
+-	SYM,Z 
+si	DT
+petugas	NN
+sensus	X
+-	SYM,Z 
+-	SYM,Z 
+dan	CC
+perkiraan	NN
+besar	JJ
+nya	PRP
+tentang	VB
+minat	NN
+insani	X
+ternyata	JJ
+lebih	RB
+disukai	VB
+dalam	IN 
+cerita-cerita	NN
+singkat	JJ
+
+'	Z
+Four	NNP
+Million	NNP
+.	Z
+
+'	Z
+
+"	Z
+
+#
+
+Dikisahkan	VB
+,	Z
+Citrawirya	NNP
+raja	NN
+Hastina	NNP
+meninggal	VB
+tanpa	IN 
+keturunan	NN
+.	Z
+
+#
+
+BRB	NNP
+-	SYM,Z 
+9000	CD
+muncul	VB
+,	Z
+dan	CC
+Hämsterviel	NNP
+bersiap	VB
+untuk	SC 
+memusnahkan	VB
+semua	CD
+hasil	NN
+eksperimen	NN
+.	Z
+
+#
+
+Langkapjaya	NNP
+adalah	VB
+desa	NN
+di	IN
+kecamatan	NN
+Lengkong	NNP
+,	Z
+Sukabumi	NNP
+,	Z
+Jawa	NNP
+Barat	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Bandar udara	NN
+ini	PR
+menggantikan	VB
+bandar udara	NN
+Gangneung	NNP
+dan	CC
+Sokcho	NNP
+.	Z
+
+#
+
+Setelah	SC
+segala	X
+sumpah serapah	NN
+dikeluarkan	VB
+,	Z
+Yūko	NNP
+akhirnya	RB
+memberitahu	VB
+Watanuki	NNP
+bahwa	SC
+tempat	NN
+mereka	PRP
+berada	VB
+saat	SC,NN 
+ini	PR
+adalah	VB
+
+'	Z
+Toko	NN
+'	Z
+
+kepunyaan	NN
+Yūko	NNP
+.	Z
+
+#
+
+Beranjak	NNP
+dewasa	JJ
+,	Z
+ia	PRP
+pindah	VB
+ke	IN
+Meksiko	NNP
+,	Z
+dan	CC
+pada	IN
+1973	CD
+,	Z
+
+Witt	NNP
+pindah	VB
+ke	IN
+Eropa	NNP
+,	Z
+dimana	VB
+ia	PRP
+mulai	VB
+bekerja	VB
+di	IN
+dunia	NN
+perfilman	NN
+.	Z
+
+#
+
+Armada	NN
+Farragut	NNP
+terdiri	VB
+dari	IN
+18	CD
+kapal	NN
+Union	NNP
+,	Z
+4	CD
+kapal	NN
+ironclad	X
+dan	CC
+14	CD
+kapal	NN
+lain	JJ
+nya	PRP
+,	Z
+yang	SC
+dapat	MD,VB 
+berhadapan	VB
+dengan	SC,IN 
+kapal-kapal	NN
+konfederasi	X
+yang	SC
+mempertahankan	VB
+Teluk	NNP
+Mobile	NNP
+.	Z
+
+#
+
+Capelle	NNP
+aan	X
+den	X
+IJssel	NNP
+adalah	VB
+sebuah	X
+gemeente	X
+Belanda	NNP
+yang	SC
+terletak	VB
+di	IN
+provinsi	NN
+Zuid	NNP
+Holland	NNP
+.	Z
+
+#
+
+Lukisan	NN
+dinding	NN
+ini	PR
+terkenal	VB
+akan	IN,MD 
+energi	NN
+nya	PRP
+yang	SC
+menyala	VB
+-	SYM,Z 
+nyala	NN,VB 
+dan	CC
+gaya	NN
+realisme	X
+emosional	JJ
+nya	PRP
+yang	SC
+belum	NEG
+pernah	MD
+ada	JJ
+sebelumnya	SC
+.	Z
+
+#
+
+Setelah	SC
+Sayyid	NNP
+Ahmad	NNP
+Khairuddin	NNP
+menunaikan	VB
+ibadah haji	NN
+,	Z
+rupanya	RB
+takdir	NN
+Allah	NNP
+menghendaki	X
+Sayyid	NNP
+Ahmad	NNP
+Khairuddin	NNP
+di	IN
+Makatul	NNP
+Musyarrafah	NNP
+.	Z
+
+#
+
+Situs	NN
+web	X
+ini	PR
+adalah	VB
+produk	NN
+dari	IN
+Wikimedia	NNP
+Foundation	NNP
+,	Z
+yang	SC
+juga	RB
+termasuk	X
+Allmusic	NNP
+dan	CC
+Allgame	NNP
+.	Z
+
+#
+
+Desa	NN
+ini	PR
+dibentuk	VB
+pada	IN
+tahun	NN
+2010	CD
+dari	IN
+pemekaran	NN
+Desa	NNP
+Pusakasari	NNP
+.	Z
+
+#
+
+Yang Dipertuan	VB
+Besar	NNP
+Ismail	NNP
+Syah	NNP
+atau	CC
+Sultan	NNP
+Ismail	NNP
+Abdul	NNP
+Jalil	NNP
+Syah	NNP
+dari	IN
+Siak	NNP
+Sri	NNP
+Inderapura	NNP
+,	Z
+merupakan	VB
+putra	NN
+dari	IN
+Raja	NNP
+Mahmud	NNP
+,	Z
+Yang Dipertuan	VB
+Besar	NNP
+Siak	NNP
+.	Z
+
+Sepeninggal	NNP
+Raja	NNP
+Mahmud	NNP
+,	Z
+Kesultanan	NNP
+Siak	NNP
+Sri	NNP
+Inderapura	NNP
+diperebutkan	VB
+oleh	IN
+Raja	NNP
+Ismail	NNP
+dan	CC
+Raja	NNP
+Muhammad	NNP
+Ali	NNP
+.	Z
+
+Suksesi	VB
+ini	PR
+dimenangi	VB
+oleh	IN
+Raja	NNP
+Muhammad	NNP
+Ali	NNP
+.	Z
+
+Kemudian	CC,NN 
+Raja	NNP
+Ismail	NNP
+memilih	VB
+untuk	SC,IN 
+berkelana	X
+.	Z
+
+#
+
+Kancil	NNP
+(singkatan	X
+dari	IN
+Kendaraan	NNP
+Niaga	NNP
+Cilik	NNP
+Irit	NNP
+Lincah)	NNP
+merupakan	VB
+merek dagang	NN
+terdaftar	VB
+dari	IN
+sebuah	X
+kendaraan	NN
+angkutan	NN
+bermotor	VB
+roda	NN
+empat	CD
+yang	SC
+didisain	VB
+,	Z
+diproduksi	VB
+dan	CC
+dipasarkan	VB
+oleh	IN
+PT	NNP
+.	Z
+
+KANCIL	NNP
+(singkatan	X
+dari	IN
+Karunia	NNP
+Abadi	NNP
+Niaga	NNP
+Citra	NNP
+Indah	NNP
+Lestari).	NNP
+
+#
+
+Namun	CC
+jangan	NEG
+berharap	VB
+dapat	MD,VB 
+mendengar	VB
+solo	NN
+gitar	NN
+yang	SC
+melodius	X
+kental	JJ
+berbau	VB
+blues	X
+ala	NN
+Slash	NNP
+karena	SC,IN 
+ia	PRP
+tak	NEG
+lagi	MD,RB 
+menyumbangkan	VB
+suara	NN
+gitar	NN
+nya	PRP
+dalam	IN 
+album	NN
+ini	PR
+.	Z
+
+#
+
+Bagaimana	NNP
+cara	NN
+nya	PRP
+mereka	PRP
+menukarkan	VB
+jiwa	NN
+mereka	PRP
+kembali	VB
+?	Z
+
+#
+
+Sebelumnya	SC
+mereka	PRP
+menguasai	VB
+daerah	NN
+Utara	NNP
+dan	CC
+Timur Laut	NN
+China	NNP
+,	Z
+namun	CC
+di sana	PR,PRP 
+mereka	PRP
+diserang	VB
+oleh	IN
+Dinasti	NNP
+Jin	NNP
+sehingga	SC
+terpaksa	VB
+mengungsi	VB
+.	Z
+
+#
+
+Tujuan	NN
+nya	PRP
+bersama	VB
+masyarakat	NN
+adat	NN
+Kapuas	NNP
+Hulu	NNP
+adalah	VB
+mempertahankan	VB
+wilayah	NN
+adat	NN
+dan	CC
+mengelola	VB
+sumber daya alam	NN
+secara	JJ
+adil	JJ
+dan	CC
+lestari	JJ
+berdasarkan	VB
+kearifan	NN
+lokal	JJ
+serta	CC 
+memperjuangkan	VB
+kedaulatan	NN
+masyarakat	NN
+adat	NN
+dayak	X
+dalam	IN 
+bidang	NN 
+pendidikan	NN
+,	Z
+sosial	NN
+budaya	NN
+,	Z
+ekonom	NN
+dan	CC
+politik	NN
+demi	SC 
+tercapai	VB
+kesejahteraan	NN
+dan	CC
+keadilan	NN
+masyarakat	NN
+adat	NN
+Dayak	NNP
+Kapuas	NNP
+Hulu	NNP
+.	Z
+
+Anggaotanya	NNP
+terdiri	VB
+dari	IN
+12	CD
+Ketemenggungan	NNP
+yang	SC
+ada	JJ
+di	IN
+Kabupaten	NNP
+Kapuas	NNP
+Hulu	NNP
+.	Z
+
+Kecamatan	NN
+yang	SC
+mungkin	MD
+bergabung	VB
+ke	IN
+dalam	NN 
+kabupaten	NN
+ini	PR
+meliputi:	X
+Kecamatan	NNP
+yang	SC
+bergabung	VB
+ke	IN
+dalam	NN 
+kabupaten	NN
+ini	PR
+meliputi:	X
+Kecamatan	NNP
+yang	SC
+mungkin	MD
+bergabung	VB
+ke	IN
+dalam	NN 
+kota	NN
+ini	PR
+meliputi:	X
+
+#
+
+Kecamatan	NN
+Payakumbuh	NNP
+Barat	NNP
+terdiri	VB
+dari	IN
+22	CD
+kelurahan	NN
+dalam	IN 
+Kanagarian	NNP
+Koto	NNP
+Nan	NNP
+IV	NNP
+.	Z
+
+Kecamatan	NN
+Payakumbuh	NNP
+Timur	NNP
+terdiri	VB
+dari	IN
+14	CD
+kelurahan	NN
+dalam	IN 
+3	CD
+kanagarian	X
+,	Z
+yaitu	SC
+Aie	NNP
+Tabik	NNP
+,	Z
+Payobasuang	NNP
+dan	CC
+Tiakar	NNP
+.	Z
+
+#
+
+Ciri	NN
+khas	JJ
+betta	X
+enisae	X
+ada	JJ
+pada	IN
+tangkai	NN 
+yang	SC
+terletak	VB
+di bawah	VB
+badan	NN
+yang	SC
+sekilas	X
+mirip	JJ
+arwana	X
+.	Z
+
+#
+
+Aliran	NN
+Shien	NNP
+Thien	NNP
+Tao	NNP
+masih	MD
+ada	JJ
+di	IN
+Indonesia	NNP
+dalam	IN 
+bentuk	NN 
+kelenteng	X
+kelenteng	X
+yang	SC
+dipegang	VB
+oleh	IN
+Bhiksuni	NNP
+(Chai	X
+Ma).	NNP
+
+#
+
+Seperdelapan	CD
+MOA	NNP
+berarti	VB
+seperdelapan	CD
+inci	NND
+pada	IN
+jarak	JJ
+100	CD
+yard	X
+atau	CC
+satu	CD
+inci	NND
+pada	IN
+jarak	JJ
+800	CD
+yard	X
+.	Z
+
+#
+
+Apa	WH 
+hubungan	NN
+nya	PRP
+dengan	SC,IN 
+masa lalu	NN
+Bunga	NNP
+?	Z
+
+#
+
+Kerusakan	NN
+banyak	CD
+terjadi	VB
+di	IN
+ibukota	NN
+Rumania	NNP
+,	Z
+Bukares	NNP
+.	Z
+
+#
+
+Piubega	NNP
+adalah	VB
+komune	X
+yang	SC
+terletak	VB
+di	IN
+Provinsi	NNP
+Mantova	NNP
+,	Z
+Italia	NNP
+.	Z
+
+#
+
+Federasi	NN
+Sepak Bola	NN
+Haiti	NNP
+(,	X
+disingkat	VB
+FHF)	NNP
+adalah	VB
+badan	NN
+sepak bola	NN
+di	IN
+Haiti	NNP
+,	Z
+dan	CC
+bertanggung jawab	VB
+atas	IN 
+.	Z
+
+FHF	NNP
+adalah	VB
+anggota	NN
+CONCACAF	NNP
+sejak	SC,IN 
+tahun	NN
+1961	CD
+dan	CC
+bertanggung jawab	VB
+atas	IN 
+sepak bola	NN
+di	IN
+Haiti	NNP
+dan	CC
+semua	CD
+kategori	NN
+yang	SC
+lebih	RB
+rendah	JJ
+.	Z
+
+#
+
+12	CD
+peserta	NN
+yang	SC
+lolos	VB
+di	IN
+babak	NN
+sebelumnya	SC
+akan	IN,MD 
+unjuk	NN
+kemampuan	NN
+di	IN
+babak	NN
+spektakuler	NN
+.	Z
+
+#
+
+Kelak	NNP
+pernikahan	NN
+dalam	IN 
+hubungan keluarga	NN
+semacam	JJ
+ini	PR
+dilarang	VB
+di	IN
+hukum	NN,VB 
+Taurat	NNP
+.	Z
+
+#
+
+Berturut	VB
+-	SYM,Z 
+turut	VB
+setelah	SC
+itu	PR
+ia	PRP
+menjabat	VB
+sebagai	IN
+Irpolda	NNP
+Sumut	NNP
+,	Z
+Wakapolda	NNP
+Nusa	NNP
+Tenggara	NNP
+,	Z
+Wakapolda	NNP
+Metro	NNP
+Jaya	NNP
+,	Z
+Kapolda	NNP
+Metro	NNP
+Jaya	NNP
+clan	X
+kemudian	CC,NN 
+Kapolri	NNP
+.	Z
+
+#
+
+Bila	SC
+kita	PRP
+menggunakan	VB
+semua	CD
+ini	PR
+untuk	SC 
+melawan	VB
+musuh	NN
+,	Z
+musuh	NN
+mana	NN
+yang	SC
+tak	NEG
+akan	IN,MD 
+kalah	JJ
+?	Z
+
+#
+
+Ia	PRP
+lahir	VB
+di	IN
+Connecticut	NNP
+,	Z
+berkuliah	VB
+di	IN
+Yale	NNP
+.	Z
+
+Kemudian	CC,NN 
+ia	PRP
+menjadi	VB
+pendeta	NN
+di	IN
+New	NNP
+Haven	NNP
+.	Z
+
+#
+
+Permasalahan	NN
+yang	SC
+dihadapi	VB
+ketika	SC
+itu	PR
+adalah:	X
+siapa	WH 
+yang	SC
+akan	IN,MD 
+menggantikan	VB
+Nabi	NNP
+Muhammad	NNP
+,	Z
+dan	CC
+sebesar	X
+apa	WH 
+kekuasaan	NN
+yang	SC
+akan	IN,MD 
+didapatkan	VB
+nya	PRP
+?	Z
+
+#
+
+Erlangga	NNP
+yang	SC
+angkuh	JJ
+dan	CC
+dicintai	VB
+mati-matian	JJ,NN 
+oleh	IN
+Janet	NNP
+?	Z
+
+#
+
+Ia	PRP
+mendesak	VB
+ke	IN
+arah	NN
+Pyongyang	NNP
+dan	CC
+Sugok	NNP
+-	SYM,Z 
+seong	X
+pada	IN
+tahun	NN
+371	CD
+,	Z
+
+membunuh	VB
+raja	NN
+Goguryeo	NNP
+,	Z
+Gogugwon	NNP
+di	IN
+medan perang	NN
+.	Z
+
+#
+
+Pada	IN
+tanggal	NN,VB 
+24	CD
+Juni	NNP
+1997	CD
+,	Z
+
+Anggun	JJ
+merilis	VB
+album	NN
+berbahasa	VB
+Perancis	NNP
+pertamanya	X
+berjudul	VB
+Au	NNP
+nom	X
+de	X
+la	X
+lune	X
+.	Z
+
+#
+
+Sebelum	SC
+memasuki	VB
+masa	NN
+wajib belajar	VB
+9	CD
+tahun	NN
+,	Z
+anak-anak	NN
+seyogya	JJ
+nya	PRP
+memasuki	VB
+masa	NN
+pra	JJ
+sekolah	NN
+yaitu	SC
+PAUD	NNP
+,	Z
+dan	CC
+Taman Kanak-Kanak	NN
+(TK).	X
+Jumlah	NNP
+Taman Kanak-Kanak	NN
+di	IN
+Kecamatan	NNP
+Banyuputih	NNP
+yang	SC
+terdapat	VB
+di	IN
+5	CD
+(lima)	X
+desa	NN
+sebanyak	CD
+20	CD
+unit	NN
+.	Z
+
+#
+
+Yeonsangun	NNP
+akhirnya	RB
+disingkirkan	VB
+oleh	IN
+sisa-sisa	NN
+faksi	NN
+Hungu	NNP
+dan	CC
+adik	NN
+nya	PRP
+yang	SC
+lain	JJ
+ibu	NN
+naik	VB
+tahta	NN
+jadi	JJ
+Raja	NNP
+Jungjong	NNP
+pada	IN
+tahun	NN
+1506	CD
+.	Z
+
+#
+
+Melihat	VB
+meningkat	VB
+nya	PRP
+minat	NN
+masyarakat	NN
+pada	IN
+cabang	NN
+olahraga	NN
+ini	PR
+,	Z
+maka	SC
+FASI	NNP
+merasa	VB
+perlu	MD
+mewadahi	VB
+dan	CC
+membina	VB
+nya	PRP
+.	Z
+
+#
+
+Ia	PRP
+berasal	VB
+dari	IN
+Front	NNP
+de	X
+Libération	NNP
+Nationale	NNP
+.	Z
+
+#
+
+Bagaimana	NNP
+kita	PRP
+tahu	NN,VB 
+bahwa	SC
+7	CD
+ditambah	VB
+8	CD
+selalu	RB
+ada	JJ
+15	CD
+?	Z
+
+#
+
+Di sana	PR,PRP 
+,	Z
+ia	PRP
+meletakkan batu pertama	VB
+Universitas	NNP
+Ibrani	NNP
+.	Z
+
+#
+
+Dia	PRP
+lalu	VB/CC 
+bertanya	VB
+apakah	X
+negeri	NN
+kita	PRP
+pernah	MD
+berperang	VB
+?	Z
+
+#
+
+Pada	IN
+November	NNP
+2006	CD
+,	Z
+
+sebuah	X
+rencana	NN
+mengenai	IN,VB 
+relokasi	NN
+bandara	NN
+ke	IN
+Klyuchëvka	NNP
+,	Z
+sekitar	RB 
+24	CD
+km	NND
+dari	IN
+kota	NN
+Angarsk	NNP
+,	Z
+disetujui	VB
+dan	CC
+konstruksi	NN
+dijadwalkan	VB
+mulai	VB
+pada	IN
+tahun	NN
+2008	CD
+.	Z
+
+#
+
+Schelotto	NNP
+memulai	VB
+karier	NN
+senior	NN
+nya	PRP
+di	IN
+klub	NN
+Cesena	NNP
+.	Z
+
+#
+
+ひ,	X
+dalam	IN 
+hiragana	X
+,	Z
+atau	CC
+ヒ	X
+dalam	IN 
+katakana	X
+,	Z
+adalah	VB
+sebuah	X
+kana	X
+dalam	IN 
+bahasa	NN
+Jepang	NNP
+,	Z
+yang	SC
+masing-masing	PRP 
+melambangkan	VB
+suatu	CD
+mora	X
+.	Z
+
+#
+
+Mereka	PRP
+terutama	JJ
+mempelajari	VB
+teks-teks	NN
+berima	X
+dari	IN
+masa	NN
+pra	JJ
+-	SYM,Z 
+Qin	NNP
+,	Z
+terutama	JJ
+Shijing	NNP
+,	Z
+dan	CC
+petunjuk	NN
+dari	IN
+fakta	NN
+bahwa	SC
+karakter-karakter	NN
+yang	SC
+memiliki	VB
+komponen	NN
+fonetis	X
+yang	SC
+sama	JJ
+(形聲),	X
+dahulu	X
+adalah	VB
+homofon	X
+atau	CC
+hampir	RB
+-	SYM,Z 
+homofon	X
+ketika	SC
+karakter-karakter	NN
+ini	PR
+diciptakan	VB
+.	Z
+
+#
+
+Daya	NN
+yang	SC
+diboroskan	VB
+rata-rata	JJ
+adalah	VB
+kecil	JJ
+karena	SC,IN 
+transistor	X
+hanya	RB
+hidup	NN,VB 
+sebentar	X
+selama	JJ
+periode	NN
+siklus	NN
+.	Z
+
+#
+
+Le	NNP
+Mans	NNP
+Union	NNP
+Club	NNP
+72	CD
+merupakan	VB
+sebuah	X
+klub sepak bola	NN
+Perancis	NNP
+yang	SC
+didirikan	VB
+pada	IN
+tahun	NN
+1985	CD
+.	Z
+
+#
+
+Kemudian	CC,NN 
+Perancis	NNP
+menguasai	VB
+wilayah	NN
+ini	PR
+di	IN
+abad	NN
+ke-19	CD
+dan	CC
+menggabungkan	VB
+nya	PRP
+ke	IN
+dalam	NN 
+Indochina	NNP
+Perancis	NNP
+pada	IN
+1893	CD
+.	Z
+
+#
+
+Ditemukan	VB
+nya	PRP
+H	NNP
+-	SYM,Z 
+FABP	NNP
+dalam	IN 
+berbagai	CD
+jenis	NND 
+jaringan	NN
+merupakan	VB
+tanda-tanda	NN
+infak	X
+miokardial	X
+akut	JJ
+.	Z
+
+#
+
+Empat	CD
+belas	CD
+tahun	NN
+kemudian	CC,NN 
+status	NN
+nya	PRP
+naik	VB
+menjadi	VB
+diakui	VB
+.	Z
+
+#
+
+Robertson	NNP
+menuduh	VB
+acuan	NN
+mengenai	IN,VB 
+dua	CD
+belas	CD
+rasul	NN
+dan	CC
+Perjamuan	NNP
+Kudus	NNP
+Yesus	NNP
+sebagai	IN
+interpolasi	X
+,	Z
+dan	CC
+menyatakan	VB
+bahwa	SC
+figur	NN
+Yesus	NNP
+dalam	IN 
+surat-surat	NN
+Paulus	NNP
+hanya	RB
+disebutkan	VB
+sebagai	IN
+penyelamat	NN
+yang	SC
+disalibkan	VB
+dan	CC
+
+"	Z
+bukan	NEG
+sebagai	IN
+guru	NN
+atau	CC
+pembawa	NN
+mukjizat	NN
+"	Z
+.	Z
+
+#
+
+Di	IN
+Bogor	NNP
+biasanya	RB
+dijual	VB
+setelah	SC
+direbus	X
+dan	CC
+diberi	VB
+garam	NN
+.	Z
+
+#
+
+Surat kabar	NN
+ini	PR
+secara	JJ
+terbuka	JJ,VB 
+menuduh	VB
+Ruiz	NNP
+melakukan	VB
+penindasan	NN
+.	Z
+
+#
+
+Saat	SC,NN 
+ini	PR
+banyak	CD
+DVD	NNP
+player	X
+di	IN
+pasaran	NN
+yang	SC
+dapat	MD,VB 
+memainkan	VB
+film	NN
+DivX	NNP
+.	Z
+
+Format	NN
+video	NN
+kompresi	X
+berbasis	VB
+MPEG	NNP
+-	SYM,Z 
+4	CD
+ini	PR
+memiliki	VB
+ukuran	NN
+yang	SC
+sangat	RB
+kecil	JJ
+,	Z
+bahkan	RB
+dapat	MD,VB 
+mencapai	VB
+kurang	RB
+dari	IN
+seperdelapan	CD
+ukuran	NN
+MPEG	NNP
+-	SYM,Z 
+2	CD
+dengan	SC,IN 
+kualitas	NN
+yang	SC
+tetap	RB,JJ,VB 
+terjaga	VB
+.	Z
+
+#
+
+Defensin	NNP
+ini	PR
+sangat	RB
+langka	JJ
+,	Z
+hanya	RB
+terdapat	VB
+pada	IN
+leukosit	X
+di	IN
+rhesus	X
+macaque	X
+dan	CC
+baboon	X
+zaitun	NN
+,	Z
+Papio	NNP
+anubis	X
+.	Z
+
+#
+
+Pariok	NNP
+adalah	VB
+nama	NN
+salah satu	JJ
+desa	NN
+yang	SC
+terletak	VB
+di	IN
+Kecamatan	NNP
+Candi	NNP
+Laras	NNP
+Utara	NNP
+,	Z
+Kabupaten	NNP
+Tapin	NNP
+,	Z
+Provinsi	NNP
+Kalimantan	NNP
+Selatan	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Ia	PRP
+mengalahkan	VB
+Joaquin	NNP
+Lavin	NNP
+dari	IN
+sayap	NN
+kanan	JJ
+lewat	VB
+pemilu	NN
+16	CD
+Januari	NNP
+2000	CD
+.	Z
+
+#
+
+Tomme	NNP
+de	X
+Savoie	NNP
+adalah	VB
+keju	NN
+dari	IN
+daerah	NN
+Savoie	NNP
+di	IN
+negara	NN
+Perancis	NNP
+yang	SC
+dibuat	VB
+dengan	SC 
+menggunakan	VB
+susu	NN
+sapi	NN
+mentah	NN
+.	Z
+
+#
+
+Kota	NN
+ini	PR
+merupakan	VB
+ibukota	NN
+beberapa	CD
+kerajaan	NN
+kuno	JJ
+di	IN
+Burma	NNP
+.	Z
+
+#
+
+Roden	NNP
+adalah	VB
+bagian	NN
+Verwaltungsgemeinschaft	NNP
+Marktheidenfeld	NNP
+.	Z
+
+#
+
+Kematian	NN
+Tan	NNP
+Peng	NNP
+Liang	NNP
+pertama	OD
+tersebut	PR,VB 
+menjadi	VB
+keuntungan	NN
+bagi	NN,IN,VB 
+Tan	NNP
+Peng	NNP
+Liang	NNP
+kedua	OD,CD 
+yang	SC
+dapat	MD,VB 
+memalsukan	VB
+kematian	NN
+nya	PRP
+sendiri	JJ
+.	Z
+
+#
+
+Disertasi	NNP
+itu	PR
+berupa	VB
+manuskrip	X
+setebal	JJ
+300	CD
+halaman	NN
+ditulis	VB
+dalam	IN 
+bahasa	NN
+Latin	NNP
+klasik	JJ
+.	Z
+
+#
+
+Thailand	NNP
+juga	RB
+biasanya	RB
+menjadi	VB
+tujuan	NN
+akhir	NN
+pengungsi	NN
+Korea	NNP
+Utara	NNP
+dari	IN
+Cina	NNP
+sebelum	SC
+terbang	VB
+ke	IN
+Korea	NNP
+Selatan	NNP
+.	Z
+
+#
+
+Kapal	NN
+yang	SC
+lebih	RB
+kecil	JJ
+dan	CC
+sarat	X
+air	NN
+kapal	NN
+yang	SC
+lebih	RB
+rendah	JJ
+digunakan	VB
+sebagai	IN
+kapal pesiar	NN
+sungai	NN
+.	Z
+
+#
+
+Yonif	NNP
+113	CD
+/	SYM,Z 
+Jaya	NNP
+Sakti	NNP
+adalah	VB
+batalyon	X
+teritorial	NN
+Korem	NNP
+011	CD
+/	SYM,Z 
+Lilawangsa	NNP
+.	Z
+
+#
+
+Pada	IN
+tahun	NN
+2012	CD
+,	Z
+
+kota	NN
+ini	PR
+memiliki	VB
+jumlah	NN
+penduduk	NN
+sebesar	X
+60.435	CD
+jiwa	NN
+dan	CC
+memiliki	VB
+luas	JJ
+wilayah	NN
+397	CD
+km2	CD
+.	Z
+
+
+Kota	NN
+ini	PR
+memiliki	VB
+angka	NN
+kepadatan penduduk	NN
+320	CD
+jiwa/km2	CD
+.	Z
+
+#
+
+Ratu	NN
+mendengar	VB
+kabar	NN
+itu	PR
+dan	CC
+berusaha	VB
+untuk	SC 
+membunuh	VB
+wanita	NN
+tersebut	PR,VB 
+,	Z
+akan tetapi	NN
+usaha	NN
+nya	PRP
+tidak	NEG
+berhasil	JJ
+.	Z
+
+#
+
+Kalama	NNP
+adalah	VB
+desa	NN
+yang	SC
+berada	VB
+di	IN
+kecamatan	NN
+Tabang	NNP
+,	Z
+Kabupaten	NNP
+Mamasa	NNP
+,	Z
+Sulawesi	NNP
+Barat	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Mereka	PRP
+lalu	VB/CC 
+mendeteksi	VB
+akankan	X
+ada	JJ
+kehidupan	NN
+di situ	PR,PRP 
+.	Z
+
+#
+
+Jared	NNP
+Borgetti	NNP
+()	X
+adalah	VB
+seorang	JJ
+mantan	NN
+pemain	NN
+sepak bola	NN
+asal	NN
+Meksiko	NNP
+.	Z
+
+#
+
+Ini	PR
+adalah	VB
+remake	X
+dari	IN
+film	NN
+1986	CD
+Doraemon	NNP
+,	Z
+Doraemon:	NNP
+Nobita	NNP
+dan	CC
+Pasukan	NNP
+Robot	NNP
+.	Z
+
+#
+
+Apakah	NNP
+benar	JJ
+Neo	NNP
+adalah	VB
+cinta	NN
+sejati	JJ
+nya	PRP
+,	Z
+seperti	SC,IN 
+yang	SC
+selama	JJ
+ini	PR
+diyakini	VB
+nya	PRP
+?	Z
+
+#
+
+Permainan	NN
+ini	PR
+dikembangkan	VB
+pada	IN
+1971	CD
+oleh	IN
+Merle	NNP
+Robbins	NNP
+.	Z
+
+#
+
+Ayah	NN
+nya	PRP
+,	Z
+Josef	NNP
+Rilke	NNP
+(1838	CD
+-	SYM,Z 
+1906),	CD
+menjadi	VB
+pegawai	NN
+kereta api	NN
+setelah	SC
+gagal	JJ
+berkarier	VB
+sebagai	IN
+militer	NN
+.	Z
+
+#
+
+Pada	IN
+1041	CD
+,	Z
+
+Bretislaus	NNP
+dikalahkan	VB
+di	IN
+dalam	NN 
+upaya	NN
+kedua	OD 
+oleh	IN
+Kaisar	NNP
+Henry	NNP
+III	NNP
+.	Z
+
+Menandatangani	VB
+perjanjian	NN
+di	IN
+Regensburg	NNP
+(1042)	CD
+di mana	PR,PRP 
+ia	PRP
+meninggalkan	VB
+klaim	NN
+pada	IN
+segala	X
+negeri	NN
+Polandia	NNP
+,	Z
+kecuali	CC 
+untuk	SC,IN 
+Silesia	NNP
+,	Z
+yang	SC
+akan	IN,MD 
+dimasukkan	VB
+ke	IN
+dalam	NN 
+Kerajaan	NNP
+Bohemia	NNP
+.	Z
+
+Itu	PR
+adalah	VB
+keberhasilan	NN
+Casimir	NNP
+dalam	IN 
+memperkuat	VB
+kekuasaan	NN
+kerajaan	NN
+dan	CC
+mengakhiri	VB
+perselisihan	NN
+internal	JJ
+yang	SC
+membuat	VB
+nya	PRP
+mendapatkan	VB
+julukan	NN
+
+"	Z
+Pemugar	NNP
+"	Z
+.	Z
+
+#
+
+Dan	CC
+siapakah	X
+yang	SC
+lebih	RB
+mengampuni	VB
+dosa	NN
+selain	CC 
+Allah	NNP
+?	Z
+
+#
+
+Selain	CC 
+dipuja	VB
+pada	IN
+altar	NN
+kekaisaran	NN
+di	IN
+ibukota	NN
+,	Z
+ia	PRP
+juga	RB
+dipuja	VB
+pada	IN
+lokasi	NN
+berupa	VB
+gundukan	X
+tanah	NN
+pada	IN
+setiap	CD
+desa	NN
+dan	CC
+kota	NN
+.	Z
+
+#
+
+Namun	CC
+,	Z
+apa saja	PR,PRP 
+yang	SC
+ditata	VB
+oleh	IN
+pemerintah kolonial	NN
+selanjutnya	RB
+?	Z
+
+#
+
+Penalti	NN
+akibat	NN
+kesalahan	NN
+kedi	X
+dibebankan	VB
+ke	IN
+skor	NN
+pegolf	NN
+.	Z
+
+#
+
+Stadion	NN
+yang	SC
+digunakan	VB
+untuk	SC,IN 
+partai	NN
+kandang	NN
+adalah	VB
+Stadio	NNP
+Via	NNP
+del	X
+Mare	NNP
+.	Z
+
+Klub	NN
+ini	PR
+dibentuk	VB
+pada	IN
+tahun	NN
+1908	CD
+dan	CC
+telah	MD
+menghabiskan	VB
+sebagian besar	NN
+sejarah	NN
+mereka	PRP
+terpental	X
+di	IN
+antara	X
+Divisi	NNP
+kedua	OD,CD 
+Italia	NNP
+dan	CC
+Seri	NNP
+A	NNP
+,	Z
+di mana	PR,PRP 
+tim	NN
+itu	PR
+mendapat	VB
+promosi	NN
+pertama	OD
+pada	IN
+tahun	NN
+1985	CD
+.	Z
+
+#
+
+Maka	SC
+penolakan	NN
+akan	IN,MD 
+Tuhan	NNP
+adalah	VB
+hal	NN
+yang	SC
+paling	RB
+baik	JJ
+,	Z
+sebab	SC
+manusia	NN
+menjadi	VB
+tidak	NEG
+bergantung	VB
+pada	IN
+Allah	NNP
+(Kristen)	X
+yang	SC
+hanya	RB
+membelenggu	VB
+manusia	NN
+itu	PR
+,	Z
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+Mereka	PRP
+diperkenalkan	VB
+untuk	SC,IN 
+pertama	OD
+kali	NN,VB 
+nya	PRP
+dalam	IN 
+seri	JJ
+Cerutu	NNP
+Sang	NNP
+Firaun	NNP
+,	Z
+di mana	PR,PRP 
+dalam	IN 
+pertemuan	NN
+awal	NN
+dengan	SC,IN 
+tokoh	NN
+utama	JJ
+nya	PRP
+,	Z
+Tintin	NNP
+,	Z
+mereka	PRP
+mendapatkan	VB
+tugas	NN
+untuk	SC 
+menangkap	VB
+nya	PRP
+untuk	SC,IN 
+suatu	CD
+tuduhan	NN
+yang	SC
+tidak	NEG
+benar	JJ
+.	Z
+
+#
+
+``Tetapi	X
+Andreas	NNP
+menjawab	VB
+dan	CC
+berkata	VB
+kepada	IN
+saudara-saudara	NN
+nya	PRP
+,	Z
+
+'	Z
+Apa	WH 
+pendapat	NN
+kalian	PRP
+tentang	VB
+apa	WH 
+yang	SC
+baru	JJ,NN,MD 
+saja	RB
+dikatakan	VB
+nya	PRP
+itu	PR
+?	Z
+
+#
+
+Tommy	NNP
+ditinggal	VB
+sendiri	JJ
+di	IN
+rumah	NN
+,	Z
+menemukan	VB
+artikel	NN
+koran	NN
+milik	VB
+Rob	NNP
+tentang	VB
+Jason	NNP
+.	Z
+
+#
+
+Pada	IN
+tahun	NN
+1995	CD
+,	Z
+
+pemain	NN
+bass	X
+Hillery	NNP
+keluar	VB
+untuk	SC,IN 
+kemudian	CC,NN 
+ditemukan	VB
+tewas	JJ
+bunuh	VB
+diri	NN,VB 
+pada	IN
+5	CD
+Juni	NNP
+1996	CD
+.	Z
+
+#
+
+Keju	NN
+ini	PR
+dibuat	VB
+dengan	SC,IN 
+pertama-tama	X
+memanaskan	VB
+susu	NN
+dengan	SC,IN 
+suhu	NN
+33-36°C	CD
+dan	CC
+rennet	X
+pun	RP
+ditambahkan	VB
+.	Z
+
+#
+
+Hampir	RB
+semua	CD
+bandara	NN
+sipil	JJ
+di	IN
+Pakistan	NNP
+dimiliki	VB
+dan	CC
+dioperasikan	VB
+oleh	IN
+CAA	NNP
+.	Z
+
+Kantor pusat	NN
+CAA	NNP
+terletak	VB
+di	IN
+Terminal	NNP
+1	CD
+Bandara Internasional	NN
+Jinnah	NNP
+di	IN
+Karachi	NNP
+.	Z
+
+#
+
+Pada	IN
+tahun	NN
+1918	CD
+ia	PRP
+mendapatkan	VB
+ijazah	X
+terbang	VB
+nya	PRP
+.	Z
+
+#
+
+Dia	PRP
+menjalankan	VB
+10	CD
+perintah	NN
+Allah	NNP
+,	Z
+hadir	VB
+misa	X
+secara	JJ
+teratur	JJ,VB 
+,	Z
+dam	X
+juga	RB
+berdevosi	X
+kepada	IN
+Bunda	NNP
+Maria	NNP
+.	Z
+
+#
+
+Arief	NNP
+menggenggam	VB
+gelar	NN,VB 
+S3	NNP
+dari	IN
+Clemson	NNP
+University	NNP
+Genomics	NNP
+Institute	NNP
+dari	IN
+1999	CD
+-	SYM,Z 
+2000	CD
+.	Z
+
+#
+
+Komuni	NNP
+Ortodoks	NNP
+Oriental	NNP
+merupakan	VB
+suatu	CD
+kelompok	NN
+gereja	NN
+dalam	IN 
+Ortotoksi	NNP
+Oriental	NNP
+yang	SC
+menjalin	VB
+komuni	X
+penuh	JJ
+satu	CD
+sama	JJ
+lain	JJ
+.	Z
+
+#
+
+Kelompok	NN
+musik	NN
+terkenal	VB
+yang	SC
+dilahirkan	VB
+perusahaan	NN
+ini	PR
+,	Z
+termasuk	X
+SMAP	NNP
+,	Z
+TOKIO	NNP
+,	Z
+Kinki	NNP
+Kids	NNP
+,	Z
+V6	NNP
+,	Z
+
+Arashi	NNP
+,	Z
+NEWS	NNP
+,	Z
+Tackey	NNP
+&	Z
+Tsubasa	NNP
+,	Z
+KAT	NNP
+-	SYM,Z 
+TUN	NNP
+,	Z
+dan	CC
+Kanjani8	NNP
+.	Z
+
+#
+
+Produksi	NN
+akhirnya	RB
+dilakukan	VB
+secara	JJ
+manual	X
+di	IN
+laboratorium	X
+pengembangan	NN
+produk	NN
+yang	SC
+berfungsi	VB
+sebagai	IN
+pabrik	NN
+sementara	X
+.	Z
+
+#
+
+Bisa	MD 
+dikatakan	VB
+DNA	NNP
+Y	NNP
+Haplogrup	NNP
+O2b	NNP
+hanya	RB
+spesifik	JJ
+untuk	SC,IN 
+bangsa	NN
+Korea	NNP
+.	Z
+
+#
+
+Serta	IN 
+pengembangan	NN
+wilayah	NN
+yaitu	SC
+Sawahan	NNP
+,	Z
+Mboro	NNP
+,	Z
+Tanggulbaru	NNP
+dan	CC
+Tanggulrejo	NNP
+Kantor	NNP
+desa	NN
+ini	PR
+berada	VB
+di	IN
+Dusun	NNP
+Jajar	NNP
+.	Z
+
+#
+
+Dia	PRP
+menjadi	VB
+terkenal	VB
+saat	SC,NN 
+bermain	VB
+di	IN
+film	NN
+utama	JJ
+nya	PRP
+seperti	SC,IN 
+He	NNP
+'	Z
+s	NND
+Just	NNP
+Not	NNP
+That	NNP
+into	X
+You	NNP
+.	Z
+
+Dia	PRP
+dilahirkan	VB
+di	IN
+Memphis	NNP
+,	Z
+Tennessee	NNP
+.	Z
+
+#
+
+Pada	IN
+tahun	NN
+2008	CD
+,	Z
+
+akibat	NN
+meningkat	VB
+nya	PRP
+harga	NN
+minyak	NN
+,	Z
+industri	NN
+seperti	SC,IN 
+otomotif	NN
+mengalami	VB
+tekanan	NN
+harga	NN
+dari	IN
+ongkos	NN
+bahan mentah	VB
+dan	CC
+mengubah	VB
+perilaku	NN
+membeli	VB
+konsumen	NN
+.	Z
+
+#
+
+Billy	NNP
+Brandt	NNP
+(adalah	X
+aktor	NN
+pornografi	X
+gay	X
+yang	SC
+bekerja	VB
+untuk	SC,IN 
+Falcon	NNP
+Studios	NNP
+dan	CC
+Pacific	NNP
+Sun	NNP
+Entertainment	NNP
+pada	IN
+permulaan	NN
+karier	NN
+film	NN
+dewasa	JJ
+nya	PRP
+.	Z
+
+#
+
+Bandar udara	NN
+ini	PR
+terletak	VB
+di	IN
+dekat	JJ
+perbatasan	NN
+Amerika	NNP
+Serikat	NNP
+-	SYM,Z 
+Meksiko	NNP
+,	Z
+berseberangan	VB
+dengan	SC,IN 
+Laredo	NNP
+,	Z
+Texas	NNP
+dan	CC
+menangani	VB
+lalu lintas	NN
+nasional	JJ
+dan	CC
+internasional	JJ
+dari	IN
+kota	NN
+Nuevo	NNP
+Laredo	NNP
+.	Z
+
+#
+
+Ciu	NNP
+sangat	RB
+populer	JJ
+di	IN
+Pulau	NNP
+Jawa	NNP
+.	Z
+
+#
+
+Pada	IN
+tahun	NN
+2007	CD
+daerah	NN
+ini	PR
+memiliki	VB
+penduduk	NN
+sebesar	X
+18.886	CD
+jiwa	NN
+.	Z
+
+#
+
+Karapan	NNP
+sapi	NN
+merupakan	VB
+istilah	NN
+untuk	SC 
+menyebut	VB
+perlombaan	NN
+pacuan	NN
+sapi	NN
+yang	SC
+berasal	VB
+dari	IN
+Pulau	NNP
+Madura	NNP
+,	Z
+Jawa	NNP
+Timur	NNP
+.	Z
+
+#
+
+Jika	SC
+kita	PRP
+menangkap	VB
+atau	CC
+memanggil	VB
+Pokémon	NNP
+masuk	VB
+ke	IN
+dalam	NN 
+bola	NN
+,	Z
+maka	SC
+pancaran	NN
+sinar	NN
+merah	JJ
+akan	IN,MD 
+terlihat	VB
+.	Z
+
+#
+
+Garis	NN
+kebijakan	NN
+yang	SC
+dikeluarkan	VB
+sejak	SC 
+dilantik	VB
+tanggal	NN,VB 
+18	CD
+Maret	NNP
+1996	CD
+lalu	VB/CC 
+tertuang	VB
+dalam	IN 
+butir-butir	NN
+kebijakan	NN
+,	Z
+yaitu:	X
+Sosialisasi	NNP
+Gerakan	NNP
+Displin	NNP
+National	NNP
+,	Z
+Pembentukan	NNP
+/	SYM,Z 
+Kerjasama	NNP
+Tim	NNP
+,	Z
+Konsistensi	NNP
+Pendekatan	NNP
+Hukum	NNP
+,	Z
+Pelayanan	NNP
+Terbaik	NNP
+dan	CC
+Amankan	NNP
+dan	CC
+Sukseskan	NNP
+Pemilu	NNP
+1997	CD
+&	Z
+Sidang	NNP
+Umum	NNP
+MPR	NNP
+1998	CD
+,	Z
+
+yang	SC
+diarahkan	VB
+untuk	SC 
+mewujudkan	VB
+penampilan	NN
+peroranjyan	X
+/	SYM,Z 
+individu	NN
+,	Z
+penampilan	NN
+satuan	NN
+dan	CC
+pennmpilan	X
+operasional	NN
+.	Z
+
+#
+
+Ia	PRP
+pertama	OD
+kali	NN,VB 
+muncul	VB
+sebagai	IN
+Komandan	NNP
+Bond	NNP
+pada	IN
+film	NN
+tahun	NN
+1995	CD
+berjudul	VB
+GoldenEye	NNP
+yang	SC
+kemudian	CC,NN 
+banyak	CD
+mendapat	VB
+pujian	NN
+dari	IN
+para	DT
+kritikus	NN
+.	Z
+
+#
+
+Sejak	SC,IN 
+perang	NN
+pecah	JJ,VB 
+pada	IN
+7	CD
+Juli	NNP
+,	Z
+Jepang	NNP
+memfokuskan	VB
+diri	NN,VB 
+pada	IN
+operasi-operasi	NN
+militer	NN
+,	Z
+utama	JJ
+nya	PRP
+di	IN
+Cina	NNP
+Utara	NNP
+,	Z
+meliputi	VB
+propinsi	NN
+Hebei	NNP
+,	Z
+Shanxi	NNP
+,	Z
+dan	CC
+Chahar	NNP
+.	Z
+
+#
+
+Kejadian	NN
+ini	PR
+disebabkan	VB
+oleh	IN
+kutukan	NN
+para	DT
+Wasu	NNP
+karena	SC,IN 
+Arjuna	NNP
+membunuh	VB
+Bhisma	NNP
+(reinkarnasi	X
+salah satu	JJ
+Wasu)	NNP
+pada	IN
+saat	SC,NN 
+perang	NN
+di	IN
+Kurukshetra	NNP
+.	Z
+
+#
+
+Hilisebua	NNP
+Siwalubanua	NNP
+merupakan	VB
+salah satu	JJ
+desa	NN
+yang	SC
+ada	JJ
+di	IN
+kecamatan	NN
+Alasa	NNP
+,	Z
+kabupaten	NN
+Nias	NNP
+Utara	NNP
+,	Z
+provinsi	NN
+Sumatera	NNP
+Utara	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Journal	NNP
+Officiel	NNP
+de	X
+la	X
+République	NNP
+Française	NNP
+(JORF	X
+atau	CC
+JO)	NNP
+merupakan	VB
+berita negara	NN
+Republik	NNP
+Perancis	NNP
+.	Z
+
+#
+
+Tokoh	NN
+yang	SC
+dimainkan	VB
+antara	X
+lain	JJ
+delapan	CD
+biksu	X
+berwajah	VB
+hitam	JJ
+,	Z
+biksu	X
+kepala	NN
+,	Z
+orang muda	NN
+dan	CC
+orang tua	NN
+,	Z
+bangsawan	NN
+dan	CC
+nenek	NN
+Miyal	NNP
+.	Z
+
+#
+
+Kadar	NN
+lemak	NN
+yang	SC
+rendah	JJ
+dalam	IN 
+kacang hijau	NN
+menjadikan	VB
+bahan makanan	VB
+atau	CC
+minuman	NN
+yang	SC
+terbuat	VB
+dari	IN
+kacang hijau	NN
+tidak	NEG
+mudah	JJ
+berbau	VB
+.	Z
+
+#
+
+Sementara	NNP
+susu	NN
+akan	IN,MD 
+menenangkan	VB
+dan	CC
+kembali	VB
+memperbaiki	VB
+kadar	NN
+cairan	NN
+dalam	IN 
+tubuh	NN
+.	Z
+
+#
+
+Area	NN
+American	NNP
+Airlines	NNP
+berada	VB
+paling	RB
+dekat	JJ
+dengan	SC,IN 
+kumpulan	NN
+D	NNP
+dan	CC
+E	NNP
+,	Z
+area	NN
+Continental	NNP
+dan	CC
+Delta	NNP
+aberada	X
+paling	RB
+dekat	JJ
+dengan	SC,IN 
+kumpulan	NN
+C	NNP
+dan	CC
+area	NN
+terakhir	OD
+dekat	JJ
+dengan	SC,IN 
+kumpulan	NN
+B	NNP
+.	Z
+
+Rancangan	NN
+awal	NN
+bandara	NN
+memiliki	VB
+tampilan	NN
+yang	SC
+berbeda	VB
+dimana	VB
+terdiri	VB
+dari	IN
+tiga	CD
+terminal	X
+,	Z
+B	NNP
+,	Z
+C	NNP
+dan	CC
+D	NNP
+.	Z
+
+Perjanjian	NN
+baru	JJ,NN,MD 
+bagi	NN,IN,VB 
+bandara	NN
+mengubah	VB
+tampilan	NN
+ini	PR
+.	Z
+
+#
+
+Sebagai	IN
+juara	NN
+dunia	NN
+bertahan	VB
+,	Z
+Prost	NNP
+mengambil	VB
+alih	VB
+posisi	NN
+sebagai	IN
+pemimpin	NN
+tim	NN
+dan	CC
+ia	PRP
+saat	SC,NN 
+itu	PR
+mengaku	VB
+sudah	MD
+lebih	RB
+rileks	X
+dan	CC
+rendah diri	JJ
+dibandingkan	VB
+Mansell	NNP
+.	Z
+
+#
+
+Dalam	IN 
+disertasinya	X
+J	NNP
+.	Z
+
+Pardede	NNP
+mengemukakan	VB
+bahwa	SC
+istilah	NN
+
+"	Z
+Tanah	NN
+Batak	NNP
+"	Z
+
+dan	CC
+
+"	Z
+rakyat	NN
+Batak	NNP
+"	Z
+
+diciptakan	VB
+oleh	IN
+pihak	NN
+asing	JJ
+.	Z
+
+#
+
+Bagi	NN,IN,VB 
+sebagian	CD
+orang	NN 
+,	Z
+Israel	NNP
+,	Z
+Uni	NNP
+Eropa	NNP
+,	Z
+atau	CC
+Perserikatan	NNP
+Bangsa-Bangsa	NNP
+dipandang	VB
+sebagai	IN
+pemain-pemain	NN
+utama	JJ
+yang	SC
+peranan	NN
+nya	PRP
+telah	MD
+diramalkan	VB
+dalam	IN 
+Kitab Suci	NN
+.	Z
+
+Di	IN
+antara	X
+para	DT
+penulis	NN
+pra	JJ
+-	SYM,Z 
+milenial	X
+dispensasional	X
+,	Z
+ada	JJ
+orang-orang	NN
+yang	SC
+percaya	VB
+bahwa	SC
+orang	NN 
+Kristen	NNP
+secara	JJ
+adikodrati	X
+akan	IN,MD 
+dikumpulkan	VB
+ke	IN
+surga	NN
+oleh	IN
+Yesus	NNP
+dalam	IN 
+suatu	CD
+peristiwa	NN
+yang	SC
+disebut	VB
+Pengangkatan	NNP
+,	Z
+yang	SC
+terjadi	VB
+sebelum	SC
+“Penderitaan	X
+Besar”	NNP
+yang	SC
+dinubuatkan	VB
+dalam	IN 
+Matius	NNP
+24	CD
+-	SYM,Z 
+25;	CD
+Markus	NNP
+13	CD
+dan	CC
+Lukas	NNP
+21	CD
+.	Z
+
+#
+
+Semasa	JJ
+perang	NN
+,	Z
+pemerintah	NN
+membagikan	VB
+pakaian seragam	NN
+untuk	SC,IN 
+penduduk	NN
+laki-laki	NN
+.	Z
+
+#
+
+Alliance	NNP
+Française	NNP
+juga	RB
+menawarkan	VB
+sertifikasi	NN
+dalam	IN 
+Bahasa	NNP
+Perancis	NNP
+yang	SC
+terdiri	VB
+atas	IN 
+beberapa	CD
+jenjang	NN
+sertifikat	NN
+dan	CC
+diploma	X
+.	Z
+
+#
+
+Jalan tikus	NN
+di	IN
+wilayah	NN
+perbatasan	NN
+digunakan	VB
+sebagai	IN
+jalur	NN
+penyeludupan	NN
+barang	NN
+,	Z
+manusia	NN
+ataupun	CC
+narkotika	NN
+.	Z
+
+#
+
+'	Z
+SOLA	NNP
+GRACIA	NNP
+'	Z
+
+(	Z
+"	Z
+dari	IN
+Tuhan	NNP
+untuk	SC,IN 
+kita	PRP
+,	Z
+dan	CC
+dari	IN
+kita	PRP
+untuk	SC,IN 
+Tuhan	NNP
+"	Z
+)	Z
+Gereja	NNP
+Duta	NNP
+Injil	NNP
+memiliki	VB
+pameo	X
+
+"	Z
+Satu	CD
+Duta	NNP
+Injil	NNP
+yang	SC
+diberkati	VB
+,	Z
+bawa	VB
+dua	CD
+jiwa	NN
+baru	JJ,NN,MD 
+bagi	NN,IN,VB 
+Tuhan	NNP
+,	Z
+Jadilah	NNP
+tiga	CD
+Duta	NNP
+Injil	NNP
+Sejati	NNP
+,	Z
+beribu	VB
+-	SYM,Z 
+ribu	CD
+malaikat	NN
+diSurga	VB
+bersorak	VB
+sorai	X
+..	X
+
+"	Z
+
+Dalam	IN 
+setiap	CD
+acara	NN
+reguler	NN
+dan	CC
+kebaktian	NN
+,	Z
+sangat	RB
+ditekankan	VB
+sikap	NN
+jemaat	NN
+sebagai	IN
+Dua	NNP
+Injil	NNP
+yang	SC
+sesungguhnya	RB
+,	Z
+dimana	VB
+umat	NN
+tersebut	PR,VB 
+mampu	JJ
+membawa	VB
+pesan	NN
+keselamatan	NN
+Tuhan	NNP
+dalam	IN 
+kesaksian	NN
+dan	CC
+sikap	NN
+kehidupan	NN
+sehari-hari	JJ
+tanpa	SC,IN 
+harus	MD
+berbicara	VB
+,	Z
+sehingga	SC
+menjadi	VB
+kitab	NN
+terbuka	JJ,VB 
+bagi	NN,IN,VB 
+lingkungan	NN
+dimana	VB
+pun	RP
+mereka	PRP
+berada	VB
+...	X
+
+Web	NNP
+-	SYM,Z 
+site	X
+untuk	SC,IN 
+jadwal	NN
+kebaktian	NN
+,	Z
+updated	X
+info	X
+dan	CC
+lain-lain	JJ
+Mal	NNP
+Ambasador	NNP
+,	Z
+Lt	NNP
+.	Z
+
+5	CD
+Jl	NNP
+.	Z
+
+Prof	NNP
+.	Z
+
+Dr	NNP
+.	Z
+
+Satrio	NNP
+-	SYM,Z 
+Kuningan	NNP
+,	Z
+Jakarta	NNP
+Telp	NNP
+.	Z
+
+(021)	CD
+5760617	CD
+,	Z
+
+5760676	CD
+Fax	NNP
+.	Z
+
+(021)	CD
+5760677	CD
+Umat	NNP
+Gereja	NNP
+Duta	NNP
+Injili	NNP
+percaya	VB
+akan	IN,MD 
+tiga	CD
+hal:	X
+ialah	VB
+Tuhan	NNP
+Pencipta	NNP
+,	Z
+Ia	NNP
+selalu	RB
+benar	JJ
+.	Z
+
+#
+
+Jennings	NNP
+dengan	SC,IN 
+mudah	JJ
+lulus	JJ
+tes	NN
+kewarganegaraan	NN
+.	Z
+
+#
+
+Kelelawar	NN
+buah	NN 
+terbesar	JJ
+,	Z
+sekaligus	X
+kelelawar	NN
+terbesar	JJ
+,	Z
+adalah	VB
+kalong	X
+kapauk	X
+Pteropus	NNP
+vampyrus	X
+yang	SC
+bisa	MD 
+mencapai	VB
+berat	JJ
+1.500	CD
+gram	NND
+,	Z
+dan	CC
+bentangan	NN
+sayap	NN
+hingga	SC,IN 
+1.700	CD
+mm	NN
+.	Z
+
+#
+
+M	NND
+.	Z
+
+Akib	NNP
+Latuconsina	NNP
+adalah	VB
+Gubernur	NNP
+Maluku	NNP
+periode	NN
+1993	CD
+-	SYM,Z 
+1998	CD
+.	Z
+
+#
+
+Horney	NNP
+menemukan	VB
+ada	JJ
+10	CD
+bentuk	NND 
+kebutuhan	NN
+neurotis	X
+.	Z
+
+#
+
+Naga	NNP
+tersebut	PR,VB 
+mengatakan	VB
+kepadanya	X
+bahwa	SC
+Surga	NNP
+menghukum	VB
+wilayah	NN
+tersebut	PR,VB 
+karena	SC,IN 
+rakyat	NN
+nya	PRP
+mempersembahkan	VB
+daging	NN
+kepada	IN
+para	DT
+dewa	NN
+.	Z
+
+#
+
+Negara-negara	NN
+(bagian)	X
+diwakili	VB
+di	IN
+Dewan	NNP
+Federal	NNP
+(Bundesrat)	X
+dengan	SC,IN 
+43	CD
+kursi	NN,VB 
+(Prusia	X
+mendapatkan	VB
+17	CD
+kursi).	X
+
+#
+
+Dalih	NN
+nya	PRP
+adalah	VB
+penderitaan	NN
+penduduk	NN
+Jerman	NNP
+di	IN
+perbatasan	NN
+utara	NN
+dan	CC
+barat	NN
+Cekoslowakia	NNP
+,	Z
+yang	SC
+dikenal	VB
+sebagai	IN
+Sudetenland	NNP
+.	Z
+
+#
+
+Apa	WH 
+yang	SC
+herus	X
+dilakukan	VB
+Winnie	NNP
+?	Z
+
+#
+
+Jiāngshī	NNP
+diucapkan	VB
+gœngsi	X
+dalam	IN 
+bahasa	NN
+Kanton	NNP
+,	Z
+atau	CC
+kyonshi	X
+dalam	IN 
+bahasa	NN
+Jepang	NNP
+.	Z
+
+#
+
+Apa saja	PR,PRP 
+3	CD
+ranah	X
+berbeda	VB
+warna	NN
+itu	PR
+?	Z
+
+#
+
+Apakah	NNP
+Anda	NNP
+ingin	RB
+perilaku	NN
+besar	JJ
+dari	IN
+seseorang	PRP
+bernama	VB
+Gaga	NNP
+?	Z
+
+#
+
+Stack	NNP
+protokol	NN
+Banyan	NNP
+VINES	NNP
+teridi	X
+atas	IN 
+lima	CD
+lapisan	NN
+yang	SC
+dapat	MD,VB 
+dipetakan	VB
+ke	IN
+dalam	NN 
+tujuh	CD
+lapisan	NN
+model	NN
+referensi	NN
+OSI	NNP
+,	Z
+yakni	SC
+sebagai	IN
+berikut:	X
+
+#
+
+Akupunktur	NNP
+berasal	VB
+dari	IN
+Tiongkok	NNP
+dan	CC
+pada	IN
+umum	JJ
+nya	PRP
+dikaitkan	VB
+dengan	SC,IN 
+Obat-obatan	NNP
+Tradisional	NNP
+Tiongkok	NNP
+.	Z
+
+#
+
+Jacques	NNP
+Rogge	NNP
+telah	MD
+diberi	VB
+gelar kehormatan	NN
+oleh	IN
+Raja	NNP
+Albert	NNP
+II	NNP
+.	Z
+
+#
+
+Fotografer	NNP
+atau	CC
+juru	NN
+foto	NN
+()	X
+adalah	VB
+orang-orang	NN
+yang	SC
+membuat	VB
+gambar	NN,VB 
+dengan	SC,IN 
+cara	NN
+menangkap	VB
+cahaya	NN
+dari	IN
+subyek	X
+gambar	NN,VB 
+dengan	SC,IN 
+kamera	NN
+maupun	CC
+peralatan	NN
+fotografi	NN
+lain	JJ
+nya	PRP
+,	Z
+dan	CC
+umum	JJ
+nya	PRP
+memikirkan	VB
+seni	NN,VB 
+dan	CC
+teknik	NN
+untuk	SC 
+menghasilkan	VB
+foto	NN
+yang	SC
+lebih	RB
+bagus	JJ
+serta	CC 
+berusaha	VB
+mengembangkan	VB
+ilmu	NN
+nya	PRP
+.	Z
+
+#
+
+Bagaimana	NNP
+King	NNP
+bisa	MD,NN 
+tertarik	JJ,VB 
+pada	IN
+bisnis	NN
+perhotelan	NN
+dan	CC
+pijat	X
+kesehatan	NN
+?	Z
+
+#
+
+Kabar	NN
+nya	PRP
+Kakashi	NNP
+meniru	VB
+1000	CD
+jurus	NN
+musuh	NN
+dengan	SC,IN 
+kemampuan	NN
+ini	PR
+.	Z
+
+#
+
+Rhipicephalus	NNP
+sanguineus	X
+juga	RB
+dapat	MD,VB 
+menularkan	VB
+Boutonneuse	NNP
+fever	X
+,	Z
+Babesiosis	NNP
+anjing	NN
+,	Z
+Erlichiosis	NNP
+anjing	NN
+dan	CC
+sejumlah	CD
+penyakit-penyakit	NN
+lain	JJ
+termasuk	X
+Rocky	NNP
+Mountain	NNP
+Spotted	NNP
+Fever	NNP
+dan	CC
+Q	NNP
+Fever	NNP
+.	Z
+
+#
+
+Bandara	NN
+Kodiak	NNP
+merupakan	VB
+sebuah	X
+bandara	NN
+yang	SC
+terletak	VB
+di	IN
+Kodiak	NNP
+,	Z
+Alaska	NNP
+,	Z
+Amerika	NNP
+Serikat	NNP
+.	Z
+
+#
+
+Pada	IN
+tanggal	NN,VB 
+8	CD
+Oktober	NNP
+1990	CD
+,	Z
+
+22	CD
+orang	NN 
+Palestina	NNP
+tewas	JJ
+terbunuh	VB
+dan	CC
+lebih	RB
+dari	IN
+100	CD
+orang	NN 
+lain	JJ
+nya	PRP
+terluka	VB
+oleh	IN
+Polisi	NNP
+Perbatasan	NNP
+Israel	NNP
+pada	IN
+peristiwa	NN
+Kerusuhan	NNP
+Bukit	NNP
+Bait	NNP
+Suci	NNP
+1990	CD
+,	Z
+
+yaitu	SC
+sebuah	X
+kerusuhan	NN
+yang	SC
+dipicu	VB
+oleh	IN
+pengumuman	NN
+dari	IN
+anggota	NN
+Setia	NNP
+Bait	NNP
+Suci	NNP
+bahwa	SC
+mereka	PRP
+akan	IN,MD 
+segera	RB
+meletakkan batu pertama	VB
+pembangunan	NN
+Bait	NNP
+Suci	NNP
+Ketiga	NNP
+Yahudi	NNP
+di	IN
+Bukit	NNP
+Bait	NNP
+Suci	NNP
+,	Z
+atau	CC
+yang	SC
+juga	RB
+dikenal	VB
+oleh	IN
+umat	NN
+Islam	NNP
+dengan	SC,IN 
+nama	NN
+Al	NNP
+-	SYM,Z 
+Haram	NNP
+Asy	NNP
+-	SYM,Z 
+Syarif	NNP
+.	Z
+
+#
+
+Ceuraceu	NNP
+merupakan	VB
+salah satu	JJ
+gampong	X
+yang	SC
+ada	JJ
+di	IN
+Mukim	NNP
+Sarah	NNP
+Raya	NNP
+,	Z
+kecamatan	NN
+Teunom	NNP
+,	Z
+Kabupaten	NNP
+Aceh	NNP
+Jaya	NNP
+,	Z
+provinsi	NN
+Aceh	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+MiniSDHC	NNP
+bisa	MD 
+digunakan	VB
+pada	IN
+perangkat	NN
+yang	SC
+mendukung	VB
+nya	PRP
+dimana	VB
+microSD	X
+pun	RP
+dapat	MD,VB 
+digunakan	VB
+.	Z
+
+#
+
+Apa	WH 
+aku	VB
+harus	MD
+memukul	VB
+engkau	PRP
+sampai	SC 
+jatuh	VB
+?	Z
+
+#
+
+Suatu	CD
+hari	NN
+Annie	NNP
+diadopsi	VB
+oleh	IN
+keluarga	NN
+kaya	JJ
+,	Z
+Brightons	NNP
+.	Z
+
+#
+
+Siapa	WH 
+yang	SC
+akan	IN,MD 
+mengira	VB
+bahwa	SC
+Argentina	NNP
+,	Z
+sebuah	X
+negara	NN
+yang	SC
+terisolir	X
+akan	IN,MD 
+pergi	VB
+berperang	VB
+melawan	VB
+pelanggan	NN
+terbesar	JJ
+nya	PRP
+dalam	IN 
+ekspor	NN,VB 
+hasil	NN
+pertanian	NN
+--	X
+Inggris	NNP
+?	Z
+
+#
+
+Suatu	CD
+saat	SC,NN 
+nanti	VB
+,	Z
+rahasia	NN
+itu	PR
+akan	IN,MD 
+terbuka	JJ,VB 
+dan	CC
+akan	IN,MD 
+menjungkirbalikkan	X
+dunia	NN
+mereka	PRP
+.	Z
+
+#
+
+Quinn	NNP
+dan	CC
+Sam	NNP
+terpilih	VB
+untuk	SC 
+menyanyi	VB
+duet	X
+di	IN
+Sectionals	NNP
+musim	NN
+kedua	OD 
+,	Z
+karena	SC,IN 
+mereka	PRP
+menang	JJ,VB 
+di	IN
+Duets	NNP
+dibantu	VB
+Finn	NNP
+dan	CC
+Rachel	NNP
+.	Z
+
+#
+
+Data	NN
+ini	PR
+didapatkan	VB
+dari	IN
+hasil	NN
+sensus	X
+yang	SC
+dilakukan	VB
+secara	JJ
+teratur	JJ,VB 
+dan	CC
+transparan	JJ
+.	Z
+
+#
+
+Demikian	PR
+pula	RB
+penumpang	NN
+yang	SC
+naik	VB
+pada	IN
+tahun	NN
+2004	CD
+menjadi	VB
+134.163	CD
+penumpang	NN
+naik	VB
+pada	IN
+tahun	NN
+2005	CD
+.	Z
+
+#
+
+Ia	PRP
+tidak	NEG
+memiliki	VB
+keturunan	NN
+namun	CC
+memiliki	VB
+karir	NN
+militer	NN
+yang	SC
+menakjubkan	VB
+.	Z
+
+#
+
+Akan	VB
+kah	RP
+Ajeng	NNP
+dkk	SYM
+bisa	MD 
+melewati	VB
+itu	PR
+semua	CD
+dan	CC
+dapat	MD,VB 
+terus	RB
+menjalin	VB
+persahabatan	NN
+yang	SC
+tulus	JJ
+?	Z
+
+#
+
+Apakah	NNP
+Kevin	NNP
+cs	X
+bisa	MD 
+memenangkan	VB
+pertaruhan	NN
+dengan	SC,IN 
+Mike	NNP
+,	Z
+yaitu	SC
+membawa	VB
+seorang	JJ
+gadis	NN
+cantik	JJ
+ke	IN
+pesta	NN
+dan	CC
+mendapatkan	VB
+hati	NN,VB 
+Jessica	NNP
+kembali	VB
+?	Z
+
+#
+
+Tanah	NN
+menjadi	VB
+berdebu	VB
+dan	CC
+penuh	JJ
+retak	JJ
+dan	CC
+yang	SC
+tersisa	VB
+di	IN
+sumur	NN
+desa	NN
+hanyalah	X
+air	NN
+berlumpur	VB
+.	Z
+
+#
+
+Warna	NN
+terracotta	X
+adalah	VB
+antara	X
+jingga	X
+dan	CC
+coklat	NN
+.	Z
+
+#
+
+Apakah	NNP
+SAFIRA	NNP
+akan	IN,MD 
+berhasil	JJ
+dengan	SC,IN 
+segala	X
+rencana	NN
+licik	JJ
+nya	PRP
+?	Z
+
+#
+
+Ia	PRP
+mendirikan	VB
+Forum	NNP
+Ritus	NNP
+Kata	NNP
+dan	CC
+menerbitkan	VB
+berkala	VB
+budaya	NN
+Kolong	NNP
+Budaya	NNP
+.	Z
+
+#
+
+Siapakah	NNP
+pendusta	NN
+itu	PR
+?	Z
+
+#
+
+Sudah	MD
+selesai	JJ
+?	Z
+
+#
+
+Kota	NN
+Hofheim	NNP
+memiliki	VB
+luas	JJ
+sebesar	X
+56.35	CD
+km².	X
+
+#
+
+Besaran	NN
+PBB	NNP
+yang	SC
+terutang	VB
+dalam	IN 
+satu	CD
+tahun	NN
+pajak	NN
+diinformasikan	VB
+dalam	IN 
+Hafis	NNP
+Anjeng	NNP
+Surat Pemberitahuan	NN
+Pajak	NNP
+Terutang	NNP
+(SPPT).	X
+
+#
+
+311	CD
+South	NNP
+Wacker	NNP
+Drive	NNP
+adalah	VB
+sebuah	X
+pencakar langit	NN
+postmodern	X
+berlantai	VB
+65	CD
+yang	SC
+selesai	JJ
+dibangun	VB
+tahun	NN
+1990	CD
+di	IN
+Chicago	NNP
+,	Z
+Amerika	NNP
+Serikat	NNP
+.	Z
+
+#
+
+Pada	IN
+saat	SC,NN 
+yang	SC
+sama	JJ
+pertemuan	NN
+yang	SC
+tersisah	X
+disediakan	VB
+untuk	SC,IN 
+anak-anak	NN
+dan	CC
+remaja	NN
+sesuai	JJ
+dengan	SC,IN 
+kelompok	NN
+masing-masing	PRP 
+(mirip	X
+dengan	SC,IN 
+sekolah	NN
+Minggu	NNP
+di	IN
+gereja	NN
+kristen	NN
+lainnya).	X
+
+#
+
+Transgender	NNP
+adalah	VB
+istilah	NN
+yang	SC
+digunakan	VB
+untuk	SC 
+mendeskripsikan	VB
+orang	NN 
+yang	SC
+melakukan	VB
+,	Z
+merasa	VB
+,	Z
+berpikir	VB
+atau	CC
+terlihat	VB
+berbeda	VB
+dari	IN
+jenis kelamin	NN
+yang	SC
+ditetapkan	VB
+saat	SC,NN 
+mereka	PRP
+lahir	VB
+.	Z
+
+#
+
+Tetapi	CC
+perjanjian	NN
+kontrak	NN
+dengan	SC,IN 
+film	NN
+Brenda	NNP
+Starr	NNP
+dan	CC
+sebuah	X
+sandiwara	X
+teater	X
+dari	IN
+Antony	NNP
+&	Z
+Cleopatra	NNP
+dan	CC
+The	NNP
+Taming	NNP
+of	X
+The	NNP
+Shrew	NNP
+sempat	X
+membuat	VB
+Dalton	NNP
+tidak	NEG
+bisa	MD 
+menerima	VB
+tawaran	NN
+tersebut	PR,VB 
+.	Z
+
+#
+
+SMK	NNP
+Negeri	NNP
+(SMKN)	X
+1	CD
+Benteng	NNP
+merupakan	VB
+salah satu	JJ
+Sekolah Menengah Kejuruan	NN
+Negeri	NNP
+yang	SC
+berada	VB
+di	IN
+Kabupaten	NNP
+Kepulauan	NNP
+Selayar	NNP
+,	Z
+Provinsi	NNP
+Sulawesi	NNP
+Selatan	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Sampai	SC,IN 
+Ujung	NNP
+Dunia	NNP
+merupakan	VB
+film	NN
+drama	NN
+Indonesia	NNP
+yang	SC
+dirilis	VB
+pada	IN
+15	CD
+Maret	NNP
+2012	CD
+yang	SC
+disutradarai	VB
+oleh	IN
+Monty	NNP
+Tiwa	NNP
+serta	CC 
+dibintangi	VB
+oleh	IN
+Gading	NNP
+Marten	NNP
+,	Z
+Dwi	NNP
+Sasono	NNP
+,	Z
+dan	CC
+Renata	NNP
+Kusmanto	NNP
+.	Z
+
+#
+
+Memel	VB
+masuk	VB
+ke	IN
+Prusia;	NNP
+perjanjian	NN
+itu	PR
+berlaku	VB
+hingga	IN 
+1919	CD
+.	Z
+
+#
+
+George	NNP
+,	Z
+yang	SC
+pernah	MD
+memberontak	VB
+kini	X
+setia	NN
+kepadanya	X
+,	Z
+dan	CC
+saudara	NN
+termuda	JJ
+nya	PRP
+,	Z
+Richard	NNP
+,	Z
+Adipati	NNP
+Gloucester	NNP
+.	Z
+
+#
+
+Uekusa	NNP
+di	IN
+grup	NN
+sastra	X
+,	Z
+sementara	X
+Kurosawa	NNP
+di	IN
+grup	NN
+seni rupa	JJ
+.	Z
+
+#
+
+Mendapatkan	VB
+opini	NN
+Wajar	NNP
+Tanpa	NNP
+Pengecualian	NNP
+(WTP)	X
+dari	IN
+Badan	NNP
+Pemeriksaan	NNP
+Keuangan	NNP
+Republik	NNP
+Indonesia	NNP
+atas	IN 
+Laporan Keuangan	NN
+Pemerintah Daerah	NN
+(LKPD)	X
+Tahun Anggaran	NN
+2010	CD
+.	Z
+
+#
+
+Akri	VB
+mulai	VB
+dikenal	VB
+sejak	SC 
+bergabung	VB
+bersama	VB
+Eko	NNP
+dan	CC
+Parto	NNP
+tergabung	VB
+dengan	SC,IN 
+kelompok	NN
+lawak	X
+Patrio	NNP
+.	Z
+
+#
+
+Kaisar	NN
+Gaozu	NNP
+yang	SC
+baru	JJ,NN,MD 
+menyadari	VB
+bahwa	SC
+Liu	NNP
+bukanlah	X
+lawan	VB
+yang	SC
+bisa	MD 
+dipandang	VB
+sebelah	X
+mata	NN
+,	Z
+mengirim	VB
+putra	NN
+keduanya	CD
+,	Z
+Li	NNP
+Shimin	NNP
+dan	CC
+putra	NN
+keempat	OD 
+,	Z
+Li	NNP
+Yuanji	NNP
+,	Z
+Pangeran	NNP
+Qi	NNP
+untuk	SC 
+menumpas	VB
+pemberontakan	NN
+Liu	NNP
+.	Z
+
+Pada	IN
+musim panas	NN
+622	CD
+,	Z
+
+Liu	NNP
+menggelari	VB
+diri	NN,VB 
+nya	PRP
+sebagai	IN
+Pangeran	NNP
+Handong	NNP
+(汉	X
+东	X
+王),	X
+ia	PRP
+mengorganisasi	VB
+pemerintahan	NN
+nya	PRP
+sama	JJ
+seperti	SC,IN 
+Dou	NNP
+dulu	X
+,	Z
+ia	PRP
+banyak	CD
+mempekerjakan	VB
+para	DT
+mantan	NN
+pejabat	NN
+Xia	NNP
+.	Z
+
+Sejarah	NN
+mencatat	VB
+bahwa	SC
+ia	PRP
+lebih	RB
+hebat	JJ
+dan	CC
+lebih	RB
+tegas	JJ
+dalam	IN 
+tindakan-tindakan	NN
+militer	NN
+nya	PRP
+daripada	IN 
+Dou	NNP
+.	Z
+
+Ia	PRP
+menjadikan	VB
+Mingzhou	NNP
+(sekarang	X
+wilayah	NN
+Handan)	NNP
+sebagai	IN
+ibukota	NN
+nya	PRP
+.	Z
+
+#
+
+Landas	NN
+pacu	VB
+bandara	NN
+yang	SC
+terbuat	VB
+dari	IN
+rumput	NN
+pun	RP
+diganti	VB
+menjadi	VB
+beton	NN
+pada	IN
+tahun	NN
+1957	CD
+dan	CC
+landas	NN
+pacu	VB
+diperpanjang	VB
+dari	IN
+1.140	CD
+meter	NND
+(3.750	CD
+kaki)	X
+menjadi	VB
+2.000	CD
+meter	NND
+(6.600	CD
+kaki)	X
+pada	IN
+tahun	NN
+1967	CD
+.	Z
+
+#
+
+Mengapa	WH 
+diletakkan	VB
+di	IN
+perbatasan	NN
+?	Z
+
+#
+
+Di sana	PR,PRP 
+ia	PRP
+bertemu	VB
+Sophia	NNP
+Leonides	NNP
+yang	SC
+pintar	JJ
+,	Z
+muda	JJ
+,	Z
+yang	SC
+sukses	NN
+bekerja	VB
+untuk	SC,IN 
+Kementerian	NNP
+Luar Negeri	NN
+Inggris	NNP
+.	Z
+
+#
+
+Bandar Udara	NN
+Internasional	NNP
+Faisalabad	NNP
+terletak	VB
+10	CD
+km	NND
+dari	IN
+pusat	JJ,NN 
+kota	NN
+Faisalabad	NNP
+di	IN
+Jhang	NNP
+Road	NNP
+.	Z
+
+Bandar udara	NN
+ini	PR
+tidak	NEG
+juga	RB
+besar	JJ
+daripada	SC,IN 
+bandara	NN
+lain	JJ
+nya	PRP
+di	IN
+Pakistan	NNP
+,	Z
+karena	SC,IN 
+bandar udara	NN
+ini	PR
+melayani	VB
+penduduk	NN
+Faisalabad	NNP
+,	Z
+Jhang	NNP
+,	Z
+Toba	NNP
+Tek	NNP
+Singh	NNP
+,	Z
+dan	CC
+Sargodha	NNP
+.	Z
+
+#
+
+Seragam	JJ,NN 
+asli	JJ
+tim	NN
+adalah	VB
+kemeja	X
+yang	SC
+terbelah	VB
+secara	JJ
+diagonal	X
+di	IN
+dada	NN
+dengan	SC,IN 
+warna	NN
+biru	JJ
+dan	CC
+putih	JJ
+di	IN
+setiap	CD
+sisi	NN,VB 
+,	Z
+serta	CC 
+dengan	SC,IN 
+celana pendek	NN
+putih	JJ
+dan	CC
+kaus kaki	NN
+biru tua	NN
+.	Z
+
+#
+
+Untuk	SC,IN 
+acara	NN
+ini	PR
+,	Z
+MBLAQ	NNP
+menjalani	VB
+syuting	X
+selama	JJ
+16	CD
+episode	X
+.	Z
+
+#
+
+Yang	SC
+tidak	NEG
+mendapat	VB
+giliran	NN
+mengelola	VB
+warung	NN
+biasanya	RB
+bertani	VB
+di	IN
+kampung	NN
+halaman	NN
+nya	PRP
+.	Z
+
+#
+
+Kotabumi	NNP
+Way	NNP
+Kanan	NNP
+adalah	VB
+kampung	NN
+di	IN
+kecamatan	NN
+Negeri	NNP
+Agung	NNP
+,	Z
+Kabupaten	NNP
+Way	NNP
+Kanan	NNP
+,	Z
+Lampung	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Ritual	NNP
+tari	NN,VB 
+sembah	VB
+biasanya	RB
+diadakan	VB
+oleh	IN
+masyarakat	NN
+lampung	X
+untuk	SC 
+menyambut	VB
+dan	CC
+memberikan	VB
+penghormatan	NN
+kepada	IN
+para	DT
+tamu	NN
+atau	CC
+undangan	NN
+yang	SC
+datang	VB
+,	Z
+mungkin	MD
+boleh	VB
+lah	RP
+dikatakan	VB
+sebagai	IN
+sebuah	X
+tarian	NN
+penyambutan	NN
+.	Z
+
+#
+
+Syair	NN
+Hamzah	NNP
+al	X
+-	SYM,Z 
+Fansuri	NNP
+banyak	CD
+terpengaruh	VB
+puisi-puisi	NN
+Arab	NNP
+dan	CC
+Persia	NNP
+(seperti	X
+rubaiyat	X
+karya	NN
+Umar	NNP
+Khayyam),	NNP
+namun	CC
+terdapat	VB
+perbedaan	NN
+.	Z
+
+#
+
+Pada	IN
+sensus	X
+1999	CD
+,	Z
+
+penduduk	NN
+nya	PRP
+berjumlah	VB
+394	CD
+jiwa	NN
+.	Z
+
+#
+
+Maka	SC
+kata	NN
+Pak	NNP
+Belalang	NNP
+,	Z
+dari mana	PR,PRP 
+datang	VB
+dan	CC
+apakah	X
+hajat	X
+?	Z
+
+#
+
+Dalam	IN 
+bahasa	NN
+Inggris	NNP
+juga	RB
+disebut	VB
+dengan	SC,IN 
+berbagai	CD
+nama	NN
+seperti	SC,IN 
+common	X
+snakehead	X
+,	Z
+snakehead	X
+murrel	X
+,	Z
+chevron	X
+snakehead	X
+,	Z
+striped	X
+snakehead	X
+dan	CC
+juga	RB
+aruan	X
+.	Z
+
+#
+
+Ia	PRP
+selalu	RB
+berada	VB
+di	IN
+pihak	NN
+yang	SC
+menguntungkan	JJ
+bagi	VB
+nya	PRP
+,	Z
+dan	CC
+bila	SC
+keadaan	NN
+memburuk	VB
+maka	SC
+ia	PRP
+segera	RB
+kabur	JJ
+.	Z
+
+#
+
+Di	IN
+antara	X
+mereka	PRP
+yang	SC
+mengabdi	VB
+padanya	X
+,	Z
+Tang	NNP
+paling	RB
+menaruh	VB
+kepercayaan	NN
+nya	PRP
+pada	IN
+Yi	NNP
+Yin	NNP
+(	Z
+伊	X
+尹	X
+),	X
+seorang	JJ
+mantan	NN
+budak	NN
+yang	SC
+kemudian	CC,NN 
+dipromosikan	VB
+menjadi	VB
+perdana	OD
+mentri	NN
+.	Z
+
+#
+
+Tepat	JJ
+nya	PRP
+di	IN
+negara bagian	NN
+Ohio	NNP
+.	Z
+
+Pada	IN
+tahun	NN
+2000	CD
+,	Z
+
+kota	NN
+ini	PR
+memiliki	VB
+jumlah	NN
+penduduk	NN
+sebanyak	CD
+217.014	CD
+jiwa	NN
+dan	CC
+memiliki	VB
+luas	JJ
+wilayah	NN
+161,6	CD
+km2	CD
+.	Z
+
+
+Kota	NN
+ini	PR
+memiliki	VB
+jumlah	NN
+kepadatan penduduk	NN
+sebanyak	CD
+1350,3	CD
+jiwa/km2	CD
+.	Z
+
+#
+
+Setelah	SC
+bermukim	VB
+di	IN
+Tokyo	NNP
+,	Z
+Hyakken	NNP
+menjadi	VB
+murid	NN
+pemain	NN
+koto	X
+tunanetra	X
+sekaligus	X
+pencipta	NN
+lagu	NN
+Michio	NNP
+Miyagi	NNP
+yang	SC
+terkenal	VB
+dengan	IN 
+lagu	NN
+
+"	Z
+Haru	NNP
+No	NNP
+Umi	NNP
+"	Z
+.	Z
+
+#
+
+Sebagian besar	NN
+dari	IN
+teks-teks	NN
+ini	PR
+ditulis	VB
+setelah	SC
+abad	NN
+ke-11	CD
+.	Z
+
+#
+
+Pada	IN
+bulan	NN
+Poush	NNP
+,	Z
+dilakukan	VB
+panen	NN
+dan	CC
+para	DT
+petani	NN
+memperoleh	VB
+banyak	CD
+makanan	NN
+dan	CC
+penghasilan	NN
+.	Z
+
+#
+
+Setelah	SC
+kematian	NN
+ayah	NN
+nya	PRP
+,	Z
+Van	NNP
+Geen	NNP
+masuk	VB
+seminari	VB
+di	IN
+Leuven	NNP
+.	Z
+
+#
+
+Terminal	NNP
+3	CD
+dari	IN
+BCIA	NNP
+saat	SC,NN 
+ini	PR
+merupakan	VB
+terbesar	JJ
+bandara	NN
+penumpang	NN
+kedua	CD 
+bangunan	NN
+terminal	X
+dunia	NN
+.	Z
+
+#
+
+Sebelum	SC
+meni	VB
+kah	RP
+dengan	SC,IN 
+Hengky	NNP
+,	Z
+Baby	NNP
+telah	MD
+meni	VB
+kah	RP
+dan	CC
+memiliki	VB
+dua	CD
+orang	NND 
+anak	NN
+,	Z
+Felicia	NNP
+dan	CC
+Felicita	NNP
+.	Z
+
+#
+
+Presiden	NN
+Pedro	NNP
+Pablo	NNP
+Ramirez	NNP
+menjadi	VB
+waspada	JJ
+terhadap	IN
+kekuasaan	NN
+Juan	NNP
+Perón	NNP
+yang	SC
+tumbuh	VB
+di	IN
+dalam	NN 
+pemerintahan	NN
+,	Z
+tetapi	CC
+ia	PRP
+tidak	NEG
+mampu	JJ
+untuk	SC 
+mengekang	VB
+kekuatan	NN
+itu	PR
+.	Z
+
+#
+
+Pamabakng	NNP
+adalah	VB
+suatu	CD
+simbol	NN
+yang	SC
+biasa	JJ
+digunakan	VB
+oleh	IN
+masyarakat	NN
+Dayak	NNP
+Kanayatn	NNP
+sebagai	IN
+solusi	NN
+penyelesaian	NN
+atau	CC
+pencegahan	NN
+konflik	NN
+.	Z
+
+#
+
+Sejak	SC,IN 
+2006	CD
+,	Z
+
+ia	PRP
+menjabat	VB
+ketua	NN
+Partai	NNP
+Rakyat	NNP
+Austria	NNP
+(ÖVP)	X
+di	IN
+parlemen	NN
+.	Z
+
+#
+
+Perwakilan	NN
+
+"	Z
+fallback	X
+"	Z
+
+adalah	VB
+angka	NN
+3	CD
+,	Z
+
+atau	CC
+huruf	NN
+
+"	Z
+Middle	NNP
+English	NNP
+"	Z
+
+ȝ	X
+Yogh;	NNP
+tetapi	CC
+tidak	NEG
+sering	RB
+dipakai	VB
+seperti	SC,IN 
+huruf	NN
+Mesir	NNP
+asli	JJ
+nya	PRP
+.	Z
+
+#
+
+Bila	SC
+tidak	NEG
+,	Z
+tekad	NN
+nya	PRP
+untuk	SC 
+bertarung	VB
+kembali	VB
+akan	IN,MD 
+membuat	VB
+dunia	NN
+melihat	VB
+dia	PRP
+seagai	X
+seorang	JJ
+penipu	NN
+ulung	JJ
+dan	CC
+pembohong	NN
+politik	NN
+terbesar	JJ
+yang	SC
+pernah	MD
+dikenal	VB
+negara	NN
+ini	PR
+.	Z
+
+#
+
+Our	NNP
+Wedding	NNP
+Family	NNP
+merupakan	VB
+salah satu	JJ
+film	NN
+Amerika	NNP
+Serikat	NNP
+karya	NN
+sutradara	NN
+Rick	NNP
+Famuyiwa	NNP
+,	Z
+film	NN
+bergenre	X
+komedi	NN
+romantis	NN
+ini	PR
+dirilis	VB
+pada	IN
+12	CD
+Maret	NNP
+2010	CD
+dan	CC
+dibintangi	VB
+antara	X
+lain	JJ
+Forest	NNP
+Whitaker	NNP
+,	Z
+America	NNP
+Ferrera	NNP
+,	Z
+Regina	NNP
+King	NNP
+,	Z
+dan	CC
+masih	MD
+banyak	CD
+lagi	MD,RB 
+.	Z
+
+#
+
+Prof	NNP
+.	Z
+
+Dr	NNP
+.	Z
+
+Khoirul	NNP
+Anwar	NNP
+()	X
+adalah	VB
+ilmuwan	NN
+Indonesia	NNP
+yang	SC
+menemukan	VB
+dan	CC
+sekaligus	X
+pemilik	NN
+paten	NN
+teknologi	NN
+4G	CD
+berbasis	VB
+OFDM	NNP
+.	Z
+
+#
+
+Prof	NNP
+.	Z
+
+Dr	NNP
+.	Z
+
+Khoirul	NNP
+Anwar	NNP
+adalah	VB
+anak	NN
+dari	IN
+pasangan	NN
+(almarhum)	X
+Sudjianto	NNP
+dengan	SC,IN 
+Siti	NNP
+Patmi	NNP
+.	Z
+
+#
+
+Yakub	NN
+menyetujui	VB
+nya	PRP
+.	Z
+
+#
+
+Sebab	SC
+,	Z
+orang	NN 
+yang	SC
+paham	NN
+akan	IN,MD 
+agama	NN
+itu	PR
+takut	JJ
+kepada	IN
+Allah	NNP
+SWT	NNP
+sehingga	SC
+tidak	NEG
+cocok	JJ
+berkecimpung	X
+dalam	IN 
+politik	NN
+yang	SC
+merupakan	VB
+dusta	NN
+,	Z
+kezhaliman	X
+,	Z
+pengkhianatan	NN
+,	Z
+dan	CC
+tipu daya	NN
+.	Z
+
+#
+
+Struktur	NN
+perekonomian	NN
+masyarakat	NN
+nya	PRP
+didominasi	VB
+oleh	IN
+kegiatan	NN
+pertanian	NN
+beserta	X
+kegiatan	NN
+pendukung	NN
+pertanian	NN
+.	Z
+
+#
+
+Contoh	NN
+dari	IN
+situasi	NN
+yang	SC
+tidak	NEG
+aman	JJ
+adalah	VB
+lingkungan	NN
+kerja	NN,VB 
+yang	SC
+sangat	RB
+bising	JJ
+,	Z
+lingkungan	NN
+kerja	NN,VB 
+dengan	SC,IN 
+kondisi	NN
+ekstrem	X
+(bertemperatur	X
+sangat	RB
+tinggi	JJ
+atau	CC
+rendah	JJ
+atau	CC
+bertekanan	VB
+tinggi)	X
+atau	CC
+terdapat	VB
+senyawa	JJ,NN 
+kimia	NN
+yang	SC
+berbahaya	VB
+.	Z
+
+#
+
+Di	IN
+tengah	NN 
+keberhasilan	NN
+menaklukan	X
+para	DT
+pesaing	NN
+nya	PRP
+,	Z
+konflik	NN
+antara	X
+putra-putra	NN
+Gaozu	NNP
+,	Z
+Li	NNP
+Jiancheng	NNP
+dan	CC
+Li	NNP
+Shimin	NNP
+semakin	RB
+tajam	JJ
+.	Z
+
+#
+
+Pada	IN
+bulan	NN
+April	NNP
+tahun	NN
+itu	PR
+,	Z
+Ugolino	NNP
+sekali	JJ
+lagi	MD,RB 
+menolak	VB
+berdamai	VB
+dengan	SC,IN 
+Genoa	NNP
+,	Z
+meskipun	SC
+musuh	NN
+nya	PRP
+ingin	RB
+memuaskan	VB
+diri	NN,VB 
+nya	PRP
+sendiri	JJ
+dengan	SC,IN 
+reparasi	X
+keuangan	NN
+.	Z
+
+#
+
+Diketahui	VB
+ada	JJ
+transfer	NN,VB 
+dana	NN
+ke	IN
+rekening	NN
+Milana	NNP
+dalam	IN 
+lima	CD
+kali	NN,VB 
+transfer	NN,VB 
+,	Z
+antara	X
+4	CD
+Desember	NNP
+2009	CD
+hingga	SC,IN 
+11	CD
+Januari	NNP
+2010	CD
+Tanggal	NNP
+30	CD
+September	NNP
+Istri	NNP
+Gayus	NNP
+melahirkan	VB
+anak kembar	NN
+laki-laki	NN
+.	Z
+
+#
+
+Fraser	NNP
+dan	CC
+Navarro	NNP
+berspekulasi	VB
+bahwa	SC
+Juan	NNP
+Perón	NNP
+membuat	VB
+saran	NN
+bahwa	SC
+pemain	NN
+membuat	VB
+serikat buruh	NN
+,	Z
+dan	CC
+para	DT
+pemain	NN
+lain	JJ
+nya	PRP
+mungkin	MD
+merasa	VB
+politik	NN
+yang	SC
+baik	JJ
+untuk	SC 
+memilih	VB
+gundik	NN
+nya	PRP
+.	Z
+
+#
+
+Ia	PRP
+juga	RB
+menyerang	VB
+Amir	NNP
+Husein	NNP
+yang	SC
+menjadi	VB
+sekutu	NN
+nya	PRP
+.	Z
+
+#
+
+Sekelompok	JJ
+vektor	NN
+yang	SC
+tidak	NEG
+memenuhi	VB
+syarat	NN
+ini	PR
+dinamakan	VB
+bergantung	VB
+linier	X
+.	Z
+
+#
+
+Museum	NNP
+Monumen	NNP
+dengan	SC,IN 
+bentuk	NN 
+kerucut	NN
+ini	PR
+terdiri	VB
+dari	IN
+3	CD
+lantai	NN
+dan	CC
+dilengkapi	VB
+dengan	SC,IN 
+ruang	NN
+perpustakaan	NN
+serta	IN 
+ruang	NN
+serbaguna	X
+.	Z
+
+#
+
+Kalau	SC
+dengan	SC,IN 
+posisi	NN
+ini	PR
+suami	NN
+mampu	JJ
+menahan	VB
+ejakulasi	X
+,	Z
+maka	SC
+hubungan	NN
+seksual	JJ
+dapat	MD,VB 
+dilakukan	VB
+dalam	IN 
+posisi	NN
+suami	NN
+di	IN
+atas	NN 
+.	Z
+
+#
+
+Tari	NN,VB 
+Andun	NNP
+adalah	VB
+salah satu	JJ
+tarian	NN
+rakyat	NN
+yang	SC
+berasal	VB
+dari	IN
+Bengkulu	NNP
+dan	CC
+dilakukan	VB
+pada	IN
+saat	SC,NN 
+pesta	NN
+perkawinan	NN
+.	Z
+
+#
+
+Pada	IN
+bulan	NN
+Mei	NNP
+2011	CD
+lalu	VB/CC 
+,	Z
+ia	PRP
+memutuskan	VB
+membeli	VB
+51%	CD
+saham	NN
+Mandala	NNP
+Airlines	NNP
+.	Z
+
+#
+
+Bagaimana	NNP
+pasangan	NN
+ini	PR
+bertahan	VB
+hidup	NN,VB 
+di	IN
+tengah	NN 
+pertikaian	NN
+antara	X
+manusia	NN
+dan	CC
+fangire	X
+?	Z
+
+#
+
+ketika	SC
+orang	NN 
+mengambil	VB
+hak cipta	JJ
+seseorang	PRP
+maka	SC
+orang	NN 
+tersebut	PR,VB 
+akan	IN,MD 
+mendapat	VB
+hukuman	NN
+yang	SC
+sesuai	JJ
+pada	IN
+kejahatan	NN
+yang	SC
+di	IN
+lakukan	VB
+Menurut	NNP
+UU	NNP
+No	NNP
+.	Z
+
+19	CD
+Tahun	NNP
+2002	CD
+pasal	NN
+13	CD
+,	Z
+
+tidak	NEG
+ada	JJ
+hak cipta	JJ
+atas	IN 
+hasil	NN
+rapat terbuka	NN
+lembaga-lembaga	NN
+Negara	NNP
+,	Z
+peraturan	NN
+perundang	X
+-	SYM,Z 
+undangan	NN
+,	Z
+pidato kenegaraan	NN
+atau	CC
+pidato	NN
+pejabat	NN
+Pemerintah	NNP
+,	Z
+putusan pengadilan	NN
+atau	CC
+penetapan	NN
+hakim	NN
+,	Z
+ataupun	CC
+keputusan	NN
+badan	NN
+arbitrase	NN
+atau	CC
+keputusan	NN
+badan-badan	NN
+sejenis	JJ
+lain	JJ
+nya	PRP
+(misalnya	X
+keputusan-keputusan	NN
+yang	SC
+memutuskan	VB
+suatu	CD
+sengketa).	X
+
+#
+
+Aran	NNP
+bermuara	VB
+di	IN
+sisi	NN,VB 
+utara	NN
+Baigura	NNP
+di	IN
+Hélette	NNP
+.	Z
+
+#
+
+Project	NNP
+Kids:	NNP
+Momoko	NNP
+Tsugunaga	NNP
+dan	CC
+Miyabi	NNP
+Natsuyaki	NNP
+dari	IN
+Berryz	NNP
+Kobo	NNP
+,	Z
+dan	CC
+Airi	NNP
+Suzuki	NNP
+dari	IN
+°C-ute	X
+.	Z
+
+#
+
+Lahan	NN
+yang	SC
+luas	JJ
+dan	CC
+tanah	NN
+yang	SC
+subur	JJ
+serta	IN 
+tenaga kerja	NN
+11.829	CD
+orang	NND 
+merupakan	VB
+faktor	NN
+yang	SC
+sangat	RB
+mendukung	VB
+bagi	NN,IN,VB 
+pengembangan	NN
+agroindustri	NN
+.	Z
+
+#
+
+Prigelan	NNP
+adalah	VB
+desa	NN
+di	IN
+kecamatan	NN
+Pituruh	NNP
+,	Z
+Purworejo	NNP
+,	Z
+Jawa	NNP
+Tengah	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Bagaimanakah	NNP
+kisah	NN
+selanjutnya	RB
+?	Z
+
+#
+
+Akan tetapi	NN
+Parlemen	NNP
+pihak	NN
+Muslim	NNP
+Bosnia	NNP
+Herzegovina	NNP
+menolak	VB
+rencana	NN
+perjanjian	NN
+tersebut	PR,VB 
+.	Z
+
+#
+
+Selain	CC 
+itu	PR
+adapula	X
+kebun	NN
+anggur	NN
+di	IN
+lembah	NN
+sungai	NN
+seperti	SC,IN 
+Rhein	NNP
+dan	CC
+Mosel	NNP
+karena	SC,IN 
+air	NN
+sungai	NN
+dapat	MD,VB 
+mengendalikan	VB
+suhu	NN
+di	IN
+malam	NN
+hari	NN
+dan	CC
+memantulkan	VB
+kehangatan	NN
+sinar	NN
+matahari	NN
+.	Z
+
+#
+
+Lima	CD
+sahabat:	X
+Andini	NNP
+,	Z
+Ramon	NNP
+,	Z
+Venska	NNP
+,	Z
+Sandra	NNP
+dan	CC
+Papang	NNP
+,	Z
+melakukan	VB
+perjalanan	NN
+ke	IN
+desa	NN
+Sumber	NNP
+Sari	NNP
+.	Z
+
+Kebahagiaan	NN
+mereka	PRP
+makin	RB
+lengkap	JJ
+,	Z
+di	IN
+seberang	JJ,VB 
+vila	X
+ada	JJ
+hiburan	NN
+pasar malam	NN
+.	Z
+
+#
+
+Pada	IN
+tahun	NN
+1271	CD
+,	Z
+
+setelah	SC
+sebulan	JJ
+pertempuran	NN
+,	Z
+akhirnya	RB
+istana	NN
+tersebut	PR,VB 
+jatuh	VB
+ke	IN
+tangan	NN
+Baibar	NNP
+.	Z
+
+#
+
+Di	IN
+dalam	NN 
+rapat	JJ,NN 
+Gubernur	NNP
+,	Z
+Badan	NNP
+Pemerintah	NNP
+Harian	NNP
+dan	CC
+Staff	NNP
+Residen	NNP
+Mr	NNP
+.	Z
+
+Sis	NNP
+Tjakraningrat	NNP
+,	Z
+disusun	VB
+lah	RP
+program	NN
+kerje	X
+Pemerintah Daerah	NN
+,	Z
+yang	SC
+dititik	VB
+beratkan	VB
+pada:	X
+Program	NNP
+tersebut	PR,VB 
+dilaksanakan	VB
+secara	JJ
+konsekwen	X
+sehingga	SC
+dalam	IN 
+waktu	NN
+singkat	JJ
+jalan raya	NN
+antara	X
+Pekanbaru	NNP
+sampai	SC,IN 
+batas	NN
+Sumatera	NNP
+Barat	NNP
+siap	JJ
+dikerjakan	VB
+.	Z
+
+#
+
+Begitu	RB 
+mudah	JJ
+kah	RP
+semua	CD
+itu	PR
+berdiri	VB
+di	IN
+kompleks	NN
+Regina	NNP
+Pacis	NNP
+?	Z
+
+#
+
+Mereka	PRP
+memang	RB
+berbeda	VB
+,	Z
+tetapi	CC
+bagaimanakah	X
+bisa	MD 
+dikenali	VB
+?	Z
+
+#
+
+Menurut	NNP
+konstitusi	NN
+kerajaan	NN
+tahun	NN
+1864	CD
+,	Z
+
+jika	SC
+raja	NN
+tidak	NEG
+menunjuk	VB
+penerus	NN
+,	Z
+raja	NN
+baru	JJ,NN,MD 
+akan	IN,MD 
+dipilih	VB
+oleh	IN
+anggota	NN
+keluarga kerajaan	NN
+Hawaii	NNP
+yang	SC
+masih	MD
+hidup	NN,VB 
+.	Z
+
+#
+
+Kemudian	CC,NN 
+Aang	NNP
+menemukan	VB
+Toph	NNP
+berada	VB
+di	IN
+rumah	NN
+keluarga	NN
+Bei	NNP
+Fong	NNP
+,	Z
+dan	CC
+ia	PRP
+mendapat	VB
+kesempatan	NN
+untuk	SC 
+berbicara	VB
+tentang	VB
+tujuan	NN
+perjalanan	NN
+nya	PRP
+dan	CC
+ia	PRP
+menjelaskan	VB
+bahwa	SC
+ia	PRP
+membutuhkan	VB
+guru	NN
+pengendali	NN
+tanah	NN
+.	Z
+
+#
+
+Makam	NN
+nya	PRP
+sempat	X
+tak	NEG
+diketahui	VB
+,	Z
+lalu	VB/CC 
+Zain	NNP
+bin	X
+Abdullah	NNP
+Bahasan	NNP
+menampakkan	VB
+nya	PRP
+,	Z
+sehingga	SC
+terkenal	VB
+hingga	SC,IN 
+sekarang	X
+.	Z
+
+#
+
+Porto	NNP
+-	SYM,Z 
+Novo	NNP
+(juga	X
+dikenal	VB
+sebagai	IN
+Hogbonou	NNP
+dan	CC
+Adjacé)	NNP
+adalah	VB
+ibukota	NN
+sekaligus	X
+kota	NN
+terbesar	JJ
+kedua	OD,CD 
+di	IN
+negara	NN
+Benin	NNP
+,	Z
+Afrika	NNP
+Barat	NNP
+.	Z
+
+#
+
+Setelah	SC
+melihat	VB
+hasil	NN
+yang	SC
+dicapai	VB
+nya	PRP
+,	Z
+kedua	CD 
+orangtua	NN
+nya	PRP
+akhirnya	RB
+mengizinkan	VB
+Faisal	NNP
+menekuni	VB
+basket	X
+.	Z
+
+#
+
+School	NNP
+on	X
+Internet	NNP
+Asia	NNP
+atau	CC
+disingkat	VB
+menjadi	VB
+SOI	NNP
+ASIA	NNP
+adalah	VB
+suatu	CD
+proyek	NN
+menggunakan	VB
+internet	NN
+berbasis	VB
+satelit	NN
+yang	SC
+menyediakan	VB
+lingkungan	NN
+pendidikan	NN
+lewat	VB
+internet	NN
+dengan	SC,IN 
+cara	NN
+yang	SC
+lebih	RB
+murah	JJ
+,	Z
+mudah	JJ
+untuk	SC 
+menyebarkan	VB
+,	Z
+dan	CC
+lebih	RB
+layak	JJ
+untuk	SC 
+dipakai	VB
+di	IN
+universitas	NN
+yang	SC
+terletak	VB
+didaerah	VB
+dimana	VB
+lingkungan	NN
+internet	NN
+tidak	NEG
+cukup	RB
+berkembang	VB
+.	Z
+
+#
+
+Istilah	NN
+busa	NN
+laut	NN
+digunakan	VB
+untuk	SC 
+mendeskripsikan	VB
+busa	NN
+yang	SC
+terbentuk	VB
+di	IN
+puncak	NN
+air laut	NN
+akibat	NN
+aksi	NN
+gelombang laut	NN
+.	Z
+
+#
+
+Mungkinkah	NNP
+,	Z
+nama	NN
+wuku	X
+Kuningan	NNP
+mengilhami	VB
+atau	CC
+mendorong	VB
+pemberian	NN
+nama	NN
+bagi	NN,IN,VB 
+daerah	NN
+ini	PR
+?	Z
+
+#
+
+Siapakah	NNP
+yang	SC
+dapat	MD,VB 
+mengatakan	VB
+kepada	IN
+manusia	NN
+apa	WH 
+yang	SC
+akan	IN,MD 
+terjadi	VB
+di bawah	VB
+matahari	NN
+sesudah	X
+dia	PRP
+?	Z
+
+#
+
+Nama	NN
+Ian	NNP
+Antono	NNP
+mulai	VB
+menarik	JJ,VB 
+perhatian	NN
+karena	SC,IN 
+pada	IN
+saat	SC,NN 
+itu	PR
+atmosfer	NN
+musik	NN
+rock	X
+di	IN
+Indonesia	NNP
+belum	NEG
+ada	JJ
+yang	SC
+memulai	VB
+.	Z
+
+#
+
+Album	NN
+studio	NN
+berjudul	VB
+
+"	Z
+THE	NNP
+B1A4	NNP
+I:	NNP
+IGNITION	NNP
+"	Z
+
+atau	CC
+hanya	RB
+
+"	Z
+IGNITION	NNP
+"	Z
+
+dijadwalkan	VB
+untuk	SC 
+rilis	VB
+14	CD
+Maret	NNP
+diikuti	VB
+oleh	IN
+tahap	NN
+comeback	X
+mereka	PRP
+di	IN
+Mnet	NNP
+M	NNP
+!	Z
+
+#
+
+Karya-karya	NN
+terawal	VB
+nya	PRP
+masih	MD
+terikat	VB
+kepada	IN
+bentuk-bentuk	NN
+bahasa	NN
+Melayu	NNP
+Klasik	NNP
+.	Z
+
+#
+
+Film	NN
+ini	PR
+dirilis	VB
+17	CD
+April	NNP
+2008	CD
+,	Z
+
+dua	CD
+bulan	NN
+setelah	SC
+Ayat-ayat	NNP
+Cinta	NNP
+dirilis	VB
+pada	IN
+28	CD
+Februari	NNP
+2008	CD
+.	Z
+
+#
+
+Kedua	CD 
+induk	NN
+mengerami	VB
+nya	PRP
+secara	JJ
+bergantian;	X
+dan	CC
+umum	JJ
+nya	PRP
+telur	NN
+kemudian	CC,NN 
+menetas	VB
+satu	CD
+persatu	X
+,	Z
+bukan	NEG
+berbarengan	X
+.	Z
+
+#
+
+Demikian	PR
+juga	RB
+untuk	SC,IN 
+produk-produk	NN
+herbal	X
+yang	SC
+berasal	VB
+dari	IN
+bahan	NN
+alami	JJ,VB 
+juga	RB
+telah	MD
+dipersiapkan	VB
+proses	NN
+registrasi	NN
+nya	PRP
+untuk	SC 
+memasuki	VB
+pasar	NN
+baru	JJ,NN,MD 
+seperti:	X
+Filipina	NNP
+,	Z
+Myanmar	NNP
+,	Z
+Pakistan	NNP
+,	Z
+Uni	NNP
+Emirat	NNP
+Arab	NNP
+,	Z
+Oman	NNP
+,	Z
+Bahrain	NNP
+dan	CC
+Bangladesh	NNP
+.	Z
+
+#
+
+Begitu	PR 
+juga	RB
+hal	NN
+nya	PRP
+dengan	SC,IN 
+pegawai	NN
+yang	SC
+bekerja	VB
+di	IN
+perusahaan	NN
+dengan	SC,IN 
+gaji	NN
+mengikuti	VB
+tingkat	NN
+inflasi	NN
+.	Z
+
+#
+
+Ia	PRP
+bermain	VB
+sebagai	IN
+centre	X
+karena	SC,IN 
+ia	PRP
+adalah	VB
+pemain	NN
+tertinggi	JJ
+dalam	IN 
+tim	NN
+nya	PRP
+.	Z
+
+#
+
+Dibangun	VB
+oleh	IN
+Pemerintah	NNP
+dengan	SC,IN 
+bantuan	NN
+dana	NN
+dari	IN
+ADB	NNP
+(Asian	X
+Development	NNP
+Bank)	NNP
+Loan	NNP
+356	CD
+pada	IN
+tahun	NN
+1987	CD
+untuk	SC,IN 
+5	CD
+jurusan	NN
+(Bangunan	X
+,	Z
+Elektronika	NNP
+,	Z
+Listrik	NNP
+,	Z
+Teknologi	NNP
+Pengerjaan	NNP
+Logam	NNP
+(TPL)	X
+dan	CC
+Otomotif)	NNP
+dengan	SC,IN 
+tujuan	NN
+untuk	SC 
+menghasilkan	VB
+tenaga-tenaga	NN
+ahli	NN
+teknik	NN
+tingkat	NN
+madya	X
+yang	SC
+memiliki	VB
+keterampilan	NN
+yang	SC
+memadai	JJ,VB 
+dan	CC
+siap pakai	VB
+untuk	SC 
+mengisi	VB
+kesempatan	NN
+dalam	IN 
+pembangunan	NN
+di	IN
+tanah air	NN
+.	Z
+
+#
+
+Tanggal	NN,VB 
+kelahiran	NN
+Gaudapa	NNP
+tidak	NEG
+pasti	JJ
+,	Z
+bahkan	RB
+terdapat	VB
+keraguan	NN
+apakah	X
+Gaudapa	NNP
+pernah	MD
+hidup	NN,VB 
+atau	CC
+tidak	NEG
+.	Z
+
+#
+
+Setelah	SC
+sebuah	X
+perampokan	NN
+bank	NN
+yang	SC
+sukses	NN
+,	Z
+Ibrahim	NNP
+tiba-tiba	RB
+menyewa	VB
+pembunuh bayaran	NN
+untuk	SC 
+menghabisi	VB
+kompanyonya	X
+,	Z
+Umar	NNP
+.	Z
+
+Hasil	NN
+ranpokan	X
+dilarikan	VB
+.	Z
+
+#
+
+Sindanghayu	NNP
+adalah	VB
+desa	NN
+di	IN
+kecamatan	NN
+Takokak	NNP
+,	Z
+Cianjur	NNP
+,	Z
+Jawa	NNP
+Barat	NNP
+,	Z
+Indonesia	NNP
+.	Z
+
+#
+
+Menutut	NNP
+waktu	NN
+lahir	VB
+nya	PRP
+dan	CC
+alat	NN
+musik	NN
+yang	SC
+dipakai	VB
+,	Z
+maka	SC
+ada	JJ
+3	CD
+jenis	NN 
+Musik	NNP
+Melayu	NNP
+,	Z
+yaitu:	X
+Menurut	NNP
+Fadlin	NNP
+,	Z
+ada	JJ
+tiga	CD
+jenis	NN 
+rentak	X
+Musik	NNP
+Melayu	NNP
+,	Z
+yaitu:	X
+Menurut	NNP
+wawancara	NN
+khusus	JJ
+dengan	SC,IN 
+Daryudi	NNP
+(Seorang	X
+ahli	NN
+musik	NN
+lokal	JJ
+di	IN
+Medan)	NNP
+menyebutkan	VB
+rentak	X
+dibagi	VB
+dalam:	X
+
+#
+
+Kuba	NNP
+mulai	VB
+melakukan	VB
+negosiasi	NN
+pembelian	NN
+senjata	NN
+dengan	SC,IN 
+Eropa	NNP
+Timur	NNP
+pada	IN
+bulan	NN
+Maret	NNP
+1960	CD
+.	Z
+
+#
+
+Akhirnya	RB
+pada	IN
+22	CD
+Februari	NNP
+1967	CD
+Sukarno	NNP
+“menyerahkan	X
+kekuasaan”	X
+kepada	IN
+pejabat	NN
+presiden	NN
+dan	CC
+dilegalisasi	X
+dengan	SC,IN 
+Ketetapan	NNP
+MPRS	NNP
+No	NNP
+.	Z
+
+XXXIII	NNP
+/	SYM,Z 
+MPRS	NNP
+/	SYM,Z 
+1967	CD
+tentang	VB
+Pencabutan	NNP
+Kekuasaan	NNP
+Pemerintahan Negara	NN
+dari	IN
+Presiden	NNP
+Soekarno	NNP
+,	Z
+presiden	NN
+Indonesia	NNP
+dimakzulkan	X
+untuk	SC,IN 
+pertama	OD
+kali	NN,VB 
+nya	PRP
+secara	JJ
+resmi	JJ
+pada	IN
+12	CD
+Maret	NNP
+1967	CD
+.	Z
+
+#
+
+Pondok	NNP
+Pesantren	NNP
+Al	NNP
+-	SYM,Z 
+Hidayah	NNP
+Pondok	NNP
+Pesantren	NNP
+Al	NNP
+-	SYM,Z 
+Hidayah	NNP
+
+#
+
+Dugaan	NN
+populer	JJ
+lain	JJ
+nya	PRP
+adalah	VB
+kolam	NN
+ini	PR
+digunakan	VB
+sebagai	IN
+tempat	NN
+mandi	VB
+dan	CC
+kolam	NN
+latihan	NN
+renang	NN
+prajurit	NN
+Majapahit	NNP
+,	Z
+di	IN
+samping	NN
+itu	PR
+kolam	NN
+ini	PR
+diduga	VB
+menjadi	VB
+bagian	NN
+taman hiburan	NN
+tempat	NN
+para	DT
+bangsawan	NN
+Majapahit	NNP
+menjamu	VB
+para	DT
+duta	NN
+dan	CC
+tamu	NN
+kerajaan	NN
+.	Z
+
+#
+
+Meskipun	SC
+begitu	SC,PR,RB 
+,	Z
+ada	JJ
+perbedaan	NN
+dengan	SC,IN 
+kedua	OD,CD 
+bentuk	NN 
+tersebut:	X
+Di	NNP
+luar	JJ,NN 
+diskusi	NN
+keagamaan	NN
+,	Z
+rasionalisme	X
+dapat	MD,VB 
+diterapkan	VB
+secara	JJ
+lebih	RB
+umum	JJ
+,	Z
+misalnya	SC
+kepada	IN
+masalah-masa	NN
+lah	RP
+politik	NN
+atau	CC
+sosial	NN
+.	Z
+
+#
+
+Seruan	NN
+Luther	NNP
+kepada	IN
+Gereja	NNP
+agar	SC
+kembali	VB
+kepada	IN
+ajaran-ajaran	NN
+Alkitab	NNP
+telah	MD
+melahirkan	VB
+tradisi	NN
+baru	JJ,NN,MD 
+dalam	IN 
+agama	NN
+Kristen	NNP
+.	Z
+
+#
+
+Sebagian	CD
+karya	NN
+nya	PRP
+ditulis	VB
+di sana	PR,PRP 
+,	Z
+sebagian	CD
+lagi	MD,RB 
+di	IN
+Tanara	NNP
+.	Z
+
+#
+
+Ia	PRP
+bertemu	VB
+dengan	SC,IN 
+aden	X
+-	SYM,Z 
+Powell	NNP
+bulan	NN
+Oktober	NNP
+1906	CD
+,	Z
+
+dan	CC
+mereka	PRP
+saling	RB
+berbagi	VB
+ide	NN
+tentang	VB
+program	NN
+pelatihan	NN
+bagi	NN,IN,VB 
+pemuda	NN
+.	Z
+
+#
+
+Orkes	NNP
+ini	PR
+,	Z
+yang	SC
+berangkat	VB
+dari	IN
+gaya	NN
+musik	NN
+melayu	NN
+deli	VB
+,	Z
+membantu	VB
+diseminasi	X
+dangdut	NN
+di	IN
+kalangan	NN
+mahasiswa	NN
+.	Z
+
+#
+
+Apakah	NNP
+ada	JJ
+perkembangan	NN
+perbaikan	NN
+?	Z
+
+#
+
+Platz	NNP
+kemudian	CC,NN 
+kembali	VB
+kepada	IN
+rancangan	NN
+sayap	NN
+dua	CD
+untuk	SC,IN 
+perkembangan	NN
+selanjutnya	RB
+dalam	IN 
+seri	JJ
+V	NNP
+.	Z
+
+Pada	IN
+April	NNP
+1917	CD
+Royal	NNP
+Naval	NNP
+Air	NNP
+Service	NNP
+(RNAS)	X
+mulai	VB
+menggunakan	VB
+Sopwith	NNP
+triplane	X
+mereka	PRP
+di	IN
+garis depan	NN
+dengan	SC,IN 
+kekuatan	NN
+penuh	JJ
+untuk	SC,IN 
+pertama	OD
+kali	NN,VB 
+.	Z
+
+#
+
+Genta	NNP
+angin	NN
+yang	SC
+baik	JJ
+akan	IN,MD 
+menghasilkan	VB
+suara	NN
+yang	SC
+bening	JJ
+dan	CC
+menyejukkan	VB
+.	Z
+
+#
+
+Tetapi	CC
+Abram	NNP
+berkata	VB
+,	Z
+``Allah	X
+Tuhanku	NNP
+,	Z
+aku	VB
+mempunyai	VB
+banyak	CD
+kekayaan	NN
+dan	CC
+kepunyaan	NN
+tetapi	CC
+apakah	X
+guna	NN
+nya	PRP
+bagiku	VB
+?	Z
+
+#
+
