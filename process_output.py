@@ -47,3 +47,17 @@ def process_real_output_list(expected_output, real_output):
         real_output_result.insert(0, tmp)
 
     return real_output_result
+
+
+#################################################################################
+# EXPORT A LIST TO A FILE
+#################################################################################
+
+def export_list_to_file(list, filename):
+    outputfile = open(filename, "w", encoding="utf-8")
+
+    for item in list:
+        outputfile.write(str(item))     # write item in list
+        outputfile.write("\n")          # write new line
+
+    outputfile.close()

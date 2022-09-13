@@ -1,0 +1,11500 @@
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+Kera	NN
+untuk	SC 
+amankan	VB
+pesta olahraga	NN
+
+#
+
+Pemerintah	NN
+kota	NN
+Delhi	NNP
+mengerahkan	VB
+monyet	NN
+untuk	SC 
+mengusir	VB
+monyet-monyet	NN
+lain	JJ
+yang	SC
+berbadan	VB
+lebih	RB
+kecil	JJ
+dari	IN
+arena	NN
+Pesta Olahraga	NN
+Persemakmuran	NNP
+.	Z
+
+#
+
+Beberapa	CD
+laporan	NN
+menyebutkan	VB
+setidaknya	RB
+10	CD
+monyet	NN
+ditempatkan	VB
+di	IN
+luar	JJ,NN 
+arena	NN
+lomba	NN
+dan	CC
+pertandingan	NN
+di	IN
+ibukota	NN
+India	NNP
+.	Z
+
+#
+
+Pemkot	NNP
+Delhi	NNP
+memiliki	VB
+28	CD
+monyet	NN
+dan	CC
+berencana	VB
+mendatangkan	VB
+10	CD
+monyet	NN
+sejenis	JJ
+dari	IN
+negara bagian	NN
+Rajasthan	NNP
+.	Z
+
+#
+
+Jumlah	NN
+monyet	NN
+di	IN
+ibukota	NN
+India	NNP
+mencapai	VB
+ribuan	CD
+,	Z
+sebagian besar	NN
+berada	VB
+di	IN
+kantor-kantor	NN
+pemerintah	NN
+dan	CC
+hewan	NN
+ini	PR
+dianggap	VB
+mengganggu	VB
+ketertiban	NN
+umum	JJ
+.	Z
+
+#
+
+Thomas	NNP
+hanya	RB
+salah satu	JJ
+dari	IN
+enam	CD
+pihak	NN
+yang	SC
+mengklaim	VB
+sebagai	IN
+pemilik	NN
+jamrud	X
+raksasa	NN
+itu	PR
+.	Z
+
+#
+
+Satu	CD
+masa	NN
+lah	RP
+yang	SC
+dihadapi	VB
+adalah	VB
+dia	PRP
+kehilangan	NN
+tanda terima	NN
+akibat	NN
+kebakaran	NN
+yang	SC
+melanda	VB
+rumah	NN
+nya	PRP
+.	Z
+
+#
+
+Jamrud	NNP
+itu	PR
+akhirnya	RB
+sampai	SC,IN 
+ke	IN
+Amerika	NNP
+,	Z
+meskipun	SC
+setibanya	SC
+di	IN
+Amerika	NNP
+tidak	NEG
+jelas	JJ
+siapa	SC 
+pemilik	NN
+nya	PRP
+.	Z
+
+#
+
+Satu	CD
+hal	NN
+yang	SC
+diketahui	VB
+batu	NN
+itu	PR
+sempat	X
+disimpan	VB
+di	IN
+lemari besi	NN
+bank	NN
+di	IN
+New	NNP
+Orleans	NNP
+yang	SC
+terkena	VB
+banjir	NN
+ketika	SC
+daerah	NN
+itu	PR
+diterjang	VB
+Badai	NNP
+Katrina	NNP
+,	Z
+sehingga	SC
+batu	NN
+berharga	VB
+terendam	VB
+di	IN
+dalam	NN 
+air	NN
+untuk	SC,IN 
+beberapa	CD
+bulan	NN
+.	Z
+
+#
+
+Jamrud	NNP
+Bahia	NNP
+kemudian	CC,NN 
+dibawa	VB
+ke	IN
+Las	NNP
+Vegas	NNP
+untuk	SC 
+dilihat	VB
+oleh	IN
+calon	NN
+pembeli	NN
+namun	CC
+disita	VB
+oleh	IN
+polisi	NN
+Los	NNP
+Angeles	NNP
+.	Z
+
+#
+
+Dan	CC
+Sarah	NNP
+Murdoch-	NNP
+seorang	JJ
+model	NN
+yang	SC
+merangkap	VB
+presenter	X
+TV	NNP
+-	SYM,Z 
+meni	VB
+kah	RP
+dengan	SC,IN 
+putra	NN
+Rupert	NNP
+,	Z
+Lachlan	NNP
+.	Z
+
+#
+
+Membaca	VB
+Don	NNP
+Quixote	NNP
+untuk	IN 
+YouTube	NNP
+
+#
+
+Akademi	NN
+Kerajaan	NNP
+Spanyol	NNP
+mengundang	VB
+orang	NN 
+di	IN
+seluruh	CD
+dunia	NN
+untuk	SC 
+merekam	VB
+segmen	NN
+dari	IN
+novel	X
+klasik	JJ
+Don	NNP
+Quixote	NNP
+dan	CC
+mengunggah	VB
+nya	PRP
+ke	IN
+YouTube	NNP
+.	Z
+
+#
+
+Karya	NN
+Miguel	NNP
+de	X
+Cervantes	NNP
+ini	PR
+sering	RB
+disebut	VB
+sebagai	IN
+novel	X
+Spanyol	NNP
+yang	SC
+paling	RB
+populer	JJ
+walau	SC
+tak	NEG
+banyak	CD
+yang	SC
+pernah	MD
+membaca	VB
+nya	PRP
+.	Z
+
+#
+
+Namun	CC
+kini	X
+Akademi	NNP
+Kerajaan	NNP
+Spanyol	NNP
+,	Z
+yang	SC
+merupakan	VB
+pelindung	NN
+resmi	JJ
+bahasa	NN
+Spanyol	NNP
+,	Z
+membagi	VB
+karya	NN
+itu	PR
+ke	IN
+dalam	NN 
+2.000	CD
+segmen	NN
+.	Z
+
+#
+
+Ketika	SC
+Wayne	NNP
+Rooney	NNP
+tertangkap basah	VB
+merokok	VB
+di	IN
+beberapa	CD
+kesempatan	NN
+saat	SC,NN 
+jeda	NN
+libur	NN
+antara	X
+akhir	NN
+Piala	NNP
+Dunia	NNP
+dan	CC
+dimulai	VB
+nya	PRP
+musim	NN
+kompetisi	NN
+Liga	NNP
+Primer	NNP
+,	Z
+ia	PRP
+dikecam	VB
+habis	JJ
+.	Z
+
+#
+
+Sebagai	IN
+seorang	JJ
+pesepak bola	NN
+profesional	JJ
+,	Z
+ia	PRP
+sepertinya	X
+harus	MD
+menjaga	VB
+kesehatan	NN
+tubuhnya	NN
+tanpa	SC,IN 
+terkecuali	X
+,	Z
+bahkan	RB
+ketika	SC
+musim	NN
+libur	NN
+.	Z
+
+#
+
+Namun	CC
+Rooney	NNP
+tidak	NEG
+sendirian	NN
+.	Z
+
+#
+
+Banyak	CD
+olahragawan	NN
+terkenal	VB
+melakukan	VB
+nya	PRP
+.	Z
+
+#
+
+Zinedine	NNP
+Zidane	NNP
+dan	CC
+pebasket	X
+Michael	NNP
+Jordan	NNP
+melakukan	VB
+nya	PRP
+.	Z
+
+#
+
+Namun	CC
+di	IN
+sisi	NN,VB 
+lain	JJ
+,	Z
+tidak	NEG
+banyak	CD
+pengusaha	NN
+Indonesia	NNP
+yang	SC
+melakukan	VB
+ekspansi	NN
+ke	IN
+Inggris	NNP
+.	Z
+
+#
+
+Celah	NN
+ini	PR
+yang	SC
+bisa	MD 
+dilakukan	VB
+oleh	IN
+ICMI	NNP
+London	NNP
+dalam	IN 
+upaya	NN
+menjembatani	VB
+para	DT
+pengusaha	NN
+Indonesia	NNP
+yang	SC
+akan	IN,MD 
+melebarkan	VB
+sayap	NN
+nya	PRP
+di	IN
+Kerajaan	NNP
+Inggris	NNP
+.	Z
+
+#
+
+"	Z
+Mari	VB
+kita	PRP
+sama-sama	JJ
+melakukan	VB
+inventarisasi	X
+dan	CC
+juga	RB
+melihat	VB
+produk	NN
+unggulan	NN
+Indonesia	NNP
+yang	SC
+bisa	MD 
+dijual	VB
+di	IN
+Inggris	NNP
+,	Z
+"	Z
+
+ujar	VB
+Dubes	NNP
+yang	SC
+melihat	VB
+banyak	CD
+hal	NN
+yang	SC
+bisa	MD 
+dilakukan	VB
+pengusaha	NN
+Indonesia	NNP
+.	Z
+
+#
+
+Sebelumnya	SC
+Ketua	NNP
+ICMI	NNP
+London	NNP
+Muslimin	NNP
+Anwar	NNP
+mengatakan	VB
+hubungan dagang	NN
+antara	X
+Indonesia	NNP
+dan	CC
+Inggris	NNP
+belakangan	NN
+ini	PR
+cukup	RB
+menggembirakan	VB
+.	Z
+
+#
+
+Menurut	NNP
+UK	NNP
+Trade	NNP
+and	X
+Investment	NNP
+(UKTI),	X
+nilai	NN,VB 
+ekspor	NN,VB 
+Indonesia	NNP
+ke	IN
+Inggris	NNP
+sepanjang	X
+tahun	NN
+2005	CD
+tercatat	VB
+senilai	X
+517	CD
+juta	CD
+Pound	NNP
+Sterling	NNP
+,	Z
+yang	SC
+kebanyakan	NN
+didominasi	VB
+jenis	NN 
+barang-barang	NN
+tekstil	NN
+dan	CC
+alas kaki	NN
+.	Z
+
+#
+
+Dalam	IN 
+sindikasi	NN
+yang	SC
+akan	IN,MD 
+mengucurkan	VB
+dana	NN
+Rp1,461	NNP
+triliun	CD
+tersebut	PR,VB 
+,	Z
+BCA	NNP
+menyalurkan	VB
+kredit	NN
+sebesar	X
+Rp584	NNP
+miliar	CD
+.	Z
+
+#
+
+Penanaman modal asing	NN
+(PMA)	X
+di	IN
+Malaysia	NNP
+tahun	NN
+2006	CD
+mencapai	VB
+lima	CD
+kali	NN,VB 
+lebih	RB
+besar	JJ
+dibandingkan	VB
+Indonesia	NNP
+,	Z
+hal	NN
+ini	PR
+menunjukkan	VB
+pembangunan ekonomi	NN
+Malaysia	NNP
+jauh	JJ
+lebih	RB
+menarik	JJ,VB 
+dibandingkan	VB
+Indonesia	NNP
+bagi	NN,IN,VB 
+investor	NN
+asing	JJ
+.	Z
+
+#
+
+Menurut	NNP
+harian	NN
+Utusan	NNP
+Malaysia	NNP
+,	Z
+Rabu	NNP
+,	Z
+di	IN
+Kuala	NNP
+Lumpur	NNP
+,	Z
+PMA	NNP
+yang	SC
+masuk	VB
+ke	IN
+Malaysia	NNP
+mencapai	VB
+20,2	CD
+miliar	CD
+Ringgit	NNP
+Malaysia	NNP
+(5,6	CD
+miliar	CD
+dolar	NN
+AS)	NNP
+dibandingkan	VB
+Indonesia	NNP
+yang	SC
+hanya	RB
+mencapai	VB
+4,7	CD
+miliar	CD
+Ringgit	NNP
+Malaysia	NNP
+(1,3	CD
+miliar	CD
+dolar	NN
+AS).	NNP
+
+#
+
+Juru bicara	NN
+parlemen	NN
+Malaysia	NNP
+bidang	NN 
+perdagangan	NN
+dan	CC
+industri	NN
+luar negeri	NN
+Dr	NNP
+Tan	NNP
+Yee	NNP
+Kew	NNP
+mengemukakan	VB
+dalam	IN 
+sidang	NN
+parlemen	NN
+,	Z
+Malaysia	NNP
+menduduki	VB
+urutan	NN
+ke-2	CD
+setelah	SC
+Singapura	NNP
+di	IN
+kalangan	NN
+Asean	NNP
+dari	IN
+segi	NN
+masuk	VB
+nya	PRP
+PMA	NNP
+.	Z
+
+#
+
+Singapura	NNP
+sendiri	JJ
+berhasil	JJ
+mendatangkan	VB
+PMA	NNP
+tahun	NN
+2006	CD
+sebesar	X
+30	CD
+miliar	CD
+Ringgit	NNP
+(8,3	CD
+miliar	CD
+dolar	NN
+AS).	NNP
+
+#
+
+Pada	IN
+2006	CD
+,	Z
+
+Bank	NN
+Mandiri	NNP
+berhasil	JJ
+memperoleh	VB
+penghargaan	NN
+The	NNP
+Best	NNP
+Overall	NNP
+for	X
+Corporate	NNP
+Governance	NNP
+Award	NNP
+dan	CC
+The	NNP
+Best	NNP
+Disclosure	NNP
+and	X
+Transparency	NNP
+dari	IN
+Asia	NNP
+Money	NNP
+.	Z
+
+#
+
+Meneg	NN
+Perencanaan	NNP
+Pembangunan	NNP
+Nasional/Kepala	NNP
+Bappenas	NNP
+,	Z
+Paskah	NNP
+Suzetta	NNP
+direncanakan	VB
+mengadakan	VB
+sejumlah	CD
+pertemuan	NN
+,	Z
+di	IN
+antaranya	X
+dengan	SC,IN 
+Presiden	NNP
+Bank	NNP
+Dunia	NNP
+,	Z
+Paul	NNP
+Wolfowitz	NNP
+dalam	IN 
+Spring	NNP
+Meeting	NNP
+Dana	NNP
+Moneter	NNP
+Internasional/Bank	NNP
+Dunia	NNP
+(IMF/WB)	X
+pekan	NN,VB 
+ini	PR
+di	IN
+Washington	NNP
+AS	NNP
+.	Z
+
+#
+
+"	Z
+Salah	JJ
+satunya	X
+Pak	NNP
+Menteri	NNP
+bakal	MD,NN 
+ketemu	X
+dengan	SC,IN 
+Paul	NNP
+Wolfowitz	NNP
+,	Z
+tentu	JJ
+saja	RB
+ditemani	VB
+oleh	IN
+James	NNP
+Adams	NNP
+,	Z
+Vice	NNP
+President	NNP
+Bank	NNP
+Dunia	NNP
+untuk	SC,IN 
+Asia	NNP
+Pasifik	NNP
+,	Z
+"	Z
+
+kata	NN
+Sekretaris	NNP
+Utama	NNP
+Bappenas	NNP
+,	Z
+Syahrial	NNP
+Loetan	NNP
+di	IN
+Jakarta	NNP
+,	Z
+Jumat	NNP
+.	Z
+
+#
+
+Dia	PRP
+menjelaskan	VB
+dalam	IN 
+pertemuan	NN
+itu	PR
+,	Z
+Meneg	NNP
+PPN	NNP
+akan	IN,MD 
+menyampaikan	VB
+kondisi	NN
+terakhir	OD
+di	IN
+Indonesia	NNP
+yang	SC
+mengalami	VB
+banyak	CD
+bencana	NN
+pada	IN
+awal	NN
+tahun	NN
+2007	CD
+sehingga	SC
+akan	IN,MD 
+ada	JJ
+kenaikan	NN
+defisit	NN
+dan	CC
+kemungkinan	NN
+meminta	VB
+bantuan	NN
+pinjaman	NN
+berbunga	VB
+rendah	JJ
+kepada	IN
+Bank	NNP
+Dunia	NNP
+.	Z
+
+#
+
+Pak	NNP
+Adams	NNP
+kemarin	NN
+sudah	MD
+beri	VB
+petunjuk	NN
+kalau	SC
+dia	PRP
+akan	IN,MD 
+membantu	VB
+Indonesia	NNP
+yang	SC
+ingin	RB
+meminta	VB
+IDA	NNP
+(International	X
+Development	NNP
+Assistance	NNP
+-	SYM,Z 
+red)	X
+yang	SC
+berbunga	VB
+rendah	JJ
+,	Z
+tapi	CC
+kita	PRP
+tahu	NN,VB 
+diri	NN,VB 
+juga	RB
+.	Z
+
+#
+
+Produksi	NN
+nikel	NN
+dalam	IN 
+matte	X
+untuk	SC,IN 
+K1	NNP
+2007	CD
+sebesar	X
+0,776388889	CD
+ton	NND
+dibandingkan	VB
+periode	NN
+sama	JJ
+sebelumnya	SC
+17.361	CD
+ton	NND
+.	Z
+
+#
+
+Menteri	NN
+Keuangan	NNP
+Jepang	NNP
+Koji	NNP
+Omi	NNP
+,	Z
+menurut	X
+rencana	NN
+dalam	IN 
+waktu	NN
+dekat	JJ
+ini	PR
+akan	IN,MD 
+berkunjung	VB
+ke	IN
+Jakarta	NNP
+,	Z
+guna	NN,SC,IN 
+memperkukuh	VB
+hubungan	NN
+bilateral	X
+kedua	CD 
+negara	NN
+,	Z
+khusus	JJ
+nya	PRP
+peningkatan	NN
+kerja sama	NN
+di	IN
+sektor	NN
+keuangan	NN
+,	Z
+menyusul	VB
+pembubaran	NN
+lembaga	NN
+donor	X
+CGI	NNP
+di	IN
+awal	NN
+tahun	NN
+ini	PR
+.	Z
+
+#
+
+Menteri	NN
+Keuangan	NNP
+Indonesia	NNP
+Sri	NNP
+Mulyani	NNP
+mengemukakan	VB
+hal	NN
+itu	PR
+kepada	IN
+ANTARA	NNP
+di	IN
+Kyoto	NNP
+,	Z
+Sabtu	NNP
+,	Z
+sesaat	JJ
+sebelum	SC
+memasuki	VB
+seminar	X
+yang	SC
+diadakan	VB
+dalam	IN 
+rangka	NN
+pertemuan	NN
+tahunan	NN
+Asian	NNP
+Development	NNP
+Bank	NNP
+(ADB)	X
+ke-40	OD,CD 
+.	Z
+
+#
+
+"	Z
+Jepang	NNP
+sangat	RB
+mendukung	VB
+peningkatan	NN
+kerja sama	NN
+bilateral	X
+,	Z
+bahkan	RB
+kedatangan	NN
+Omi	NNP
+ke	IN
+Jakarta	NNP
+adalah	VB
+untuk	SC 
+melakukan	VB
+diskusi	NN
+yang	SC
+lebih	RB
+mendetail	VB
+baik	JJ
+soal	NN
+keuangan	NN
+maupun	CC
+pinjaman	NN
+,	Z
+"	Z
+
+ujar	VB
+mantan	NN
+direktur	NN
+eksekutif	NN
+IMF	NNP
+itu	PR
+.	Z
+
+#
+
+Pasca-CGI	JJ
+,	Z
+Indonesia	NNP
+memang	RB
+memfokuskan	VB
+pada	IN
+kerja sama	NN
+bilateral	X
+yang	SC
+dinilai	VB
+lebih	RB
+adil	JJ
+dan	CC
+tidak	NEG
+menekan	VB
+posisi	NN
+Indonesia	NNP
+dalam	IN 
+memberikan	VB
+pinjaman	NN
+.	Z
+
+#
+
+"	Z
+Ini	PR
+ada	JJ
+dalam	IN 
+draft	X
+kami	PRP
+,	Z
+tapi	CC
+pasti	JJ
+nya	PRP
+bisa	MD,NN 
+saja	RB
+bertambah	VB
+,	Z
+karena	SC,IN 
+situasi	NN
+yang	SC
+khusus	JJ
+di mana	PR,PRP 
+membutuhkan	VB
+belanja	NN,VB 
+teknologi	NN
+yang	SC
+baru	JJ,NN,MD 
+,	Z
+"	Z
+
+kata	NN
+Direktur	NNP
+Teknologi	NNP
+dan	CC
+Operasional	NNP
+Bank	NNP
+Mandiri	NNP
+,	Z
+Sasmita	NNP
+di	IN
+Jakarta	NNP
+,	Z
+Jumat	NNP
+.	Z
+
+#
+
+Menurut	NNP
+dia	PRP
+,	Z
+investasi	NN
+TI	NNP
+Bank	NNP
+Mandiri	NNP
+dimulai	VB
+sejak	SC,IN 
+tahun	NN
+2000	CD
+,	Z
+
+dengan	SC,IN 
+dana	NN
+yang	SC
+dipersiapkan	VB
+sebesar	X
+200	CD
+juta	CD
+dolar	NN
+.	Z
+
+#
+
+Namun	CC
+dana	NN
+tersebut	PR,VB 
+baru	JJ,NN,MD 
+terpakai	VB
+168	CD
+juta	CD
+dolar	NN
+AS	NNP
+.	Z
+
+#
+
+Ia	PRP
+mengatakan	VB
+,	Z
+belanja	NN,VB 
+TI	NNP
+sejak	SC,IN 
+tahun	NN
+2004	CD
+hingga	SC,IN 
+2007	CD
+,	Z
+
+rata-rata	JJ
+per	X
+tahun	NN
+mencapai	VB
+30-35	CD
+juta	CD
+dolar	NN
+AS	NNP
+.	Z
+
+#
+
+"	Z
+Dan	CC
+tahun	NN
+2008	CD
+dalam	IN 
+rencana	NN
+kita	PRP
+meski	SC
+bisa	MD 
+berubah	VB
+masih	MD
+sekitar	IN,RB,NN 
+itu	PR
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+"	Z
+Keputusan	NN
+ini	PR
+diambil	VB
+sejak	SC,IN 
+dari	IN
+awal	NN
+supaya	SC
+ada	JJ
+kepastian hukum	NN
+bagi	NN,IN,VB 
+pelaku	NN
+usaha	NN
+,	Z
+ini	PR
+pun	RP
+tidak	NEG
+mendadak	JJ
+karena	SC,IN 
+kita	PRP
+sudah	MD
+memberikan	VB
+sinyal	NN
+sejak	SC,IN 
+awal	NN
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+Ia	PRP
+menyebutkan	VB
+,	Z
+pemerintah	NN
+merencanakan	VB
+kenaikan	NN
+HJE	NNP
+rokok	NN
+mulai	VB
+Maret	NNP
+2007	CD
+sementara	X
+penerapan	NN
+cukai	VB
+spesifik	JJ
+rokok	NN
+akan	IN,MD 
+mulai	VB
+diberlakukan	VB
+pada	IN
+Juni	NNP
+2007	CD
+.	Z
+
+#
+
+Lembaga	NN
+pemeringkat	NN
+internasional	JJ
+Fitch	NNP
+Ratings	NNP
+,	Z
+Senin	NNP
+,	Z
+merevisi	VB
+outlook	X
+prospek	NN
+atas	IN 
+peringkat	NN
+mata uang	NN
+asing	JJ
+dan	CC
+mata uang	NN
+lokal	JJ
+dari	IN
+Indonesia	NNP
+,	Z
+yang	SC
+disebut	VB
+Issuer	NNP
+Default	NNP
+Ratings	NNP
+(IDRs)	X
+menjadi	VB
+positif	NN
+dari	IN
+stabil	JJ
+,	Z
+walaupun	SC
+tetap	RB,JJ,VB 
+mempertahankan	VB
+kedua	CD 
+peringkat	NN
+tersebut	PR,VB 
+pada	IN
+
+'	Z
+BB-	NNP
+'	Z
+
+(BB	X
+minus).	X
+
+#
+
+Demikian	PR
+pula	RB
+pada	IN
+saat	SC,NN 
+yang	SC
+sama	JJ
+,	Z
+Fitch	NNP
+mempertahankan	VB
+peringkat	NN
+mata uang	NN
+rupiah	NN
+(IDR)	X
+jangka pendek	VB
+Indonesia	NNP
+pada	IN
+
+'	Z
+B	NNP
+'	Z
+
+dan	CC
+batas	NN
+negara	NN
+(Country	X
+Ceiling)	NNP
+pada	IN
+
+'	Z
+BB	NNP
+'	Z
+.	Z
+
+#
+
+"	Z
+Revisi	NN
+atas	IN 
+'	Z
+
+outlook	X
+
+'	Z
+peringkat	NN
+Sovereign	NNP
+Indonesia	NNP
+mencerminkan	VB
+komitmen	NN
+otoritas	NN
+untuk	SC 
+menjaga	VB
+stabilitas	NN
+ekonomi	NN,VB 
+dan	CC
+disiplin	NN
+fiskal	NN
+,	Z
+serta	IN 
+kebijakan	NN
+menyeluruh	JJ
+pemerintah	NN
+untuk	SC 
+melaksanakan	VB
+agenda	NN
+reformasi	NN
+struktural	NN
+yang	SC
+bertujuan	VB
+untuk	SC 
+memperbaiki	VB
+iklim	NN
+investasi	NN
+,	Z
+"	Z
+
+kata	NN
+Ai	NNP
+Ling	NNP
+Ngiam	NNP
+,	Z
+Direktur	NNP
+pada	IN
+Tim	NNP
+Sovereign	NNP
+Ratings	NNP
+Fitch	NNP
+di	IN
+Singapura	NNP
+dalam	IN 
+statemen	NN
+nya	PRP
+.	Z
+
+#
+
+"	Z
+Memiliki	VB
+CGI	NNP
+sangat	RB
+bagus	JJ
+bagi	NN,IN,VB 
+Indonesia	NNP
+,	Z
+tapi	CC
+Indonesia	NNP
+berkembang	VB
+dan	CC
+saat	SC,NN 
+ini	PR
+Indonesia	NNP
+tidak	NEG
+butuh	VB
+CGI	NNP
+lagi	MD,RB 
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+Dia	PRP
+menambahkan	VB
+penting	JJ
+bagi	NN,IN,VB 
+Indonesia	NNP
+untuk	SC,IN 
+tetap	RB,JJ,VB 
+melakukan	VB
+dialog	NN
+dengan	SC,IN 
+masyarakat	NN
+internasional	JJ
+secara	JJ
+multilateral	X
+maupun	CC
+bilateral	X
+.	Z
+
+#
+
+"	Z
+Tapi	CC
+memang	RB
+tidak	NEG
+perlu	MD
+duduk	VB
+bersama	VB
+dan	CC
+mengajukan	VB
+komitmen	NN
+seperti	SC,IN 
+itu	PR
+,	Z
+"	Z
+
+ujar	VB
+nya	PRP
+.	Z
+
+#
+
+Menurutnya	NNP
+,	Z
+dialog	NN
+multilateral	X
+sendiri	JJ
+bukan	NEG
+hal	NN
+yang	SC
+buruk	JJ
+mengingat	VB
+dalam	IN 
+multilateral	X
+Indonesia	NNP
+bisa	MD 
+menghemat waktu	VB
+dan	CC
+bertemu	VB
+dengan	SC,IN 
+sekitar	RB 
+35	CD
+negara	NN
+dan	CC
+lembaga	NN
+donor	X
+sekaligus	X
+.	Z
+
+#
+
+Badan	NN
+Perencana	NNP
+Pembangunan	NNP
+Nasional	NNP
+(Bappenas)	X
+telah	MD
+mengusulkan	VB
+pembatalan	NN
+pinjaman	NN
+luar negeri	NN
+(LN)	X
+pada	IN
+2006	CD
+senilai	X
+370	CD
+juta	CD
+dolar	NN
+AS	NNP
+pada	IN
+11	CD
+proyek	NN
+di	IN
+berbagai	CD
+departemen	NN
+karena	SC,IN 
+proyek	NN
+yang	SC
+dibiayai	VB
+berjalan	VB
+lambat	JJ
+atau	CC
+telah	MD
+selesai	JJ
+.	Z
+
+#
+
+Sebelumnya	SC
+,	Z
+Dirjen	NNP
+Perbendaharaan	NNP
+Depkeu	NNP
+Herry	NNP
+Purnomo	NNP
+mengungkapkan	VB
+,	Z
+hingga	SC,IN 
+akhir	NN
+Februari	NNP
+2007	CD
+penerimaan	NN
+negara	NN
+dari	IN
+sektor	NN
+pajak	NN
+telah	MD
+mencapai	VB
+sekitar	IN,RB,NN 
+Rp40-50	NNP
+triliun	CD
+,	Z
+dari	IN
+target	NN
+2007	CD
+Rp452,556	NNP
+triliun	CD
+.	Z
+
+#
+
+"	Z
+Itu	PR
+baru	JJ,NN,MD 
+PPN	NNP
+dan	CC
+PPh	NNP
+,	Z
+belum	NEG
+termasuk	X
+yang	SC
+valuta	NN
+asing	JJ
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+di	IN
+Jakarta	NNP
+,	Z
+Senin	NNP
+.	Z
+
+#
+
+Sedangkan	CC
+untuk	SC,IN 
+penerimaan	NN
+dari	IN
+sektor	NN
+cukai	VB
+,	Z
+Herry	NNP
+menyatakan	VB
+pihak	NN
+nya	PRP
+telah	MD
+mencatat	VB
+angka	NN
+lebih	RB
+dari	IN
+Rp10	NNP
+triliun	CD
+.	Z
+
+#
+
+Meski	SC
+demikian	PR
+,	Z
+dia	PRP
+menyatakan	VB
+bahwa	SC
+penyerapan	NN
+anggaran	NN
+dari	IN
+belanja	NN,VB 
+barang	NN
+hingga	SC,IN 
+saat	SC,NN 
+ini	PR
+masih	MD
+sangat	RB
+rendah	JJ
+,	Z
+pada	IN
+kisaran	NN
+5	CD
+persen	NN,CD 
+,	Z
+tidak	NEG
+seperti	SC,IN 
+Dana	NNP
+Alokasi	NNP
+Umum	NNP
+(DAU)	X
+dan	CC
+belanja	NN,VB 
+pegawai	NN
+.	Z
+
+#
+
+Tapi	CC
+(anggaran	X
+-	SYM,Z 
+red)	X
+masih	MD
+aman	JJ
+lah	RP
+sampai	SC,IN 
+sekarang	X
+ini	PR
+karena	SC,IN 
+pengeluaran	NN
+nya	PRP
+masih	MD
+kecil	JJ
+.	Z
+
+#
+
+Bank	NN
+Mandiri	NNP
+menyumbang	VB
+NPL	NNP
+terbanyak	JJ
+sebesar	X
+56	CD
+persen	NN,CD 
+dari	IN
+total	NN
+NPL	NNP
+,	Z
+Bank	NNP
+BNI	NNP
+23	CD
+persen	NN,CD 
+,	Z
+BRI	NNP
+17	CD
+persen	NN,CD 
+dan	CC
+BTN	NNP
+3,1	CD
+persen	NN,CD 
+.	Z
+
+#
+
+PT	NN
+Indofood	NNP
+Sukses	NNP
+Makmur	NNP
+Tbk	NNP
+telah	MD
+menyelesaikan	VB
+transaksi	NN
+akuisisi	NN
+70	CD
+persen	NN,CD 
+saham	NN
+PT	NNP
+Mitra	NNP
+Inti	NNP
+Sejati	NNP
+Plantation	NNP
+(MISP)	X
+dengan	SC,IN 
+nilai	NN,VB 
+Rp66,5	NNP
+miliar	CD
+,	Z
+dengan	SC,IN 
+akuisisi	NN
+ini	PR
+dilakukan	VB
+oleh	IN
+anak perusahaan	NN
+Indofood	NNP
+yakni	SC
+PT	NNP
+Salim	NNP
+Ivomas	NNP
+Pratama	NNP
+(SIMP)	X
+pada	IN
+1	CD
+Oktober	NNP
+2007	CD
+.	Z
+
+#
+
+"	Z
+Transaksi	NN
+pembelian	NN
+tersebut	PR,VB 
+telah	MD
+selesai	JJ
+pada	IN
+1	CD
+Oktober	NNP
+2007	CD
+,	Z
+
+karenanya	X
+PT	NNP
+Mitra	NNP
+menjadi	VB
+anak perusahaan	NN
+SIMP	NNP
+,	Z
+"	Z
+
+kata	NN
+Sekretaris	NNP
+Perusahaan	NNP
+Indofood	NNP
+Werianty	NNP
+dalam	IN 
+penjelasan	NN
+nya	PRP
+ke	IN
+Bursa Efek	NN
+Jakarta	NNP
+(BEJ)	X
+di	IN
+Jakarta	NNP
+Rabu	NNP
+.	Z
+
+#
+
+Berdasarkan	VB
+hasil	NN
+due	X
+dilligence	X
+,	Z
+luas	JJ
+tanah	NN
+perkebunan	NN
+milik	VB
+PT	NNP
+Mitra	NNP
+mencapai	VB
+12.950	CD
+hektar	NND
+di	IN
+Kalimantan	NNP
+Barat	NNP
+.	Z
+
+#
+
+Luas	JJ
+ini	PR
+lebih	RB
+kecil	JJ
+dari	IN
+keterbukaan	NN
+informasi	NN
+yang	SC
+disampaikan	VB
+pada	IN
+14	CD
+Maret	NNP
+2007	CD
+lalu	VB/CC 
+yakni	SC
+sekitar	RB 
+16.268	CD
+hektar	NND
+.	Z
+
+#
+
+Ketika	SC
+hal	NN
+itu	PR
+dikonfirmasi	VB
+,	Z
+Direktur	NNP
+Toba	NNP
+Pulp	NNP
+Firman	NNP
+Mulya	NNP
+Nauli	NNP
+membenarkan	VB
+perihal	X
+rencana	NN
+akuisisi	NN
+Toba	NNP
+Pulp	NNP
+oleh	IN
+Pinnacle	NNP
+.	Z
+
+#
+
+Hal	NN
+senada	JJ
+juga	RB
+dikatakan	VB
+Vice	NNP
+President	NNP
+Coporate	NNP
+Affair	NNP
+Raja	NNP
+Garuda	NNP
+Mas	NNP
+(RGM)	X
+Tjandra	NNP
+Putra	NNP
+.	Z
+
+#
+
+Kendati	SC
+sempat	X
+membantah	VB
+nya	PRP
+,	Z
+namun	CC
+Tjandra	NNP
+akhirnya	RB
+mengakui	VB
+jika	SC
+memang	RB
+Pinnacle	NNP
+berencana	VB
+mengakuisisi	VB
+Toba	NNP
+Pulp	NNP
+.	Z
+
+#
+
+Namun	CC
+menurutnya	X
+,	Z
+pihak	NN
+RGM	NNP
+masih	MD
+mengkaji	VB
+tawaran	NN
+dari	IN
+Pinnacle	NNP
+.	Z
+
+#
+
+Rencana	NN
+akuisisi	NN
+ini	PR
+sendiri	JJ
+hingga	SC,IN 
+kini	X
+belum	NEG
+dilaporkan	VB
+kepada	IN
+Badan	NNP
+Pengawas	NNP
+Pasar Modal	NN
+,	Z
+maupun	CC
+otoritas	NN
+Bursa Efek	NN
+Surabaya	NNP
+(BES),	X
+tempat	NN
+Toba	NNP
+Pulp	NNP
+mencatatkan	VB
+saham	NN
+nya	PRP
+.	Z
+
+#
+
+Sedangkan	CC
+cadangan	NN
+devisa	NN
+diperkirakan	VB
+mencapai	VB
+56,6	CD
+miliar	CD
+dolar	NN
+AS	NNP
+dengan	SC,IN 
+transaksi	NN
+perdagangan	NN
+ekspor	NN,VB 
+118,6	CD
+miliar	CD
+dolar	NN
+AS	NNP
+dan	CC
+impor	NN,VB 
+85,6	CD
+miliar	CD
+dolar	NN
+AS	NNP
+.	Z
+
+#
+
+Menkeu	NN
+juga	RB
+mengatakan	VB
+pertumbuhan ekonomi	NN
+juga	RB
+akan	IN,MD 
+didorong	VB
+oleh	IN
+pertumbuhan	NN
+ekspor	NN,VB 
+sekitar	RB 
+8	CD
+persen	NN,CD 
+,	Z
+konsumsi	NN
+rumah tangga	NN
+5	CD
+persen	NN,CD 
+dan	CC
+investasi	NN
+10	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Dalam	IN 
+APBN-P	NNP
+2007	CD
+pemerintah	NN
+menargetkan	VB
+pertumbuhan ekonomi	NN
+6,3	CD
+persen	NN,CD 
+,	Z
+inflasi	NN
+6	CD
+persen	NN,CD 
+,	Z
+nilai tukar	NN
+Rp9.050	NNP
+per	X
+dolar	NN
+AS	NNP
+,	Z
+SBI	NNP
+tiga	CD
+bulan	NN
+8	CD
+persen	NN,CD 
+,	Z
+harga	NN
+minyak	NN
+60	CD
+dolar	NN
+AS	NNP
+per	X
+barel	NN
+dan	CC
+lifting	X
+minyak	NN
+950.000	CD
+barel	NN
+per	X
+hari	NN
+.	Z
+
+#
+
+Dengan	SC,IN 
+demikian	PR
+,	Z
+lanjut	VB
+Mulyani	NNP
+,	Z
+defisit	NN
+anggaran	NN
+diperkirakan	VB
+akan	IN,MD 
+tetap	RB,JJ,VB 
+1,5	CD
+persen	NN,CD 
+atau	CC
+Rp58	NNP
+triliun	CD
+dengan	SC,IN 
+penerimaan	NN
+negara	NN
+Rp722,1	NNP
+triliun	CD
+atau	CC
+naik	VB
+Rp28	NNP
+triliun	CD
+dari	IN
+APBN-P	NNP
+dan	CC
+belanja	NN,VB 
+negara	NN
+Rp780,3	NNP
+triliun	CD
+atau	CC
+naik	VB
+Rp27,9	NNP
+dari	IN
+APBN-P	NNP
+.	Z
+
+#
+
+Deputi	NN
+Gubernur	NNP
+Senior	NNP
+BI	NNP
+,	Z
+Miranda	NNP
+Goeltom	NNP
+memperkirakan	VB
+cadangan	NN
+devisa	NN
+akhir	NN
+tahun	NN
+2007	CD
+mencapai	VB
+56,655	CD
+miliar	CD
+dolar	NN
+AS	NNP
+karena	SC,IN 
+kenaikan	NN
+harga	NN
+minyak mentah	NN
+dunia	NN
+yang	SC
+terjadi	VB
+baru-baru ini	RB
+.	Z
+
+#
+
+"	Z
+Al	NNP
+Hilal	NNP
+akan	IN,MD 
+menyediakan	VB
+semua	CD
+jasa	NN
+yang	SC
+ada	JJ
+pada	IN
+bank	NN
+modern	JJ
+,	Z
+termasuk	X
+kegiatan	NN
+komersial	JJ
+keuangan	NN
+,	Z
+industri	NN
+,	Z
+pariwisata	NN
+dan	CC
+real	X
+estate	X
+,	Z
+dengan	SC,IN 
+fokus	NN
+khusus	JJ
+pada	IN
+sektor	NN
+swasta	JJ
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+Keputusan	NN
+Presiden	NNP
+menunjuk	VB
+Badan	NNP
+Investasi	NNP
+Abu	NNP
+Dhabi	NNP
+sebagai	IN
+pemilik	NN
+tunggal	JJ
+bank	NN
+baru	JJ,NN,MD 
+itu	PR
+dan	CC
+menetapkan	VB
+modal	NN
+4	CD
+miliar	CD
+dirham	NN
+itu	PR
+akan	IN,MD 
+dibagi	VB
+dalam	IN 
+empat	CD
+saham	NN
+dengan	SC,IN 
+masing-masing	CD 
+saham	NN
+senilai	X
+1	CD
+miliar	CD
+dirham	NN
+,	Z
+demikian	PR
+Gulf	NNP
+News	NNP
+melaporkan	VB
+nya	PRP
+.	Z
+
+#
+
+Dalam	IN 
+keputusan	NN
+itu	PR
+diputuskan	VB
+mengangkat	VB
+Eisa	NNP
+Mohammad	NNP
+Al	NNP
+Suwaidi	NNP
+sebagai	IN
+Ketua	NNP
+Badan	NNP
+Al	NNP
+Hilal	NNP
+.	Z
+
+#
+
+Anggota	NN
+lain	JJ
+nya	PRP
+yaitu	SC
+Mohammad	NNP
+Hassan	NNP
+Omran	NNP
+,	Z
+Abdullah	NNP
+Nasser	NNP
+Al	NNP
+Suwaidi	NNP
+,	Z
+Yunus	NNP
+Haji	NNP
+Khoory	NNP
+dan	CC
+Ahmad	NNP
+Sari	NNP
+Al	NNP
+Mazroui	NNP
+.	Z
+
+#
+
+Bank syariah	NN
+baru	JJ,NN,MD 
+itu	PR
+juga	RB
+akan	IN,MD 
+menginvestasikan	VB
+di	IN
+pembiayaan	NN
+konsumen	NN
+yang	SC
+selaras	JJ
+dengan	SC,IN 
+kerangka	NN
+instrumen	NN
+keuangan	NN
+syariah	X
+.	Z
+
+#
+
+"	Z
+Industri	NN
+pengolahan	NN
+yang	SC
+selama	JJ
+ini	PR
+dianggap	VB
+sebagai	IN
+tempat	NN
+menciptakan	VB
+lapangan kerja	NN
+juga	RB
+mengalami	VB
+peningkatan	NN
+cukup	RB
+besar	JJ
+di mana	PR,PRP 
+PPh-nya	NNP
+naik	VB
+10,4	CD
+persen	NN,CD 
+,	Z
+sedangkan	CC
+PPN	NNP
+-nya	X
+naik	VB
+12,4	CD
+persen	NN,CD 
+,	Z
+"	Z
+
+ujar	VB
+Sri	NNP
+Mulyani	NNP
+.	Z
+
+#
+
+Demikian	PR
+hal	NN
+nya	PRP
+dengan	SC,IN 
+industri	NN
+pengolahan	NN
+seperti	SC,IN 
+industri	NN
+makanan	NN
+dan	CC
+minuman	NN
+yang	SC
+PPh-nya	NNP
+tumbuh	VB
+19,5	CD
+persen	NN,CD 
+dari	IN
+sebelumnya	SC
+pertumbuhan	NN
+nya	PRP
+tercatat	VB
+negatif	JJ
+.	Z
+
+#
+
+Selanjutnya	RB
+industri	NN
+tekstil	NN
+PPh	NNP
+-nya	X
+tumbuh	VB
+6,3	CD
+persen	NN,CD 
+,	Z
+dari	IN
+periode	NN
+sebelumnya	SC
+masih	MD
+minus	X
+1,2	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Tahun	NN
+lalu	VB/CC 
+kata	NN
+Sri	NNP
+Mulyani	NNP
+,	Z
+industri	NN
+logam	NN
+minus	X
+6,7	CD
+persen	NN,CD 
+,	Z
+namun	CC
+tahun	NN
+ini	PR
+,	Z
+ini	PR
+sudah	MD
+positif	NN
+8,9	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Industri	NN
+elektronika	X
+yang	SC
+tahun	NN
+lalu	VB/CC 
+minus	X
+13,6	CD
+persen	NN,CD 
+,	Z
+tahun	NN
+ini	PR
+naik	VB
+8,7	CD
+persen	NN,CD 
+itu	PR
+PPh-nya	NNP
+.	Z
+
+#
+
+Upaya	NN
+akselerasi	NN
+laju	NN
+pertumbuhan ekonomi	NN
+dan	CC
+investasi	NN
+yang	SC
+tinggi	JJ
+dan	CC
+sustainable	X
+tidak	NEG
+akan	IN,MD 
+optimal	JJ
+tanpa	SC,IN 
+adanya	NN
+dukungan	NN
+dari	IN
+masyarakat	NN
+luas	JJ
+khusus	JJ
+nya	PRP
+sektor	NN
+korporasi	NN
+Indonesia	NNP
+.	Z
+
+#
+
+"	Z
+Sekeras	JJ
+apa	WH 
+pun	RP
+upaya	NN
+yang	SC
+dilakukan	VB
+pemerintah	NN
+tidak	NEG
+akan	IN,MD 
+optimal	JJ
+untuk	SC 
+mengakselerasi	VB
+laju	NN
+pertumbuhan ekonomi	NN
+dan	CC
+investasi	NN
+yang	SC
+tinggi	JJ
+dan	CC
+sustainable	X
+tanpa	SC,IN 
+dukungan	NN
+masyarakat	NN
+luas	JJ
+,	Z
+khusus	JJ
+nya	PRP
+sektor	NN
+korporasi	NN
+Indonesia	NNP
+,	Z
+"	Z
+
+kata	NN
+Menteri	NNP
+Keuangan	NNP
+Sri	NNP
+Mulyani	NNP
+dalam	IN 
+penyerahan	NN
+Annual	NNP
+Report	NNP
+Awards	NNP
+2006	CD
+di	IN
+Jakarta	NNP
+,	Z
+Selasa	NNP
+.	Z
+
+#
+
+Dari	IN
+dimensi	NN
+ekonomis	JJ
+,	Z
+menurut	X
+Menkeu	NNP
+,	Z
+besar-kecil	JJ
+nya	PRP
+kontribusi	NN
+sektor	NN
+korporasi	NN
+dalam	IN 
+mendorong	VB
+laju	NN
+pertumbuhan ekonomi	NN
+nasional	JJ
+akan	IN,MD 
+banyak	CD
+ditentukan	VB
+oleh	IN
+daya	NN
+entrepreneurship	X
+dan	CC
+kemampuan	NN
+inovatif	JJ
+pelaku bisnis	NN
+untuk	SC,IN 
+mentransformasi	X
+tantangan	NN
+menjadi	VB
+peluang	NN
+.	Z
+
+#
+
+Namun	CC
+dari	IN
+sisi	NN,VB 
+responsibilitas	X
+sebagai	IN
+anggota	NN
+masyarakat	NN
+,	Z
+korporasi	NN
+dituntut	VB
+pula	RB
+untuk	SC 
+menunjukkan	VB
+kepedulian	NN
+untuk	SC 
+berbuat	VB
+yang	SC
+terbaik	JJ
+tidak	NEG
+hanya	RB
+untuk	SC,IN 
+pemegang saham	NN
+dan	CC
+perusahaan	NN
+,	Z
+tetapi	CC
+juga	RB
+kepada	IN
+stakeholders	X
+lain	JJ
+nya	PRP
+yang	SC
+mewakili	VB
+kepentingan	NN
+bangsa	NN
+.	Z
+
+#
+
+Dimensi	NN
+terakhir	OD
+ini	VB
+lah	RP
+yang	SC
+mendasari	VB
+lahir	VB
+nya	PRP
+prinsip-prinsip	NN
+mulia	JJ
+dari	IN
+tata	VB
+kelola	VB
+yang	SC
+baik	JJ
+,	Z
+mulai	VB
+dari	IN
+transparansi	X
+,	Z
+akuntabilitas	NN
+,	Z
+responsibilitas	X
+,	Z
+independensi	NN
+,	Z
+dan	CC
+fairness	X
+.	Z
+
+#
+
+Jumlah	NN
+itu	PR
+antara	X
+lain	JJ
+bersumber	VB
+dari	IN
+penerbitan	NN
+surat	NN
+utang	NN
+berharga	VB
+negara	NN
+netto	NN
+Rp91,6	NNP
+triliun	CD
+,	Z
+penjualan	NN
+aset	NN
+program	NN
+restrukturisasi	NN
+perbankan	NN
+dan	CC
+penggunaan	NN
+rekening	NN
+pemerintah	NN
+RDI	NNP
+sebesar	X
+Rp0,6	NNP
+triliun	CD
+,	Z
+juga	RB
+hasil	NN
+privatisasi	NN
+netto	NN
+Rp1,5	NNP
+triliun	CD
+.	Z
+
+#
+
+"	Z
+Sementara	NNP
+,	Z
+pembiayaan	NN
+anggaran	NN
+yang	SC
+bersumber	VB
+dari	IN
+pinjaman	NN
+luar negeri	NN
+direncanakan	VB
+negatif	JJ
+Rp16,7	NNP
+triliun	CD
+,	Z
+akibat	NN
+penarikan	NN
+pinjaman	NN
+program	NN
+dan	CC
+pinjaman	NN
+proyek	NN
+Rp43	NNP
+triliun	CD
+,	Z
+yang	SC
+lebih	RB
+kecil	JJ
+dari	IN
+pembayaran	NN
+cicilan	NN
+pokok	JJ,NN 
+utang	NN
+luar negeri	NN
+sebesar	X
+Rp59,7	NNP
+triliun	CD
+,	Z
+"	Z
+
+kata Kepala	NN
+Negara	NNP
+.	Z
+
+#
+
+Presiden	NN
+menegaskan	VB
+,	Z
+bahwa	SC
+rencana	NN
+membuat	VB
+pinjaman	NN
+luar negeri	NN
+menjadi	VB
+negatif	JJ
+,	Z
+merupakan	VB
+konsistensi	X
+pemerintah	NN
+mengurangi	VB
+porsi	NN
+utang	NN
+luar negeri	NN
+dalam	IN 
+pembiayaan	NN
+anggaran	NN
+.	Z
+
+#
+
+Meski	SC
+demikian	PR
+,	Z
+diutarakan	VB
+Presiden	NNP
+,	Z
+kenaikan	NN
+defisit	NN
+anggaran	NN
+perlu	MD
+ditopang	VB
+dengan	SC,IN 
+perkuatan	NN
+ketahanan	NN
+fiskal	NN
+.	Z
+
+#
+
+Langkah	NN 
+kebijakan	NN
+meningkatkan	VB
+ketahanan	NN
+fiskal	NN
+tersebut	PR,VB 
+,	Z
+diambil	VB
+dengan	SC,IN 
+cara	NN
+meningkatkan	VB
+pengelolaan	NN
+Surat Berharga	NN
+Negara	NNP
+(SBN)	X
+secara	JJ
+hati-hati	RB
+,	Z
+transparan	JJ
+,	Z
+dan	CC
+akuntabel	X
+.	Z
+
+#
+
+"	Z
+Kisaran	NN
+nilai tukar	NN
+tersebut	PR,VB 
+cukup	RB
+realistis	JJ
+dengan	SC 
+mempertimbangkan	VB
+perkembangan	NN
+faktor	NN
+fundamental	NN
+perekonomian	NN
+nasional	JJ
+yang	SC
+semakin	RB
+membaik	VB
+,	Z
+"	Z
+
+kata	NN
+Deputi	NNP
+Gubernur	NNP
+BI	NNP
+,	Z
+Aslim	NNP
+Tadjuddin	NNP
+dalam	IN 
+Rapat Kerja	NN
+Komisi	NNP
+XI	NNP
+DPR	NNP
+dengan	SC,IN 
+Menteri	NNP
+Keuangan	NNP
+di	IN
+Gedung	NNP
+DPR/MPR	NNP
+Jakarta	NNP
+,	Z
+Senin	NNP
+.	Z
+
+#
+
+Ia	PRP
+menambahkan	VB
+,	Z
+meski	SC
+rupiah	NN
+pada	IN
+akhir-akhir	X
+ini	PR
+sempat	X
+tertekan	VB
+akibat	NN
+kasus	NN
+subprime	X
+mortgage	X
+namun	CC
+berbagai	CD
+langkah	NND 
+bank sentral	NN
+asing	JJ
+terutama	JJ
+The	NNP
+Federal	NNP
+Reserves	NNP
+Bank Sentral	NN
+AS	NNP
+untuk	SC 
+mengendalikan	VB
+masa	NN
+lah	RP
+tersebut	PR,VB 
+bekerja	VB
+dengan	SC,IN 
+baik	JJ
+sehingga	SC
+pada	IN
+tahun	NN
+2008	CD
+diharapkan	VB
+keadaan	NN
+rupiah	NN
+semakin	RB
+terkendali	VB
+.	Z
+
+#
+
+"	Z
+Memperhatikan	VB
+langkah	NN 
+kemajuan	NN
+dari	IN
+berbagai	CD
+langkah	NND 
+kebijakan	NN
+yang	SC
+ditempuh	VB
+beberapa	CD
+bank sentral	NN
+negara maju	NN
+khusus	JJ
+nya	PRP
+The	NNP
+Federal	NNP
+Reserves	NNP
+untuk	SC 
+mengatasi	VB
+krisis	NN
+pasar	NN
+kredit	NN
+global	X
+,	Z
+kami	PRP
+mengharapkan	VB
+kondisi	NN
+pasar	NN
+keuangan	NN
+global	X
+kembali	VB
+pulih	JJ
+sehingga	SC
+turut	VB
+memberikan	VB
+dampak positif	NN
+terhadap	IN
+pasar	NN
+keuangan	NN
+domestik	JJ
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+Ia	PRP
+juga	RB
+menambahkan	VB
+,	Z
+pengaruh	NN
+negatif	JJ
+dari	IN
+krisis	NN
+subprime	X
+mortgage	X
+yang	SC
+menekan	VB
+rupiah	NN
+bukanlah	X
+faktor	NN
+penyebab	NN
+yang	SC
+fundamental	NN
+.	Z
+
+#
+
+Namun	CC
+demikian	PR
+ia	PRP
+mengatakan	VB
+,	Z
+BI	NNP
+dan	CC
+Pemerintah	NNP
+tetap	RB,JJ,VB 
+waspada	JJ
+memandang	VB
+dampak	NN
+lanjutan	NN
+dari	IN
+akibat	NN
+krisis	NN
+tersebut	PR,VB 
+meski	SC
+telah	MD
+mulai	VB
+terkendali	VB
+.	Z
+
+#
+
+Dalam	IN 
+sebuah	X
+pernyataan	NN
+nya	PRP
+di	IN
+Jakarta	NNP
+,	Z
+Rabu	NNP
+,	Z
+Pefindo	NNP
+mengatakan	VB
+,	Z
+saldo	NN
+kas	NN
+perusahaan	NN
+pada	IN
+akhir	NN
+semester	X
+pertama	OD
+2007	CD
+hanya	RB
+sebesar	X
+Rp30,7	NNP
+miliar	CD
+,	Z
+sehingga	SC
+perusahaan	NN
+akan	IN,MD 
+memerlukan	VB
+pinjaman	NN
+baru	JJ,NN,MD 
+untuk	SC 
+membayar	VB
+kembali	VB
+obligasi	NN
+yang	SC
+jatuh tempo	VB
+tersebut	PR,VB 
+.	Z
+
+#
+
+"	Z
+Perusahaan	NN
+sekarang	X
+sedang	JJ,CC,MD 
+dalam	IN 
+proses	NN
+finalisasi	NN
+dokumentasi	NN
+pinjaman	NN
+dengan	SC,IN 
+sebuah	X
+bank	NN
+swasta	JJ
+dan	CC
+sebuah	X
+bank	NN
+milik	VB
+pemerintah	NN
+untuk	SC,IN 
+pinjaman	NN
+sejumlah	CD
+Rp255,1	NNP
+miliar	CD
+,	Z
+"	Z
+
+kata	NN
+Pefindo	NNP
+.	Z
+
+#
+
+"	Z
+Pemeringkat	NN
+Efek	NNP
+Indonesia	NNP
+(Pefindo)	X
+menegaskan	VB
+peringkat	NN
+idA-	X
+untuk	SC,IN 
+PT	NNP
+Serasi	NNP
+Autoraya	NNP
+(SERA)	X
+dan	CC
+outstanding	X
+Obligasi	NNP
+I	NNP
+Tahun	NNP
+2003	CD
+sebesar	X
+Rp165	NNP
+miliar	CD
+yang	SC
+akan	IN,MD 
+jatuh tempo	VB
+pada	IN
+Juli	NNP
+2008	CD
+dengan	SC,IN 
+prospek	NN
+peringkat	NN
+tersebut	PR,VB 
+stabil	JJ
+,	Z
+"	Z
+
+kata	NN
+Pefindo	NNP
+dalam	IN 
+pernyataan	NN
+nya	PRP
+di	IN
+Jakarta	NNP
+,	Z
+Rabu	NNP
+.	Z
+
+#
+
+Menurut	NNP
+Pefindo	NNP
+,	Z
+peringkat	NN
+tersebut	PR,VB 
+didukung	VB
+oleh	IN
+posisi	NN
+pasar	NN
+SERA	NNP
+yang	SC
+kuat	JJ
+di	IN
+usaha	NN
+penyewaan	NN
+mobil	NN
+,	Z
+aliran	NN
+pendapatan	NN
+yang	SC
+berkelanjutan	VB
+dari	IN
+jasa	NN
+leasing	X
+(sewa	X
+guna	NN,SC,IN 
+usaha)	X
+dan	CC
+proteksi	NN
+arus kas	NN
+yang	SC
+terus-menerus	RB
+.	Z
+
+#
+
+Namun	CC
+,	Z
+kata	NN
+lembaga	NN
+tersebut	PR,VB 
+,	Z
+peringkat	NN
+tersebut	PR,VB 
+dibatasi	VB
+oleh	IN
+posisi	NN
+leverage	X
+perusahaan	NN
+yang	SC
+tinggi	JJ
+dan	CC
+rendah	JJ
+nya	PRP
+margin	X
+dari	IN
+bisnis	NN
+mobil	NN
+bekas	JJ
+.	Z
+
+#
+
+Sedangkan	CC
+berkenaan	VB
+dengan	SC,IN 
+rencana	NN
+divestasi	NN
+saham	NN
+milik	VB
+Negara	NNP
+RI	NNP
+di	IN
+BNI	NNP
+,	Z
+kata	NN
+dia	PRP
+,	Z
+berdasarkan	VB
+surat	NN
+Menteri	NNP
+Negara	NNP
+BUMN	NNP
+pada	IN
+19	CD
+Desember	NNP
+2006	CD
+dinyatakan	VB
+bahwa	SC
+BNI	NNP
+termasuk	X
+dalam	IN 
+program	NN
+tahunan	NN
+privatisasi	NN
+BUMN	NNP
+tahun	NN
+2007	CD
+.	Z
+
+#
+
+Kondisi	NN
+Juni	NNP
+ini	PR
+adalah	VB
+kondisi	NN
+perekonomian	NN
+tertinggi	JJ
+selama	JJ
+6	CD
+bulan	NN
+terakhir	OD
+.	Z
+
+#
+
+Total	NN
+NPL	NNP
+bank	NN
+nasional	JJ
+hingga	SC,IN 
+Juni	NNP
+2007	CD
+mencapai	VB
+Rp49,7	NNP
+triliun	CD
+dengan	SC,IN 
+62	CD
+persen	NN,CD 
+atau	CC
+Rp30,8	NNP
+berasal	VB
+dari	IN
+bank	NN
+BUMN	NNP
+.	Z
+
+#
+
+Jean	NNP
+King	NNP
+,	Z
+direktur	NN
+pengontrolan	NN
+tembakau	NN
+di	IN
+Cancer	NNP
+Research	NNP
+UK	NNP
+mengatakan	VB
+atlet	NN
+,	Z
+terutama	JJ
+pemain	NN
+sepak bola	NN
+,	Z
+diidolakan	X
+dan	CC
+karena	SC,IN 
+status	NN
+nya	PRP
+mereka	PRP
+perlu	MD
+menempatkan diri	VB
+sebagai	IN
+figur	NN
+panutan	X
+.	Z
+
+#
+
+"	Z
+Dengan	SC,IN 
+demikian	PR
+total	NN
+kapasitas	NN
+kapal	NN
+tankernya	X
+menjadi	VB
+820.600	CD
+DWT	NNP
+(dry	X
+weigh	X
+ton)	X
+dengan	SC,IN 
+pangsa pasar	NN
+sekitar	RB 
+10	CD
+persen	NN,CD 
+secara	JJ
+internasional	JJ
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+Menurut	NNP
+data	NN
+Depkeu	NNP
+,	Z
+net	X
+buy	X
+obligasi	NN
+negara	NN
+atau	CC
+SUN	NNP
+oleh	IN
+investor	NN
+asing	JJ
+non-residence	X
+pada	IN
+saat	SC,NN 
+ini	PR
+mencapai	VB
+Rp20,3	NNP
+triliun	CD
+dari	IN
+posisi	NN
+awal	NN
+2006	CD
+Rp4,2	NNP
+triliun	CD
+.	Z
+
+#
+
+Pada	IN
+sisi	NN,VB 
+eksternal	JJ
+,	Z
+peningkatan	NN
+yang	SC
+besar	JJ
+pada	IN
+cadangan	NN
+devisa	NN
+terutama	JJ
+karena	SC,IN 
+kenaikan	NN
+harga	NN
+komoditas	NN
+,	Z
+tekanan	NN
+pada	IN
+impor	NN,VB 
+oleh	IN
+sektor	NN
+manufaktur	NN
+yang	SC
+lebih	RB
+tinggi	JJ
+dari	IN
+perkiraan	NN
+dan	CC
+masuk	VB
+nya	PRP
+dana	NN
+portofolio	X
+telah	MD
+menyediakan	VB
+bantalan	NN
+peredam	NN
+untuk	SC 
+menghadapi	VB
+kejutan-kejutan	NN
+sistemik	X
+.	Z
+
+#
+
+Dolar	NN
+AS	NNP
+diperdagangkan	VB
+pada	IN
+level	X
+tengah	MD,NN 
+119	CD
+yen	NN
+pada	IN
+awal	NN
+transaksi	NN
+Kamis	NNP
+,	Z
+di	IN
+Tokyo	NNP
+,	Z
+masih	MD
+datar	JJ
+dari	IN
+posisi	NN
+terakhir	OD
+Rabu	NNP
+di	IN
+New	NNP
+York	NNP
+.	Z
+
+#
+
+"	Z
+Apabila	SC
+indikator	NN
+ekonomi	NN,VB 
+AS	NNP
+melemah	VB
+,	Z
+maka	SC
+rupiah	NN
+akan	IN,MD 
+mendapat	VB
+dukungan	NN
+besar	JJ
+yang	SC
+diperkirakan	VB
+akan	IN,MD 
+bisa	MD 
+mencapai	VB
+level	X
+Rp9.000	NNP
+per	X
+dolar	NN
+AS	NNP
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+PT	NN
+Medco	NNP
+Energy	NNP
+Internasional	NNP
+Tbk	NNP
+melalui	X
+anak	NN
+usaha	NN
+nya	PRP
+Medco	NNP
+E&P	NNP
+Malaka	NNP
+telah	MD
+menandatangani	VB
+penjualan	NN
+gas	NN
+ke	IN
+Perusahaan	NNP
+Listrik	NNP
+Negara	NNP
+(PLN)	X
+senilai	X
+430	CD
+juta	CD
+dolar	NN
+AS	NNP
+.	Z
+
+#
+
+"	Z
+Pembelian	NN
+38.360	CD
+saham	NN
+atau	CC
+yang	SC
+merupakan	VB
+70	CD
+persen	NN,CD 
+saham	NN
+PT	NNP
+Chandra	NNP
+Asri	NNP
+dilakukan	VB
+baik	JJ
+melalui	X
+pembelian	NN
+langsung	JJ
+maupun	CC
+tidak	NEG
+langsung	JJ
+,	Z
+"	Z
+
+kata	NN
+Direktur Utama	NN
+Barito	NNP
+Pacific	NNP
+,	Z
+Anton	NNP
+BS	NNP
+Hudyana	NNP
+kepada	IN
+Bursa Efek	NN
+Jakarta	NNP
+Jumat	NNP
+.	Z
+
+#
+
+Namun	CC
+Simon	NNP
+Clark	NNP
+,	Z
+direktur	NN
+kelompok	NN
+lobi	NN,VB 
+untuk	SC,IN 
+perokok	NN
+Forest	NNP
+,	Z
+mengatakan	VB
+menyalahkan	VB
+olahragawan	NN
+idola	X
+sebagai	IN
+penyebab	NN
+remaja	NN
+merokok	VB
+tidaklah	X
+tepat	JJ
+.	Z
+
+#
+
+Sambil	SC,IN 
+menggeleng-gelengkan	X
+kepala	NN
+dan	CC
+mendengarkan	VB
+ear	X
+piece	X
+dia	PRP
+mengatakan:	X
+
+"	Z
+Saya	PRP
+mual	NN
+dengan	SC,IN 
+masa	NN
+lah	RP
+ini	PR
+.	Z
+
+Saya	PRP
+amat	RB
+meminta	VB
+maaf	NN
+,	Z
+ini	PR
+semata-mata	JJ
+kecelakaan	NN
+.	Z
+
+"	Z
+
+#
+
+Ia	PRP
+juga	RB
+melaporkan	VB
+bahwa	SC
+Mitsubishi	NNP
+Corporation	NNP
+Mitsubishi	NNP
+,	Z
+salah satu	JJ
+perusahaan	NN
+terbuka	JJ,VB 
+terbesar	JJ
+bidang	NN 
+perdagangan	NN
+di	IN
+Jepang	NNP
+,	Z
+telah	MD
+menanamkan	VB
+modal	NN
+nya	PRP
+352	CD
+juta	CD
+dolar	NN
+AS	NNP
+untuk	SC 
+mendapatkan	VB
+39,4	CD
+persen	NN,CD 
+saham	NN
+yang	SC
+diterbitkan	VB
+Encore	NNP
+Energy	NNP
+.	Z
+
+#
+
+Menurut	NNP
+Direktur	NNP
+MedcoEnergi	NNP
+Yani	NNP
+Panigoro	NNP
+dalam	IN 
+laporan	NN
+nya	PRP
+kepada	IN
+Ketua	NNP
+Bapepam-LK	NNP
+di	IN
+Jakarta	NNP
+,	Z
+Selasa	NNP
+,	Z
+sebelumnya	SC
+50,695	CD
+persen	NN,CD 
+saham	NN
+MedcoEnergi	NNP
+tersebut	PR,VB 
+dimiliki	VB
+oleh	IN
+anak perusahaan	NN
+perseroan	NN
+yakni	SC
+Dencisco	NNP
+Energy	NNP
+Resources	NNP
+Pte	NNP
+.	Z
+
+Ltd	NNP
+.	Z
+
+dan	CC
+Aman	NNP
+Energy	NNP
+Resources	NNP
+Pte	NNP
+.	Z
+
+Ltd	NNP
+.	Z
+
+#
+
+Toba	NNP
+Pulp	NNP
+yang	SC
+dahulu	X
+bernama	VB
+PT	NNP
+Inti	NNP
+Indorayon	NNP
+dikenal	VB
+sebagai	IN
+perusahaan	NN
+bubur	NN
+kertas	NN
+milik	VB
+konglomerat	NN
+Sukanto	NNP
+Tanoto	NNP
+.	Z
+
+#
+
+Dia	PRP
+menambahkan	VB
+dana	NN
+akuisisi	NN
+senilai	X
+Rp8,4	NNP
+triliun	CD
+akan	IN,MD 
+dibiayai	VB
+oleh	IN
+dana	NN
+internal	JJ
+perseroan	NN
+dan	CC
+pinjaman	NN
+.	Z
+
+#
+
+"	Z
+Peringkat	NN
+tersebut	PR,VB 
+mencerminkan	VB
+berkembang	VB
+nya	PRP
+permintaan	NN
+untuk	SC,IN 
+usaha	NN
+konstruksi	NN
+dan	CC
+posisi	NN
+usaha	NN
+perusahaan	NN
+yang	SC
+kuat	JJ
+dalam	IN 
+bisnis	NN
+pembangunan	NN
+pembangkit	NN
+listrik	NN
+dan	CC
+pabrik	NN
+industri	NN
+,	Z
+"	Z
+
+kata	NN
+analis	NN
+Pefindo	NNP
+Ronald	NNP
+Hertanto	NNP
+,	Z
+dalam	IN 
+sebuah	X
+pernyataan	NN
+nya	PRP
+di	IN
+Jakarta	NNP
+,	Z
+Rabu	NNP
+.	Z
+
+#
+
+Analis	NN
+valas	NN
+PT	NNP
+Bank	NNP
+Saudara	NNP
+,	Z
+Ruri	NNP
+Nova	NNP
+di	IN
+Jakarta	NNP
+,	Z
+mengatakan	VB
+,	Z
+rupiah	NN
+tertekan	VB
+,	Z
+karena	SC,IN 
+pelaku pasar	NN
+berspekulasi	VB
+melepas	VB
+mata uang	NN
+lokal	JJ
+itu	PR
+,	Z
+namun	CC
+koreksi	NN
+harga	NN
+yang	SC
+terjadi	VB
+relatif	JJ
+kecil	JJ
+.	Z
+
+#
+
+"	Z
+23.100	CD
+ton	NND
+CPO	NNP
+ini	PR
+selanjutnya	RB
+berdasarkan	VB
+perjanjian	NN
+Offtake	NNP
+CPO	NNP
+dijual	VB
+ke	IN
+perseroan	NN
+,	Z
+"	Z
+
+jelas	JJ
+Fitri	NNP
+.	Z
+
+#
+
+Sementara itu	NNP
+,	Z
+nilai tukar	NN
+rupiah	NN
+pada	IN
+Oktober	NNP
+2007	CD
+secara	JJ
+rata-rata	JJ
+menguat	VB
+2,2	CD
+persen	NN,CD 
+dibandingkan	VB
+September	NNP
+atau	CC
+rata-rata	JJ
+Rp9.101	NNP
+per	X
+dolar	NN
+AS	NNP
+.	Z
+
+#
+
+Menteri	NN
+Keuangan	NNP
+Sri	NNP
+Mulyani	NNP
+Indrawati	NNP
+,	Z
+Selasa	NNP
+,	Z
+mengungkapkan	VB
+,	Z
+surplus	X
+anggaran	NN
+hingga	SC,IN 
+31	CD
+Oktober	NNP
+2007	CD
+masih	MD
+mencapai	VB
+Rp17,6	NNP
+triliun	CD
+.	Z
+
+#
+
+Sementara	NNP
+pertumbuhan	NN
+kredit	NN
+sebesar	X
+10	CD
+persen	NN,CD 
+menjadi	VB
+111,4	CD
+triliun	CD
+.	Z
+
+#
+
+Dari	IN
+total	NN
+penjualan	NN
+sepanjang	X
+9	CD
+bulan	NN
+2007	CD
+,	Z
+
+penjualan	NN
+mobil	NN
+untuk	SC,IN 
+produk	NN
+Astra	NNP
+Internasional	NNP
+mencapai	VB
+179.603	CD
+unit	NN
+.	Z
+
+#
+
+"	Z
+Insya	NN
+Allah	NNP
+gejolak	NN
+ini	PR
+akan	IN,MD 
+dapat	MD,VB 
+kita	PRP
+lewati	VB
+dengan	SC,IN 
+dampak	NN
+seminimal	JJ
+mungkin	MD
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+dalam	IN 
+Pidato Kenegaraan	NN
+dan	CC
+Keterangan	NNP
+Pemerintah	NNP
+Atas	NNP
+RAPBN	NNP
+2008	CD
+beserta	X
+Nota	NNP
+Keuangannya	NNP
+dalam	IN 
+Sidang Paripurna	NN
+DPR	NNP
+di	IN
+Jakarta	NNP
+,	Z
+Kamis	NNP
+.	Z
+
+#
+
+Dia	PRP
+mengatakan	VB
+,	Z
+hal-hal	NN
+yang	SC
+mendorong	VB
+pertumbuhan	NN
+tersebut	PR,VB 
+,	Z
+antara	X
+lain	JJ
+investasi	NN
+yang	SC
+mulai	VB
+tumbuh	VB
+dan	CC
+berjalan	VB
+.	Z
+
+#
+
+Menurut	NNP
+Sekretaris	NNP
+Perusahaan	NNP
+UNTR	NNP
+Tjandrawati	NNP
+Waas	NNP
+dalam	IN 
+laporan	NN
+nya	PRP
+kepada	IN
+Bursa Efek	NN
+Jakarta	NNP
+(BEJ),	X
+Kamis	NNP
+,	Z
+pesat	NN
+nya	PRP
+kebutuhan	NN
+alat	NN
+berat	JJ
+di	IN
+sektor	NN
+non-tambang	NN
+hingga	SC,IN 
+pertengahan	NN
+tahun	NN
+ini	PR
+memacu	VB
+kenaikan	NN
+kontribusi	NN
+pendapatan	NN
+divisi	NN,VB 
+mesin	NN
+konstruksi	NN
+dari	IN
+48	CD
+persen	NN,CD 
+tahun	NN
+lalu	VB/CC 
+menjadi	VB
+51	CD
+persen	NN,CD 
+tahun	NN
+ini	PR
+.	Z
+
+#
+
+Dia	PRP
+merupakan	VB
+salah	JJ
+seorang	JJ
+dari	IN
+puluhan	CD
+calon	NN
+yang	SC
+berasal	VB
+dari	IN
+dunia	NN
+olahraga	NN
+maupun	CC
+pertunjukan	NN
+,	Z
+yang	SC
+berjuang	VB
+untuk	SC 
+merebut	VB
+kursi	NN,VB 
+di	IN
+majelis rendah	NN
+parlemen	NN
+dengan	SC 
+bersaing	VB
+melawan	VB
+politikus	NN
+berpengalaman	VB
+.	Z
+
+#
+
+"	Z
+Mereka	PRP
+menggunakan	VB
+mesin	NN
+pemanen	NN
+anggur	NN
+.	Z
+
+Itu	PR
+arti	NN,VB 
+nya	PRP
+mereka	PRP
+tidak	NEG
+memerlukan	VB
+banyak	CD
+orang	NN 
+untuk	SC 
+melakukan	VB
+pemanenan	NN
+,	Z
+dua	CD
+orang	NN 
+saja	RB
+cukup	RB
+,	Z
+"	Z
+
+kata	NN
+Cavaille	NNP
+kepada	IN
+harian	NN
+Le	NNP
+Parisien	NNP
+.	Z
+
+#
+
+Harga	NN
+realisasi	NN
+rata-rata	JJ
+nikel	NN
+dalam	IN 
+matte	X
+PT	NNP
+Inco	NNP
+sebesar	X
+29,149	CD
+dolar	NN
+AS	NNP
+per	X
+ton	NND
+pada	IN
+K1	NNP
+2007	CD
+atau	CC
+lebih	RB
+baik	JJ
+dibandingkan	VB
+periode	NN
+sama	JJ
+sebelumnya	SC
+11,136	CD
+dolar	NN
+AS	NNP
+per	X
+ton	NND
+.	Z
+
+#
+
+Hartadi	NNP
+menjelaskan	VB
+keengganan	NN
+perbankan	NN
+untuk	SC 
+memberikan	VB
+pembiayaan	NN
+pada	IN
+industri	NN
+tersebut	PR,VB 
+membuat	VB
+perkembangan	NN
+nya	PRP
+sungguh	RB
+sangat	RB
+memprihatinkan	VB
+.	Z
+
+#
+
+"	Z
+Jepang	NNP
+tetap	RB,JJ,VB 
+berkomitmen	VB
+untuk	SC 
+membantu	VB
+pemerintah	NN
+Indonesia	NNP
+memperbaiki	VB
+sistem	NN
+pajak	NN
+mereka	PRP
+,	Z
+"	Z
+
+kata	NN
+Ken	NNP
+Okinawa	NNP
+,	Z
+pejabat	NN
+Kedutaan	NNP
+Besar	NNP
+Jepang	NNP
+di	IN
+Jakarta	NNP
+dalam	IN 
+siaran pers	NN
+Bank	NNP
+Dunia	NNP
+yang	SC
+diterima	VB
+ANTARA	NNP
+,	Z
+Jumat	NNP
+.	Z
+
+#
+
+Pencabutan	NN
+izin usaha	NN
+atas	IN 
+dua	CD
+perusahaan	NN
+lain	JJ
+nya	PRP
+dilakukan	VB
+berdasarkan	VB
+pengajuan	NN
+permohonan	NN
+pengembalian	NN
+izin usaha	NN
+setelah	SC
+tidak	NEG
+berusaha	VB
+lagi	MD,RB 
+.	Z
+
+#
+
+PT	NN
+Barito	NNP
+Pacific	NNP
+Timber	NNP
+Tbk	NNP
+akan	IN,MD 
+mengakuisisi	VB
+70	CD
+persen	NN,CD 
+saham	NN
+PT	NNP
+Chandra	NNP
+Asri	NNP
+.	Z
+
+#
+
+Ia	PRP
+menambahkan	VB
+rata-rata	JJ
+suku	NN
+bunga	NN
+kredit	NN
+bank	NN
+saat	SC,NN 
+ini	PR
+berada	VB
+di	IN
+kisaran	NN
+rata-rata	JJ
+9,6-13,8	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Sementara itu	NNP
+,	Z
+ujar	VB
+nya	PRP
+,	Z
+konsumsi	NN
+rumah tangga	NN
+tumbuh	VB
+1,46	CD
+persen	NN,CD 
+pada	IN
+triwulan	NN
+I	NNP
+2007	CD
+dibanding	VB
+periode	NN
+sebelumnya	SC
+,	Z
+dan	CC
+4,71	CD
+persen	NN,CD 
+secara	JJ
+
+'	Z
+year	X
+on	X
+year	X
+'	Z
+,	Z
+yang	SC
+terdiri	VB
+atas	IN 
+1,1	CD
+persen	NN,CD 
+pertumbuhan	NN
+konsumsi	NN
+makanan	NN
+,	Z
+dan	CC
+3,92	CD
+persen	NN,CD 
+pertumbuhan	NN
+konsumsi	NN
+bukan	NEG
+makanan	NN
+.	Z
+
+#
+
+Sedangkan	CC
+Inflasi	NNP
+pada	IN
+Oktober	NNP
+yang	SC
+sebesar	X
+6,88	CD
+persen	NN,CD 
+atau	CC
+lebih	RB
+rendah	JJ
+dibandingkan	VB
+September	NNP
+yaitu	SC
+6,95	CD
+persen	NN,CD 
+menurut	X
+dia	PRP
+karena	SC 
+menurun	VB
+nya	PRP
+inflasi	NN
+pada	IN
+kelompok	NN
+makanan	NN
+yang	SC
+bergejolak	VB
+(volatile	X
+food)	X
+sehubungan	SC
+dengan	SC 
+berlalu	VB
+nya	PRP
+pola	NN
+musiman	NN
+Idul	NNP
+Fitri	NNP
+.	Z
+
+#
+
+Dalam	IN 
+pengertian	NN
+Fitch	NNP
+,	Z
+pinjaman	NN
+dengan	SC,IN 
+jaminan	NN
+merupakan	VB
+porsi	NN
+mayoritas	CD
+dari	IN
+total	NN
+kredit	NN
+bank	NN
+di	IN
+akhir	NN
+tahun	NN
+2006	CD
+.	Z
+
+#
+
+Demikian	PR
+pula	RB
+laba	NN
+usaha	NN
+perseroan	NN
+,	Z
+dalam	IN 
+waktu	NN
+yang	SC
+sama	JJ
+terangkat	VB
+dari	IN
+semula	NN
+Rp3,67	NNP
+miliar	CD
+menjadi	VB
+Rp19,65	NNP
+miliar	CD
+,	Z
+sehingga	SC
+laba bersih	NN
+per	X
+saham	NN
+EPS-nya	NNP
+meningkat	VB
+dari	IN
+Rp0,39	NNP
+menjadi	VB
+Rp2,48	NNP
+meski	SC
+perseroan	NN
+menanggung	VB
+beban	NN
+lain-lain	JJ
+bersih	JJ
+yang	SC
+meningkat	VB
+dari	IN
+Rp2,25	NNP
+miliar	CD
+menjadi	VB
+Rp4,99	NNP
+miliar	CD
+.	Z
+
+#
+
+Rencana	NN
+nya	PRP
+akuisisi	NN
+ini	PR
+akan	IN,MD 
+dimintakan	VB
+persetujuan	NN
+dalam	IN 
+RUPSLB	NNP
+yang	SC
+akan	IN,MD 
+diselenggarakan	VB
+pada	IN
+26	CD
+Oktober	NNP
+mendatang	JJ
+.	Z
+
+#
+
+Sementara	NNP
+Menko	NNP
+Perekonomian	NNP
+Boediono	NNP
+di	IN
+tempat	NN
+yang	SC
+sama	JJ
+mengatakan	VB
+secara	JJ
+umum	JJ
+APBNP	NNP
+2007	CD
+aman	JJ
+,	Z
+meskipun	SC
+terjadi	VB
+kenaikan	NN
+harga	NN
+minyak	NN
+dunia	NN
+.	Z
+
+#
+
+Gubernur	NN
+Bank	NNP
+Indonesia	NNP
+Burhanuddin	NNP
+Abdullah	NNP
+mengatakan	VB
+situasi	NN
+perekonomian	NN
+dunia	NN
+saat	SC,NN 
+ini	PR
+semakin	RB
+membaik	VB
+sehingga	SC
+nilai tukar	NN
+rupiah	NN
+diperkirakan	VB
+akan	IN,MD 
+kembali	VB
+stabil	JJ
+di	IN
+sekitar	IN,RB,NN 
+Rp9.000	NNP
+per	X
+dolar	NN
+AS	NNP
+.	Z
+
+#
+
+Tujuan	NN
+nya	PRP
+adalah	VB
+mempromosikan	VB
+bahasa	NN
+Spanyol	NNP
+dan	CC
+novel	X
+terkenal	VB
+itu	PR
+,	Z
+yang	SC
+akan	IN,MD 
+menggunakan	VB
+judul	NN
+lengkap	JJ
+nya	PRP
+The	NNP
+Ingenious	NNP
+Hidalgo	NNP
+Don	NNP
+Quixote	NNP
+of	X
+La	NNP
+Mancha	NNP
+.	Z
+
+#
+
+Ia	PRP
+mengatakan	VB
+,	Z
+pemegang saham	NN
+Indonesia	NNP
+akan	IN,MD 
+menerima	VB
+dividen	NN
+dalam	IN 
+rupiah	NN
+yang	SC
+nilai	NN,VB 
+nya	PRP
+setara	JJ
+dengan	SC,IN 
+dividen	NN
+yang	SC
+dibayarkan	VB
+dalam	IN 
+dollar	NN
+AS	NNP
+berdasarkan	VB
+kurs	NN
+tengah	MD,NN 
+yang	SC
+ditetapkan	VB
+oleh	IN
+Bank	NNP
+Indonesia	NNP
+pada	IN
+tanggal	NN,VB 
+27	CD
+April	NNP
+2007	CD
+.	Z
+
+#
+
+Menurutnya	NNP
+,	Z
+kedua	CD 
+unit	NN
+tanker	X
+tersebut	PR,VB 
+akan	IN,MD 
+ditempatkan	VB
+di bawah	VB
+anak perusahaan	NN
+APOL	NNP
+,	Z
+yang	SC
+merupakan	VB
+usaha patungan	NN
+antara	X
+perseroan	NN
+dengan	SC,IN 
+Hyundai	NNP
+Merchant	NNP
+Marine	NNP
+Co	NNP
+.	Z
+
+Ltd	NNP
+.	Z
+
+dari	IN
+Korea	NNP
+Selatan	NNP
+.	Z
+
+#
+
+Dalam	IN 
+kesempatan	NN
+yang	SC
+sama	JJ
+,	Z
+Menkeu	NNP
+mengungkapkan	VB
+,	Z
+inflasi	NN
+2007	CD
+diperkirakan	VB
+akan	IN,MD 
+mencapai	VB
+6,5	CD
+persen	NN,CD 
+dengan	SC,IN 
+pertumbuhan ekonomi	NN
+6,3	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Persoalan	NN
+nya	PRP
+apakah	X
+mereka	PRP
+harus	MD
+menghentikan	VB
+kebiasaan	NN
+itu	PR
+untuk	SC 
+memberi	VB
+contoh	NN
+yang	SC
+lebih	RB
+baik	JJ
+karena	SC,IN 
+mereka	PRP
+diidolakan	X
+banyak	CD
+orang	NN 
+?	Z
+
+#
+
+Sementara itu	NNP
+,	Z
+posisi	NN
+ketiga	OD 
+adalah	VB
+Thailand	NNP
+sebesar	X
+11,4	CD
+miliar	CD
+Ringgit	NNP
+3,16	CD
+miliar	CD
+dolar	NN
+AS	NNP
+dan	CC
+Indonesia	NNP
+berada	VB
+di	IN
+urutan	NN
+ke-4	CD
+dengan	SC,IN 
+nilai	NN,VB 
+4,7	CD
+miliar	CD
+Ringgit	NNP
+.	Z
+
+#
+
+Direktur	NN
+Perencanaan	NNP
+Strategis	NNP
+dan	CC
+Humas	NNP
+BI	NNP
+,	Z
+Budi	NNP
+Mulya	NNP
+di	IN
+Jakarta	NNP
+,	Z
+Selasa	NNP
+,	Z
+mengatakan	VB
+penurunan	NN
+kembali	VB
+BI	NNP
+rate	X
+ini	PR
+karena	SC,IN 
+bank sentral	NN
+memperkirakan	VB
+target	NN
+inflasi	NN
+tahun	NN
+2007	CD
+akan	IN,MD 
+terkendali	VB
+dan	CC
+perekonomian	NN
+makro	NN
+masih	MD
+pada	IN
+jalur	NN
+nya	PRP
+.	Z
+
+#
+
+Jepang	NNP
+menghibahkan	VB
+1	CD
+juta	CD
+dolar	NN
+AS	NNP
+yang	SC
+berasal	VB
+dari	IN
+Policy	NNP
+and	X
+Human	NNP
+Resource	NNP
+Development	NNP
+(PHRD)	X
+Trust	NNP
+Fund	NNP
+,	Z
+untuk	SC 
+mendukung	VB
+penguatan	NN
+sistem	NN
+administrasi	NN
+perpajakan	NN
+dan	CC
+perbaikan	NN
+pelayanan	NN
+.	Z
+
+#
+
+Dia	PRP
+kemudian	CC,NN 
+mengumumkan	VB
+pemenang	NN
+yang	SC
+sebenarnya	RB
+,	Z
+yaitu	SC
+Amanda	NNP
+Ware	NNP
+yang	SC
+berusia	VB
+18	CD
+tahun	NN
+.	Z
+
+#
+
+Dengan	SC,IN 
+demikian	PR
+komposisi	NN
+kepemilikan	X
+saham	NN
+di	IN
+blok	NN
+pertambangan	NN
+minyak	NN
+Ramba	NNP
+terdiri	VB
+dari	IN
+Elnusa	NNP
+60	CD
+persen	NN,CD 
+dan	CC
+Talisman	NNP
+Energi	NNP
+40	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Sri	VB
+Mulyani	NNP
+dalam	IN 
+acara	NN
+pembukaan	NN
+Indonesia	NNP
+Investor	NNP
+Forum	NNP
+II	NNP
+di	IN
+Jakarta	NNP
+,	Z
+Selasa	NNP
+,	Z
+mengatakan	VB
+kontribusi	NN
+pasar modal	NN
+terhadap	IN
+PDB	NNP
+ini	PR
+menunjukkan	VB
+trend	NN
+naik	VB
+dibanding	VB
+pada	IN
+akhir	NN
+2006	CD
+yang	SC
+hanya	RB
+sebesar	X
+37,4	CD
+persen	NN,CD 
+dari	IN
+PDB	NNP
+dengan	SC,IN 
+kapitalisasi	NN
+Rp1.250	NNP
+triliun	CD
+.	Z
+
+#
+
+Tinggi	JJ
+nya	PRP
+suku	NN
+bunga	NN
+tersebut	PR,VB 
+karena	SC,IN 
+biaya	NN
+dana	NN
+(cost	X
+of	X
+fund),	X
+target	NN
+margin	X
+keuntungan	NN
+(profit	X
+margin)	X
+dan	CC
+biaya	NN
+operasional	NN
+(overhead	X
+cost)	X
+diperkirakan	VB
+masih	MD
+tinggi	JJ
+.	Z
+
+#
+
+Deputi	NN
+Gubernur	NNP
+Bank	NNP
+Indonesia	NNP
+Muliaman	NNP
+D	NNP
+Hadad	NNP
+mengatakan	VB
+pertumbuhan	NN
+kredit	NN
+per	X
+Agustus	NNP
+2007	CD
+yoy	X
+mencapai	VB
+lebih	RB
+dari	IN
+20	CD
+persen	NN,CD 
+karena	SC,IN 
+adanya	NN
+realisasi	NN
+dari	IN
+Anggaran Pendapatan	NN
+Belanja	NNP
+Daerah	NNP
+(APBD).	X
+
+#
+
+kemudian	CC,NN 
+perusahaan	NN
+penerbangan	NN
+Japan	NNP
+Airlines	NNP
+(JAL),	X
+All	NNP
+Nippon	NNP
+Airways	NNP
+(ANA),	X
+perusahaan-perusahaan	NN
+elektronik/komputer	X
+,	Z
+seperti	SC,IN 
+Toshiba	NNP
+Corp	NNP
+,	Z
+Hitachi	NNP
+,	Z
+NEC	NNP
+dan	CC
+Sony	NNP
+Corp	NNP
+,	Z
+Sojitz	NNP
+Corp	NNP
+,	Z
+dan	CC
+Itochu	NNP
+Corp	NNP
+.	Z
+
+#
+
+"	Z
+Jumlah	NN
+yang	SC
+sama	JJ
+sebesar	X
+0,11	CD
+dolar	NN
+AS	NNP
+per	X
+lembar	NN 
+saham	NN
+telah	MD
+dibayarkan	VB
+untuk	SC,IN 
+tahun	NN
+2005	CD
+,	Z
+
+"	Z
+
+kata	NN
+dia	PRP
+.	Z
+
+#
+
+"	Z
+Kalau	SC
+dita	VB
+nya	PRP
+ini	PR
+baik	JJ
+atau	CC
+tidak	NEG
+,	Z
+saya	PRP
+katakan	VB
+baik	JJ
+dan	CC
+mereka	PRP
+(investor	X
+asing	JJ
+,	Z
+red)	X
+tidak	NEG
+lari	NN,VB 
+,	Z
+"	Z
+
+kata	NN
+Menkeu	NNP
+.	Z
+
+#
+
+Sebelumnya	SC
+,	Z
+pada	IN
+2007	CD
+pihak	NN
+nya	PRP
+menambah	VB
+400	CD
+unit	NN
+ATM	NNP
+dari	IN
+jumlah	NN
+yang	SC
+ada	JJ
+saat	SC,NN 
+ini	PR
+,	Z
+2650	CD
+unit	NN
+di	IN
+seluruh	CD
+Indonesia	NNP
+serta	CC 
+menambah	VB
+menjadi	VB
+25.000	CD
+unit	NN
+EDC	NNP
+dari	IN
+21.500	CD
+EDC	NNP
+yang	SC
+ada	JJ
+saat	SC,NN 
+ini	PR
+.	Z
+
+#
+
+Perusahaan	NN
+ini	PR
+juga	RB
+sempat	X
+berhenti	VB
+beroperasi	VB
+sejak	SC,IN 
+tahun	NN
+1998	CD
+,	Z
+
+dan	CC
+baru	JJ,NN,MD 
+mulai	VB
+beroperasi	VB
+pada	IN
+Maret	NNP
+2003	CD
+.	Z
+
+#
+
+"	Z
+Rozik	NNP
+B	NNP
+Soetjipto	NNP
+menggantikan	VB
+Soetaryo	NNP
+Sigit	NNP
+,	Z
+yang	SC
+efektif	JJ
+pensiun	X
+dari	IN
+perseroan	NN
+pada	IN
+penutupan	NN
+rapat	JJ,NN 
+tersebut	PR,VB 
+,	Z
+"	Z
+
+ujar	VB
+nya	PRP
+.	Z
+
+#
+
+Mereka	PRP
+melakukan	VB
+aksi	NN
+di	IN
+Villeneuve-les-Beziers	NNP
+Minggu	NNP
+malam	NN
+(26-Sep)	CD
+memanfaatkan	VB
+terang bulan	JJ
+untuk	SC 
+mencuri	VB
+hingga	SC,IN 
+30	CD
+ton	NND
+anggur	NN
+dengan	SC 
+menggunakan	VB
+mesin	NN
+.	Z
+
+#
+
+Namun	CC
+,	Z
+peringkat	NN
+tersebut	PR,VB 
+diperlemah	VB
+oleh	IN
+relatif	JJ
+tinggi	JJ
+nya	PRP
+level	X
+leverage	X
+LTLS	NNP
+dan	CC
+eksposure	X
+perseroan	NN
+terhadap	IN
+fluktuasi	NN
+valuta	NN
+asing	JJ
+.	Z
+
+#
+
+Dengan	SC,IN 
+pengalaman	NN
+nya	PRP
+,	Z
+dia	PRP
+kini	X
+menjadi	VB
+salah	JJ
+seorang	JJ
+pelawak	NN
+yang	SC
+terkenal	VB
+di	IN
+TV	NNP
+.	Z
+
+#
+
+Mitra	NN
+menambahkan	VB
+bahwa	SC
+penurunan	NN
+tajam	JJ
+dalam	IN 
+subsidi	NN
+harga	NN
+minyak	NN
+dan	CC
+tumbuh	VB
+nya	PRP
+kepercayaan	NN
+fiskal	NN
+pada	IN
+utang	NN
+dalam	IN 
+mata uang	NN
+lokal	JJ
+dengan	SC,IN 
+bunga	NN
+tetap	RB,JJ,VB 
+telah	MD
+mengurangi	VB
+vulnerability	X
+(sifat	X
+rentan	JJ
+terserang	VB
+terhadap	IN
+guncangan	NN
+bunga	NN
+atau	CC
+harga	NN
+domestik	JJ
+yang	SC
+mendadak).	X
+
+#
+
+Ia	PRP
+berharap	VB
+forum	X
+ini	PR
+(acara	X
+sosialisasi)	X
+dapat	MD,VB 
+memberikan	VB
+akses	NN
+informasi	NN
+kepada	IN
+perbankan	NN
+khusus	JJ
+nya	PRP
+mengenai	IN,VB 
+bidang-bidang	NN
+usaha	NN
+yang	SC
+memiliki	VB
+prospek	NN
+yang	SC
+baik	JJ
+dan	CC
+potensial	NN
+untuk	SC 
+dibiayai	VB
+.	Z
+
+#
+
+Pemeringkat	NN
+Efek	NNP
+Indonesia	NNP
+Pefindo	NNP
+memberikan	VB
+peringkat	NN
+idBBB+	X
+untuk	SC,IN 
+PT	NNP
+Truba	NNP
+Jaya	NNP
+Engineering	NNP
+(TRJE)	X
+dan	CC
+rencana	NN
+penerbitan	NN
+Obligasi	NNP
+I/2007	NNP
+berjangka	VB
+waktu	NN
+2,5	CD
+tahun	NN
+sebesar	X
+maksimum	JJ
+Rp300	NNP
+miliar	CD
+dengan	SC,IN 
+prospek	NN
+stabil	JJ
+.	Z
+
+#
+
+Depkeu	NN
+memperkirakan	VB
+pertumbuhan ekonomi	NN
+pada	IN
+semester	X
+I/2007	NNP
+akan	IN,MD 
+berada	VB
+pada	IN
+kisaran	NN
+6,04	CD
+persen	NN,CD 
+mengingat	VB
+sangat	RB
+baik	JJ
+nya	PRP
+kondisi	NN
+pada	IN
+bulan	NN
+Juni	NNP
+.	Z
+
+#
+
+Dalam	IN 
+penjelasan	NN
+nya	PRP
+ke	IN
+Badan	NNP
+Pengawas	NNP
+Pasar Modal	NN
+Bapepam	NNP
+,	Z
+direksi	NN
+Medco	NNP
+menjelaskan	VB
+,	Z
+pihak	NN
+nya	PRP
+telah	MD
+menandatangani	VB
+nota	NN
+kesepahaman	X
+perjanjian	NN
+jual beli	VB
+gas	NN
+,	Z
+dengan	SC,IN 
+PLN	NNP
+,	Z
+pada	IN
+21	CD
+Maret	NNP
+lalu	VB/CC 
+.	Z
+
+#
+
+Gates	NNP
+dan	CC
+Buffett	NNP
+mengatakan	VB
+mereka	PRP
+berada	VB
+di	IN
+Cina	NNP
+untuk	SC 
+mempelajari	VB
+kegiatan	NN
+amal	NN
+di	IN
+negara	NN
+itu	PR
+.	Z
+
+#
+
+Perusahaan	NN
+perkebunan	NN
+PT	NNP
+Bakrie	NNP
+Sumatera	NNP
+Plantations	NNP
+Tbk	NNP
+(UNSP)	X
+telah	MD
+melakukan	VB
+pembelian	NN
+sebanyak	CD
+2.700	CD
+saham	NN
+dengan	SC,IN 
+nilai nominal	NN
+Rp1.000	NNP
+per	X
+saham	NN
+di	IN
+PT	NNP
+Nibung	NNP
+Arthamulia	NNP
+yang	SC
+berkedudukan	VB
+di	IN
+Palembang	NNP
+.	Z
+
+#
+
+Selain	CC 
+ke	IN
+Indonesia	NNP
+,	Z
+PM	NNP
+Abe	NNP
+juga	RB
+akan	IN,MD 
+berkunjung	VB
+ke	IN
+India	NNP
+21-23	CD
+Agustus	NNP
+dan	CC
+Malaysia	NNP
+23-25	CD
+Agustus	NNP
+.	Z
+
+#
+
+Menurut	NNP
+Menkeu	NNP
+,	Z
+guna	NN,SC,IN 
+memastikan	VB
+bahwa	SC
+perbankan	NN
+BUMN	NNP
+melakukan	VB
+persiapan	NN
+yang	SC
+proper	X
+dalam	IN 
+implementasi	NN
+PP	NNP
+33/2006	CD
+tentang	VB
+Tata Cara	NN
+Penghapusan	NNP
+Piutang	NNP
+Negara/Daerah	NNP
+,	Z
+maka	SC
+telah	MD
+diamanatkan	VB
+pembentukan	NN
+oversight	X
+commitee	X
+bagi	NN,IN,VB 
+restrukturisasi	NN
+dan	CC
+penyelesaian	NN
+kredit	NN
+bermasa	VB
+lah	RP
+.	Z
+
+#
+
+"	Z
+Dengan	SC 
+berubah	VB
+nya	PRP
+rata-rata	JJ
+harga	NN
+minyak	NN
+perkiraan	NN
+BI	NNP
+sebesar	X
+69,8	CD
+dolar	NN
+AS	NNP
+per	X
+barel	NN
+,	Z
+maka	SC
+cadangan	NN
+devisa	NN
+menjadi	VB
+56,655	CD
+miliar	CD
+dolar	NN
+AS	NNP
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+dalam	IN 
+rapat kerja	NN
+BI	NNP
+dengan	SC,IN 
+Komisi	NNP
+XI	NNP
+DPR	NNP
+,	Z
+di	IN
+Gedung	NNP
+DPR	NNP
+,	Z
+Jakarta	NNP
+,	Z
+Selasa	NNP
+.	Z
+
+#
+
+Lembaga	NN
+pemeringkat	NN
+Fitch	NNP
+Ratings	NNP
+,	Z
+Senin	NNP
+,	Z
+menyatakan	VB
+pihak	NN
+nya	PRP
+telah	MD
+menaikkan	VB
+rating	X
+individual	X
+PT	NNP
+Bank	NNP
+Niaga	NNP
+Tbk	NNP
+(BNGA)	X
+dan	CC
+PT	NNP
+Bank	NNP
+Lippo	NNP
+Tbk	NNP
+(LPBN)	X
+menjadi	VB
+
+'	Z
+C/D	NNP
+'	Z
+
+dari	IN
+
+'	Z
+D	NNP
+'	Z
+.	Z
+
+#
+
+Sementara itu	NNP
+,	Z
+suku	NN
+bunga	NN
+penjaminan	NN
+untuk	SC,IN 
+simpanan	NN
+dalam	IN 
+bentuk	NN 
+dolar	NN
+AS	NNP
+tetap	RB,JJ,VB 
+dipertahankan	VB
+pada	IN
+level	X
+4,75	CD
+persen	NN,CD 
+
+#
+
+Sementara itu	NNP
+Direktur Utama	NN
+PT	NNP
+Mirantha	NNP
+Nuansa	NNP
+Ayu	NNP
+,	Z
+Henry	NNP
+Sulysto	NNP
+,	Z
+mengatakan	VB
+,	Z
+kerja sama	NN
+dengan	SC,IN 
+perusahaan	NN
+penyewaan	NN
+pesawat	NN
+sangat	RB
+diperlukan	VB
+karena	SC,IN 
+tidak	NEG
+mungkin	MD
+perseroan	NN
+menyediakan	VB
+pesawat	NN
+sendiri	JJ
+,	Z
+karena	SC,IN 
+risiko	NN
+dan	CC
+investasi	NN
+nya	PRP
+besar	JJ
+,	Z
+kata	NN
+Henry	NNP
+
+#
+
+Ditulis	VB
+pada	IN
+tahun	NN
+1605	CD
+,	Z
+
+novel	X
+ini	PR
+berkisah	VB
+tentang	VB
+petualangan	NN
+seorang	JJ
+pria	NN
+pensiunan	X
+di	IN
+kawasan	NN
+la	X
+Mancha	NNP
+,	Z
+yang	SC
+punya	VB
+obsesi	NN
+dengan	SC,IN 
+gagasan-gagasan	NN
+kesatria	X
+.	Z
+
+#
+
+Budaya	NN
+takut	JJ
+untuk	SC 
+melakukan	VB
+korupsi	NN
+secara	JJ
+terbuka	JJ,VB 
+telah	MD
+muncul	VB
+seraya	JJ
+investigasi-investigasi	NN
+antikorupsi	JJ,NN 
+mengarah	VB
+ke	IN
+beberapa	CD
+tuntutan	NN
+hukum	NN,VB 
+yang	SC
+berprofil	VB
+tinggi	JJ
+,	Z
+pemulihan	NN
+aset	NN
+dan	CC
+peningkatan	NN
+pengaduan	NN
+melalui	X
+program	NN
+pengaduan	NN
+.	Z
+
+#
+
+Dalam	IN 
+perjanjian	NN
+tersebut	PR,VB 
+,	Z
+Medco	NNP
+akan	IN,MD 
+memasok	VB
+gas	NN
+dalam	IN 
+kurun waktu	NN
+2008-2017	CD
+,	Z
+
+dengan	SC,IN 
+total	NN
+volume	NN
+133	CD
+miliar	CD
+kaki	NND 
+kubik	NN
+,	Z
+dari	IN
+lapangan	NN
+Singa	NNP
+,	Z
+Sumatera	NNP
+Selatan	NNP
+,	Z
+ke	IN
+fasilitas	NN
+pembangkit	NN
+listrik	NN
+PLN	NNP
+di	IN
+Jawa	NNP
+Barat	NNP
+.	Z
+
+#
+
+Dia	PRP
+mengatakan	VB
+kepada	IN
+BBC	NNP
+bahwa	SC
+dia	PRP
+sudah	MD
+berencana	VB
+menyumbangkan	VB
+seluruh	CD
+harta	NN
+nya	PRP
+untuk	SC,IN 
+amal	NN
+bila	SC
+dia	PRP
+meninggal	VB
+.	Z
+
+#
+
+"	Z
+Hibah	NN
+dari	IN
+Jepang	NNP
+akan	IN,MD 
+digunakan	VB
+untuk	SC 
+membiayai	VB
+sebuah	X
+kajian	NN
+atas	IN 
+praktik	NN
+kami	PRP
+selama	JJ
+ini	PR
+dan	CC
+membuat	VB
+sebuah	X
+rencana	NN
+reformasi	NN
+yang	SC
+komprehensif	JJ
+dalam	IN 
+bidang	NN 
+proses	NN
+bisnis	NN
+,	Z
+IT	NNP
+dan	CC
+pengembangan	NN
+sumber daya	NN
+,	Z
+"	Z
+
+kata	NN
+Darmin	NNP
+.	Z
+
+#
+
+Jepang	NNP
+sendiri	JJ
+telah	MD
+menunjukkan	VB
+komitmen	NN
+nya	PRP
+dalam	IN 
+hubungan	NN
+bilateral	X
+dengan	SC 
+membantu	VB
+memberikan	VB
+pinjaman	NN
+sebesar	X
+200	CD
+juta	CD
+dolar	NN
+AS	NNP
+untuk	SC,IN 
+tahun	NN
+ini	PR
+yang	SC
+terealisasi	VB
+Maret	NNP
+lalu	VB/CC 
+.	Z
+
+#
+
+Yen	NN
+terhadap	IN
+dolar	NN
+AS	NNP
+mencapai	VB
+121,32	CD
+.	Z
+
+#
+
+"	Z
+Kondisi	NN
+curah hujan	NN
+yang	SC
+berada	VB
+di	IN
+atas	NN 
+rata-rata	JJ
+sejak	SC,IN 
+akhir	NN
+Februari	NNP
+2007	CD
+telah	MD
+sedikit	CD
+meningkatkan	VB
+ketinggian	NN
+permukaan	NN
+air	NN
+penampungan	NN
+utama	JJ
+kami	PRP
+,	Z
+sehingga	SC
+perseroan	NN
+dapat	MD,VB 
+meningkatkan	VB
+pengoperasian	NN
+pembangkit	NN
+listrik	NN
+tenaga	NN
+air	NN
+(PLTA)	X
+pada	IN
+tingkat	NN
+normal	JJ
+,	Z
+"	Z
+
+kata	NN
+Arif	NNP
+.	Z
+
+#
+
+Menurut	NNP
+Pefindo	NNP
+peringkat	NN
+tersebut	PR,VB 
+didukung	VB
+oleh	IN
+diversifikasi	NN
+produk	NN
+dan	CC
+pasar	NN
+LTLS	NNP
+yang	SC
+baik	JJ
+,	Z
+termasuk	X
+operasional	NN
+nya	PRP
+yang	SC
+terintegrasi	VB
+.	Z
+
+#
+
+Penyanyi	NN
+amatir	JJ
+ini	PR
+akan	IN,MD 
+mendapat	VB
+kupon	NN
+untuk	SC 
+makan	VB
+pangsit	X
+kapan	WH 
+pun	RP
+dia	PRP
+mau	NN,RB,MD 
+.	Z
+
+#
+
+Anak perusahaan	NN
+Pertamina	NNP
+yakni	SC
+PT	NNP
+Elnusa	NNP
+telah	MD
+melakukan	VB
+akuisisi	NN
+100	CD
+persen	NN,CD 
+saham	NN
+Conocophilips	NNP
+Ramba	NNP
+Ltd	NNP
+(CPRL)	X
+di	IN
+blok	NN
+pertambangan	NN
+minyak	NN
+onshore	X
+Ramba	NNP
+Sumatra	NNP
+Selatan	NNP
+,	Z
+yang	SC
+merupakan	VB
+salah satu	JJ
+anak perusahaan	NN
+Conocophilips	NNP
+AS	NNP
+.	Z
+
+#
+
+"	Z
+Apalagi	CC
+hubungan	NN
+kerja sama	NN
+ini	PR
+telah	MD
+terjalin	VB
+sejak	SC,IN 
+1972	CD
+dengan	SC 
+menjadi	VB
+nasabah	NN
+giro	X
+dan	CC
+menjadi	VB
+debitur	NN
+sejak	SC,IN 
+tahun	NN
+1994	CD
+,	Z
+
+"	Z
+
+ucap	VB
+nya	PRP
+.	Z
+
+#
+
+"	Z
+Demikian	PR
+pula	RB
+jika	SC
+proyek	NN
+telah	MD
+selesai	JJ
+dan	CC
+ada	JJ
+potensi	NN
+sisa	NN
+dana	NN
+pinjaman	NN
+maka	SC
+bappenas	NN
+akan	IN,MD 
+mengusulkan	VB
+pembatalan	NN
+sisa	NN
+pinjaman	NN
+yang	SC
+tidak	NEG
+terpakai	VB
+itu	PR
+,	Z
+"	Z
+
+kata	NN
+Meneg	NNP
+PPN/Kepala	NNP
+Bappenas	NNP
+,	Z
+Paskah	NNP
+Suzetta	NNP
+di	IN
+Jakarta	NNP
+,	Z
+Kamis	NNP
+.	Z
+
+#
+
+"	Z
+Pada	IN
+tingkat	NN
+laba bersih	NN
+,	Z
+perseroan	NN
+mencatat	VB
+kenaikan	NN
+tiga	CD
+persen	NN,CD 
+dari	IN
+Rp538	NNP
+miliar	CD
+pada	IN
+semester	X
+pertama	OD
+tahun	NN
+lalu	VB/CC 
+menjadi	VB
+Rp552	NNP
+miliar	CD
+pada	IN
+semester	X
+pertama	OD
+tahun	NN
+ini	PR
+dan	CC
+laba bersih	NN
+per	X
+saham	NN
+EPS	NNP
+meningkat	VB
+dari	IN
+Rp189	NNP
+menjadi	VB
+Rp194	NNP
+,	Z
+
+"	Z
+
+ungkap	VB
+nya	PRP
+.	Z
+
+#
+
+Penandatanganan	NN
+kerja sama	NN
+fasilitas	NN
+kredit	NN
+itu	PR
+dilaksanakan	VB
+antara	X
+Direktur Utama	NN
+PT	NNP
+Bank	NNP
+Mandiri	NNP
+,	Z
+Agus	NNP
+Martowardoyo	NNP
+dan	CC
+Direktur Utama	NN
+PT	NNP
+PKG	NNP
+Arifin	NNP
+Tasrif	NNP
+di	IN
+Jakarta	NNP
+,	Z
+Rabu	NNP
+.	Z
+
+#
+
+Direktur	NN
+Multi	NNP
+Prima	NNP
+Sejahtera	NNP
+Tbk	NNP
+,	Z
+Hery	NNP
+Soegiarto	NNP
+dalam	IN 
+laporan	NN
+nya	PRP
+kepada	IN
+Bursa Efek	NN
+Surabaya	NNP
+(BES)	X
+di	IN
+Jakarta	NNP
+,	Z
+Rabu	NNP
+,	Z
+mengatakan	VB
+transaksi	NN
+tersebut	PR,VB 
+dilaksanakan	VB
+pada	IN
+24	CD
+Agustus	NNP
+lalu	VB/CC 
+dan	CC
+perseroan	NN
+telah	MD
+menerima	VB
+dana	NN
+hasil	NN
+penjualan	NN
+saham	NN
+tersebut	PR,VB 
+.	Z
+
+#
+
+Dalam	IN 
+acara	NN
+Seminar	NNP
+Nasional	NNP
+Peran	NNP
+Diplomasi	NNP
+Ekonomi	NNP
+dalam	IN 
+Mendorong	NNP
+Pertumbuhan	NNP
+Ekspor	NNP
+di	IN
+Jakarta	NNP
+,	Z
+Selasa	NNP
+,	Z
+Miranda	NNP
+mengatakan	VB
+kecil	JJ
+nya	PRP
+pertumbuhan	NN
+ekspor	NN,VB 
+non-migas	NN
+ini	PR
+karena	SC,IN 
+neraca pembayaran	NN
+2007	CD
+akan	IN,MD 
+menghadapi	VB
+melemah	VB
+nya	PRP
+pertumbuhan ekonomi	NN
+global	X
+dan	CC
+anjlok	JJ
+nya	PRP
+harga	NN
+ekspor	NN,VB 
+komoditi	NN
+.	Z
+
+#
+
+Sedangkan	CC
+sisa	NN
+nya	PRP
+sebesar	X
+17	CD
+persen	NN,CD 
+digolongkan	VB
+sebagai	IN
+kredit	NN
+bermasa	VB
+lah	RP
+komersial	JJ
+dan	CC
+konsumsi	NN
+,	Z
+yang	SC
+walaupun	SC
+meningkat	VB
+di	IN
+2006	CD
+tetapi	CC
+dari	IN
+basis	NN
+yang	SC
+rendah	JJ
+,	Z
+dengan	SC,IN 
+rasio	NN
+kredit	NN
+bermasa	VB
+lah	RP
+dari	IN
+kedua	CD 
+segmen	NN
+tersebut	PR,VB 
+meningkat	VB
+menjadi	VB
+2,1	CD
+persen	NN,CD 
+di	IN
+akhir	NN
+tahun	NN
+2006	CD
+dari	IN
+1,7	CD
+persen	NN,CD 
+di	IN
+akhir	NN
+2005	CD
+.	Z
+
+#
+
+Sedangkan	CC
+untuk	SC,IN 
+nilai	NN,VB 
+penjualan	NN
+mengalami	VB
+peningkatan	NN
+karena	SC 
+didorong	VB
+oleh	IN
+harga jual	NN
+rata-rata	JJ
+CPO	NNP
+perseroan	NN
+sebesar	X
+66,1	CD
+persen	NN,CD 
+atau	CC
+menjadi	VB
+Rp5.763	NNP
+per	X
+kg	NND
+.	Z
+
+#
+
+"	Z
+Kita	PRP
+tahu	NN,VB 
+anak-anak	NN
+itu	PR
+terpengaruh	VB
+oleh	IN
+orang	NN 
+di	IN
+sekeliling	JJ
+mereka	PRP
+.	Z
+
+Penelitian	NN
+membuktikan	VB
+mereka	PRP
+yang	SC
+tumbuh	VB
+dengan	SC,IN 
+orang tua	NN
+perokok	NN
+,	Z
+90%	CD
+menjadi	VB
+perokok	NN
+.	Z
+
+"	Z
+
+#
+
+"	Z
+APBNP	NNP
+2007	CD
+akan	IN,MD 
+ditutup	VB
+dengan	SC,IN 
+defisit	NN
+sebesar	X
+Rp49,5	NNP
+triliun	CD
+atau	CC
+lebih	RB
+kecil	JJ
+dari	IN
+sasaran	NN
+Rp58,3	NNP
+triliun	CD
+,	Z
+"	Z
+
+kata	NN
+Menkeu	NNP
+dalam	IN 
+jumpa pers	VB
+usai	SC,VB 
+sidang	NN
+kabinet	NN
+paripurna	NN
+di	IN
+Kantor	NNP
+Presiden	NNP
+Jakarta	NNP
+,	Z
+Selasa	NNP
+.	Z
+
+#
+
+"	Z
+Penurunan	NN
+produksi	NN
+sawit	NN
+berakibat	VB
+pula	RB
+pada	IN
+penurunan	NN
+produksi	NN
+minyak	NN
+sawit	NN
+mentah	NN
+CPO	NNP
+AALI	NNP
+sebesar	X
+10	CD
+persen	NN,CD 
+dari	IN
+223	CD
+ton	NND
+pada	IN
+kuartal	NN
+I	NNP
+2006	CD
+menjadi	VB
+200.662	CD
+ton	NND
+pada	IN
+kuartal	NN
+I	NNP
+2007	CD
+,	Z
+
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+Namun	CC
+demikian	PR
+rating	X
+ini	PR
+sama	JJ
+dengan	SC,IN 
+peringkat	NN
+ekspektasi	NN
+yang	SC
+diberikan	VB
+di	IN
+bulan	NN
+April	NNP
+2007	CD
+.	Z
+
+#
+
+Pencarian	NN
+casting	X
+untuk	SC,IN 
+The	NNP
+Hobbit	NNP
+dijadwalkan	VB
+berlangsung	VB
+hari	NN
+Minggu	NNP
+di	IN
+National	NNP
+Dance	NNP
+and	X
+Drama	NNP
+Centre	NNP
+di	IN
+Wellington	NNP
+.	Z
+
+#
+
+Dengan	SC,IN 
+penurunan	NN
+rasio	NN
+utang	NN
+pemerintah	NN
+itu	PR
+,	Z
+makin	RB
+memperkuat	VB
+struktur	NN
+ketahanan	NN
+fiskal	NN
+,	Z
+sejalan	JJ
+dengan	SC,IN 
+tujuan	NN
+untuk	SC 
+mencapai	VB
+kemandirian	NN
+fiskal	NN
+yang	SC
+berkelanjutan	VB
+.	Z
+
+#
+
+Acara	NN
+TV	NNP
+Australia	NNP
+'	Z
+s	NND
+Next	NNP
+Top	NNP
+Model	NNP
+,	Z
+sempat	X
+mengumumkan	VB
+pemenang	NN
+yang	SC
+salah	JJ
+dalam	IN 
+final	X
+yang	SC
+disiarkan	VB
+langsung	JJ
+pada	IN
+seri	JJ
+nya	PRP
+yang	SC
+keenam	OD,CD 
+.	Z
+
+#
+
+Sektor-sektor	NN
+lain	JJ
+yang	SC
+berhubungan	VB
+dengan	SC,IN 
+sektor	NN
+primer	NN
+misalnya	SC
+,	Z
+pertanian	NN
+,	Z
+pertambangan	NN
+,	Z
+dan	CC
+pertambangan	NN
+migas	NN
+maupun	CC
+non-migas	NN
+juga	RB
+menunjukkan	VB
+pertumbuhan	NN
+yang	SC
+baik	JJ
+,	Z
+atau	CC
+bahkan	RB
+di	IN
+atas	NN 
+10	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Kelsey	NNP
+Martinovich	NNP
+dianugerahi	VB
+mahkota	X
+kemenangan	NN
+sesuai	JJ
+pilihan	NN
+pemirsa	NN
+dan	CC
+sedang	JJ,CC,MD 
+menyampaikan	VB
+pidato	NN
+,	Z
+namun	CC
+presenter	X
+Sarah	NNP
+Murdoch	NNP
+menyela	VB
+.	Z
+
+#
+
+Lembaga	NN
+pemeringkat	NN
+efek	NN
+Indonesia	NNP
+,	Z
+Pefindo	NNP
+,	Z
+menegaskan	VB
+kembali	VB
+peringkat	NN
+idA-	X
+untuk	SC,IN 
+PT	NNP
+Lautan	NNP
+Luas	NNP
+Tbk	NNP
+(LTLS)	X
+dan	CC
+Obligasi	NNP
+II/2003	NNP
+sebesar	X
+Rp300	NNP
+miliar	CD
+yang	SC
+akan	IN,MD 
+jatuh tempo	VB
+pada	IN
+24	CD
+Juni	NNP
+2008	CD
+,	Z
+
+dan	CC
+memberikan	VB
+outlook	X
+stabil	JJ
+untuk	SC,IN 
+peringkat	NN
+tersebut	PR,VB 
+.	Z
+
+#
+
+Sementara itu	NNP
+,	Z
+Menteri	NNP
+Keuangan	NNP
+Sri	NNP
+Mulyani	NNP
+menjelaskan	VB
+,	Z
+indikasi	NN
+membaik	VB
+nya	PRP
+sektor	NN
+riil	JJ
+juga	RB
+terlihat	VB
+dari	IN
+peningkatan	NN
+penerimaan	NN
+Pajak Penghasilan	NN
+(PPh)	X
+dan	CC
+Pajak	NNP
+Pertambahan	NNP
+Nilai	NNP
+(PPN)	X
+yang	SC
+hingga	SC,IN 
+akhir	NN
+tahun	NN
+bisa	MD 
+diperkirakan	VB
+lebih	RB
+tinggi	JJ
+dari	IN
+rata-rata	JJ
+tingkat	NN
+inflasi	NN
+6	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Akhir pekan	NN
+lalu	VB/CC 
+,	Z
+Departemen	NNP
+Keuangan	NNP
+meminta	VB
+direksi	NN
+bank-bank	NN
+BUMN	NNP
+untuk	SC,IN 
+tidak	NEG
+takut	JJ
+dan	CC
+ragu	JJ
+untuk	SC 
+mempercepat	VB
+restrukturisasi	NN
+NPL	NNP
+berdasar	VB
+peraturan	NN
+yang	SC
+telah	MD
+diterbitkan	VB
+yaitu	SC
+Peraturan Pemerintah	NN
+(PP)	X
+Nomor	NNP
+33	CD
+tahun	NN
+2006	CD
+dan	CC
+Peraturan	NNP
+Menteri	NNP
+Keuangan	NNP
+(PMK)	X
+Nomor	NNP
+87	CD
+tahun	NN
+2006	CD
+.	Z
+
+#
+
+Pada	IN
+periode	NN
+10	CD
+bulan	NN
+pertama	OD
+,	Z
+produksi	NN
+super	X
+CPO	NNP
+AALI	NNP
+naik	VB
+sebesar	X
+4,6	CD
+persen	NN,CD 
+dari	IN
+482.302	CD
+ton	NND
+menjadi	VB
+504.469	CD
+ton	NND
+.	Z
+
+#
+
+Badan	NN
+Pusat	NNP
+Statistik	NNP
+(BPS)	X
+menyatakan	VB
+perekonomian	NN
+Indonesia	NNP
+tumbuh	VB
+pada	IN
+triwulan	NN
+II	NNP
+2007	CD
+sebesar	X
+2,41	CD
+persen	NN,CD 
+,	Z
+sedangkan	CC
+pertumbuhan ekonomi	NN
+pada	IN
+enam	CD
+bulan	NN
+pertama	OD
+2007	CD
+sebesar	X
+6,13	CD
+persen	NN,CD 
+dan	CC
+secara	JJ
+year	X
+on	X
+year	X
+6,28	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Dalam	IN 
+sebuah	X
+pernyataan	NN
+nya	PRP
+yang	SC
+dikutip	VB
+Thomson	NNP
+Financial	NNP
+,	Z
+Kamis	NNP
+,	Z
+Moody	NNP
+'	Z
+s	NND
+menaikkan	VB
+peringkat	NN
+obligasi	NN
+pemerintah	NN
+dalam	IN 
+mata uang	NN
+asing	JJ
+dan	CC
+lokal	JJ
+menjadi	VB
+Ba3	NNP
+dari	IN
+B1	NNP
+.	Z
+
+#
+
+Atas	IN 
+keberhasilan	NN
+menyelesaikan	VB
+penyelesaian	NN
+tiga	CD
+Undang-undang	NNP
+yang	SC
+mendukung	VB
+penyempurnaan	NN
+penerapan	NN
+ketentuan	NN
+penerimaan	NN
+pajak	NN
+dan	CC
+PNBP	NNP
+,	Z
+Presiden	NNP
+memberikan	VB
+apresiasi	NN
+kepada	IN
+DPR	NNP
+.	Z
+
+#
+
+"	Z
+Berdasarkan	VB
+laporan keuangan	NN
+LTLS	NNP
+per	X
+30	CD
+Juni	NNP
+2007	CD
+,	Z
+
+outstanding	X
+Obligasi	NNP
+II/2003	NNP
+hanya	RB
+Rp246,76	NNP
+miliar	CD
+karena	SC,IN 
+beberapa	CD
+di	IN
+antaranya	X
+telah	MD
+dibeli	VB
+kembali	VB
+(buy	X
+back),	X
+"	Z
+
+kata	NN
+Pefindo	NNP
+dalam	IN 
+sebuah	X
+pernyataan	NN
+nya	PRP
+di	IN
+Jakarta	NNP
+,	Z
+Kamis	NNP
+.	Z
+
+#
+
+PT	NN
+Indonesia	NNP
+Air	NNP
+Transport	NNP
+Tbk	NNP
+(IATA)	X
+pada	IN
+tahun	NN
+ini	PR
+berencana	VB
+menambah	VB
+lima	CD
+pesawat terbang	NN
+lagi	MD,RB 
+untuk	SC 
+memenuhi	VB
+kebutuhan	NN
+pasar	NN
+di	IN
+wilayah	NN
+Nusa	NNP
+Tenggara	NNP
+Timur	NNP
+(NTT),	X
+Nusa	NNP
+Tenggara	NNP
+Barat	NNP
+(NTB),	X
+Labuhan	NNP
+Bajo	NNP
+dan	CC
+Bali	NNP
+.	Z
+
+#
+
+Film	NN
+yang	SC
+ditulis	VB
+oleh	IN
+pencipta	NN
+serial	X
+West	NNP
+Wing	NNP
+Aaron	NNP
+Sorkin	NNP
+dan	CC
+disutradarai	VB
+oleh	IN
+David	NNP
+Fincher	NNP
+yang	SC
+pernah	MD
+menggarap	VB
+film	NN
+Fight	NNP
+'	Z
+s	NND
+Club	NNP
+ini	PR
+sebenarnya	RB
+belum	NEG
+memperoleh	VB
+izin	NN
+Mark	NNP
+Zuckerberg	NNP
+.	Z
+
+#
+
+Dalam	IN 
+prospektus	NN
+nya	PRP
+yang	SC
+dipublikasikan	VB
+di	IN
+Jakarta	NNP
+,	Z
+Selasa	NNP
+,	Z
+Bank	NNP
+Mayapada	NNP
+mengatakan	VB
+Obligasi	NNP
+Bank	NNP
+Mayapada	NNP
+II	NNP
+Tahun	NNP
+2007	CD
+akan	IN,MD 
+diterbitkan	VB
+dalam	IN 
+Seri	NNP
+A	NNP
+berjangka	VB
+waktu	NN
+tiga	CD
+tahun	NN
+dan	CC
+Seri	NNP
+B	NNP
+berjangka	VB
+waktu	NN
+lima	CD
+tahun	NN
+dengan	SC 
+memberikan	VB
+tingkat	NN
+suku	NN
+bunga	NN
+tetap	RB,JJ,VB 
+dan	CC
+nilai nominal	NN
+yang	SC
+akan	IN,MD 
+ditentukan	VB
+kemudian	NN 
+.	Z
+
+#
+
+Dia	PRP
+mengatakan	VB
+,	Z
+rakortas	X
+yang	SC
+dihadiri	VB
+seluruh	CD
+pengambil	NN
+kebijakan moneter	NN
+dan	CC
+fiskal	NN
+itu	PR
+belum	NEG
+menentukan	VB
+apakah	X
+Tim	NNP
+Koordinasi	NNP
+Pinjaman	NNP
+Komersial	NNP
+Luar Negeri	NN
+(PKLN).	X
+
+#
+
+Namun	CC
+saat	SC,NN 
+ini	PR
+perseroan	NN
+juga	RB
+menyediakan	VB
+juga	RB
+kebutuhan	NN
+pesawat	NN
+untuk	SC,IN 
+perusahaan	NN
+travel	X
+.	Z
+
+#
+
+Sekretaris	NN
+Perusahaan	NNP
+TRUB	NNP
+Jenty	NNP
+Tjandradjaja	NNP
+,	Z
+dalam	IN 
+keterbukaan	NN
+informasi	NN
+di	IN
+Bursa Efek	NN
+Jakarta	NNP
+(BEJ),	X
+Rabu	NNP
+,	Z
+mengatakan	VB
+,	Z
+pembelian	NN
+ini	PR
+dalam	IN 
+rangka	NN
+investasi	NN
+.	Z
+
+#
+
+Walau	SC
+ladang	NN
+anggur	NN
+diasuransikan	VB
+,	Z
+pencurian	NN
+tidak	NEG
+termasuk	X
+dalam	IN 
+lindungan	NN
+asuransi	NN
+.	Z
+
+#
+
+Pencabutan	NN
+suspensi	NN
+ini	PR
+setelah	SC
+pihak	NN
+manajemen	NN
+PGAS	NNP
+melakukan	VB
+penjelasan	NN
+kepada	IN
+publik	X
+dan	CC
+otoritas	NN
+bursa	NN
+mengenai	IN,VB 
+penurunan	NN
+harga	NN
+saham	NN
+nya	PRP
+yang	SC
+mencapai	VB
+23,32	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Lebih	RB
+rendah	JJ
+nya	PRP
+penerimaan	NN
+PNBP	NNP
+disebabkan	VB
+turun	VB
+nya	PRP
+penerimaan	NN
+bagian	NN
+pemerintah	NN
+atas	IN 
+laba	NN
+Badan	NNP
+Usaha	NNP
+Milik	NNP
+Negara	NNP
+(BUMN)	X
+dan	CC
+penurunan	NN
+PNBP	NNP
+lain	JJ
+nya	PRP
+.	Z
+
+#
+
+Dengan	SC,IN 
+langkah	NN 
+penurunan	NN
+ini	PR
+,	Z
+maka	SC
+suku	NN
+bunga	NN
+penjaminan	NN
+(LPS	X
+rate)	X
+dan	CC
+suku	NN
+bunga	NN
+BI	NNP
+(BI	X
+rate)	X
+kembali	VB
+pada	IN
+posisi	NN
+yang	SC
+sama	JJ
+,	Z
+yaitu	SC
+9	CD
+persen	NN,CD 
+,	Z
+setelah	SC
+pada	IN
+awal	NN
+pekan	NN,VB 
+lalu	VB/CC 
+,	Z
+Rapat	NNP
+Dewan	NNP
+Gubernur	NNP
+(RDG)	X
+BI	NNP
+memutuskan	VB
+untuk	SC 
+mempertahankan	VB
+BI	NNP
+rate	X
+pada	IN
+level	X
+itu	PR
+.	Z
+
+#
+
+"	Z
+Mestinya	RB
+BI	NNP
+rate	X
+lebih	RB
+rendah	JJ
+dibandingkan	VB
+suku	NN
+bunga	NN
+deposito	NN
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+Sektor	NN
+perdagangan	NN
+,	Z
+hotel	NN
+dan	CC
+restoran	NN
+PPh	NNP
+tumbuh	VB
+25,8	CD
+persen	NN,CD 
+,	Z
+PPN	NNP
+27,4	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Namun	CC
+produksi	NN
+ini	PR
+mengalami	VB
+penurunan	NN
+8,7	CD
+persen	NN,CD 
+dibanding	VB
+periode	NN
+Januari-Oktober	NNP
+2006	CD
+yang	SC
+mencapai	VB
+761.253	CD
+ton	NND
+.	Z
+
+#
+
+Untuk	SC,IN 
+itu	PR
+,	Z
+menurut	X
+dia	PRP
+,	Z
+BI	NNP
+dan	CC
+Pemerintah	NNP
+akan	IN,MD 
+senantiasa	X
+menjaga	VB
+kestabilan	NN
+makro	NN
+ekonomi	NN,VB 
+dengan	SC 
+memberikan	VB
+sinyal	NN
+positif	NN
+kepada	IN
+pasar	NN
+keuangan	NN
+untuk	SC 
+meningkatkan	VB
+kepercayaan	NN
+pasar	NN
+terhadap	IN
+stabilitas	NN
+sistem	NN
+keuangan	NN
+dan	CC
+makroekonomi	NN
+.	Z
+
+#
+
+Sedangkan	CC
+Anggaran Pendapatan	NN
+dan	CC
+Belanja	NNP
+Negara	NNP
+(APBN)	X
+2007	CD
+sebesar	X
+Rp763	NNP
+triliun	CD
+dengan	SC,IN 
+alokasi	NN
+untuk	SC,IN 
+pemerintah pusat	NN
+dan	CC
+daerah	NN
+masing-masing	PRP 
+Rp504	NNP
+dan	CC
+Rp259	NNP
+triliun	CD
+.	Z
+
+#
+
+Perusahaan	NN
+properti	NN
+PT	NNP
+Bakrieland	NNP
+Development	NNP
+Tbk	NNP
+(ELTY)	X
+di	IN
+Jakarta	NNP
+,	Z
+Rabu	NNP
+,	Z
+menyatakan	VB
+dalam	IN 
+tiga	CD
+bulan	NN
+pertama	OD
+hingga	SC,IN 
+Maret	NNP
+2007	CD
+berhasil	JJ
+membukukan	VB
+laba bersih	NN
+konsolidasi	NN
+Rp13,91	NNP
+miliar	CD
+,	Z
+atau	CC
+melonjak	VB
+543,98	CD
+persen	NN,CD 
+dari	IN
+Rp2,16	NNP
+miliar	CD
+pada	IN
+periode	NN
+sama	JJ
+tahun	NN
+lalu	VB/CC 
+.	Z
+
+#
+
+Selain	CC 
+itu	PR
+,	Z
+kurang	JJ
+nya	PRP
+pasokan	NN,VB 
+gas	NN
+menyebabkan	VB
+produksi	NN
+urea	X
+tidak	NEG
+maksimal	JJ
+.	Z
+
+#
+
+"	Z
+Dari	IN
+kontrak	NN
+awal	NN
+62	CD
+MMSCFD	NNP
+pasokan	NN,VB 
+gas	NN
+yang	SC
+diterima	VB
+hanya	RB
+45	CD
+juta	CD
+metrik	NN
+kaki	NN 
+kubik	NN
+per	X
+hari	NN
+(MMSFD),	X
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+"	Z
+Ini	PR
+merupakan	VB
+indikator	NN
+yang	SC
+kita	PRP
+amati	VB
+agar	SC
+tekanan	NN
+inflasi	NN
+tidak	NEG
+berlebihan	VB
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+PT	NN
+Pemeringkat	NNP
+Efek	NNP
+Indonesia	NNP
+(Pefindo)	X
+memberikan	VB
+rating	X
+A-	NNP
+kepada	IN
+PT	NNP
+Bakrie	NNP
+Telecom	NNP
+dan	CC
+obligasi	NN
+I	NNP
+tahun	NN
+2007	CD
+senilai	X
+Rp750	NNP
+miliar	CD
+yang	SC
+digunakan	VB
+untuk	SC,IN 
+sebagian	CD
+belanja	NN,VB 
+modal	NN
+perseroan	NN
+.	Z
+
+#
+
+Menteri	NN
+Keuangan	NNP
+Sri	NNP
+Mulyani	NNP
+mengatakan	VB
+bahwa	SC
+pemerintah	NN
+tengah	MD 
+menyelesaikan	VB
+mekanisme	NN
+restrukturisasi	NN
+NPL	NNP
+(kredit	X
+bermasalah)	X
+Bank	NNP
+BUMN	NNP
+.	Z
+
+#
+
+Produksi	NN
+TBS	NNP
+AALI	NNP
+tersebut	PR,VB 
+,	Z
+kata	NN
+dia	PRP
+,	Z
+49,6	CD
+persen	NN,CD 
+berasal	VB
+dari	IN
+Sumatera	NNP
+,	Z
+29,6	CD
+persen	NN,CD 
+dari	IN
+Kalimantan	NNP
+dan	CC
+20,9	CD
+persen	NN,CD 
+dari	IN
+Sulawesi	NNP
+.	Z
+
+#
+
+"	Z
+Mereka	PRP
+akan	IN,MD 
+mulai	VB
+merokok	VB
+kalau	SC
+melihat	VB
+idola	X
+mereka	PRP
+merokok	VB
+.	Z
+
+"	Z
+
+#
+
+Ia	PRP
+menambahkan	VB
+,	Z
+sebagai	IN
+bank sentral	NN
+maka	SC
+intervensi	NN
+untuk	SC 
+mengurangi	VB
+pelemahan	NN
+rupiah	NN
+perlu	MD
+dilakukan	VB
+agar	SC
+nilai tukar	NN
+rupiah	NN
+tidak	NEG
+jatuh	VB
+dan	CC
+membahayakan	VB
+perekonomian	NN
+.	Z
+
+#
+
+Bank	NN
+Panin	NNP
+didirikan	VB
+pada	IN
+tahun	NN
+1971	CD
+oleh	IN
+keluarga	NN
+Gunawan	NNP
+yang	SC
+masih	MD
+memegang	VB
+kontrol	NN,VB 
+terhadap	IN
+bank	NN
+sampai	SC,IN 
+saat	SC,NN 
+ini	PR
+melalui	X
+PT	NNP
+Panin	NNP
+Life	NNP
+Tbk	NNP
+yang	SC
+menguasai	VB
+45,1%	CD
+saham	NN
+.	Z
+
+#
+
+"	Z
+Ladang	NN
+itu	PR
+terletak	VB
+di	IN
+kawasan	NN
+yang	SC
+cukup	RB
+terpencil	JJ
+,	Z
+beberapa	CD
+kilometer	X
+dari	IN
+desa	NN
+terdekat	JJ
+dan	CC
+di	IN
+dekat	JJ
+sungai	NN
+.	Z
+
+Jadi	JJ
+mereka	PRP
+bisa	MD 
+mencuri	VB
+dengan	IN 
+aman	JJ
+.	Z
+
+"	Z
+
+#
+
+Pelaku pasar	NN
+,	Z
+lanjut	VB
+dia	PRP
+masih	MD
+menunggu	VB
+keluar	VB
+nya	PRP
+data	NN
+indikator	NN
+ekonomi	NN,VB 
+AS	NNP
+yang	SC
+akan	IN,MD 
+menunjukkan	VB
+pertumbuhan ekonomi	NN
+AS	NNP
+membaik	VB
+atau	CC
+makin	RB
+melemah	VB
+
+#
+
+Bagi	NN,IN,VB 
+yang	SC
+berminat	VB
+harus	MD
+mendaftarkan	VB
+diri	NN,VB 
+di	IN
+YouTube	NNP
+dan	CC
+yang	SC
+terpilih	VB
+akan	IN,MD 
+membaca	VB
+segmen	NN
+tertentu	JJ
+untuk	SC 
+diunggah	VB
+di	IN
+YouTube	NNP
+.	Z
+
+#
+
+Menurut	NNP
+Santoso	NNP
+,	Z
+ekspor	NN,VB 
+tersebut	PR,VB 
+sebesar	X
+45,6	CD
+persen	NN,CD 
+dipasarkan	VB
+ke	IN
+India	NNP
+yang	SC
+merupakan	VB
+negara	NN
+tujuan	NN
+utama	JJ
+ekspor	NN,VB 
+perseroan	NN
+,	Z
+sedangkan	CC
+sisa	NN
+nya	PRP
+ke	IN
+Vietnam	NNP
+14,5	CD
+persen	NN,CD 
+,	Z
+Belanda	NNP
+13,1	CD
+persen	NN,CD 
+,	Z
+China	NNP
+9,4	CD
+persen	NN,CD 
+,	Z
+Malaysia	NNP
+2,4	CD
+persen	NN,CD 
+dan	CC
+lain	JJ
+nya	PRP
+15	CD
+persen	NN,CD 
+.	Z
+
+#
+
+PT	NN
+Indofood	NNP
+Sukses	NNP
+Makmur	NNP
+Tbk	NNP
+(Indofood)	X
+telah	MD
+menyediakan	VB
+dana	NN
+sekitar	IN,RB,NN 
+Rp8,4	NNP
+triliun	CD
+untuk	SC 
+mengakuisisi	VB
+PT	NNP
+London	NNP
+Sumatera	NNP
+Plantations	NNP
+tbk	NN
+(Lonsum)	X
+
+#
+
+Perkembangan	NN
+sektor	NN
+riil	JJ
+di	IN
+bulan	NN
+Juni	NNP
+2007	CD
+sangat	RB
+positif	NN
+.	Z
+
+#
+
+Penurunan	NN
+kredit	NN
+tersebut	PR,VB 
+diikuti	VB
+pula	RB
+dengan	SC,IN 
+penurunan	NN
+dana	NN
+pihak ketiga	NN
+sebesar	X
+Rp7,4	NNP
+triliun	CD
+.	Z
+
+#
+
+Enam	CD
+perusahaan	NN
+di	IN
+bidang	NN 
+Penilai	NNP
+Kerugian	NNP
+Asuransi	NNP
+,	Z
+yaitu	SC
+PT	NNP
+Aspac	NNP
+Insurance	NNP
+Adjuster	NNP
+,	Z
+PT	NNP
+Catur	NNP
+Dharma	NNP
+Karya	NNP
+,	Z
+PT	NNP
+First	NNP
+National	NNP
+Adjustment	NNP
+,	Z
+PT	NNP
+Manggala	NNP
+Pirsa	NNP
+Nusantara	NNP
+,	Z
+PT	NNP
+Piranti	NNP
+Nusa	NNP
+Arta	NNP
+Manunggal	NNP
+,	Z
+dan	CC
+PT	NNP
+Trias	NNP
+Adjastama	NNP
+.	Z
+
+#
+
+Cavaille	NNP
+menambahkan	VB
+bahwa	SC
+kawanan	NN
+pencuri	NN
+jelas	JJ
+sangat	RB
+profesional	JJ
+dan	CC
+tak	NEG
+akan	IN,MD 
+kesulitan	NN
+menjual	VB
+anggur	NN
+curian	NN
+itu	PR
+.	Z
+
+#
+
+Dibandingkan	VB
+median	X
+
+'	Z
+BB	NNP
+'	Z
+
+Indonesia	NNP
+lemah	JJ
+di	IN
+rasio-rasio	NN
+utang	NN
+eksternal	JJ
+bruto	NN
+,	Z
+pembayaran	NN
+utang	NN
+eksternal	JJ
+dan	CC
+pembayaran	NN
+bunga	NN
+.	Z
+
+#
+
+Hanya	RB
+butuh	VB
+enam	CD
+tahun	NN
+bagi	NN,IN,VB 
+Zuckerberg	NNP
+untuk	SC,IN 
+bisa	MD 
+mencapai	VB
+kesuksesan	NN
+seperti	SC,IN 
+sekarang	X
+ini	PR
+,	Z
+setelah	SC
+sebelumnya	SC
+dia	PRP
+meluncurkan	VB
+situs	NN
+ini	PR
+saat	SC,NN 
+masih	MD
+duduk	VB
+sebagai	IN
+mahasiswa	NN
+di	IN
+Universitas	NNP
+Harvard	NNP
+.	Z
+
+#
+
+Produksi	NN
+Crude	NNP
+Palm	NNP
+Oil	NNP
+(CPO)	X
+PT	NNP
+Astra	NNP
+Agro	NNP
+Lestari	NNP
+(AALI)	X
+pada	IN
+Oktober	NNP
+2007	CD
+naik	VB
+sebesar	X
+11,6	CD
+persen	NN,CD 
+menjadi	VB
+88.343	CD
+ton	NND
+dibanding	VB
+September	NNP
+yang	SC
+hanya	RB
+79.161	CD
+ton	NND
+.	Z
+
+#
+
+Di	IN
+dalam negeri	JJ
+,	Z
+jelas	JJ
+Kepala Negara	NN
+,	Z
+pemerintah	NN
+juga	RB
+melakukan	VB
+langkah-langkah	NN
+antisipasif	X
+dengan	SC 
+memperkuat	VB
+koordinasi	NN
+kebijakan	NN
+antara	X
+otoritas	NN
+fiskal	NN
+dan	CC
+otoritas	NN
+moneter	JJ
+,	Z
+untuk	SC 
+meningkatkan	VB
+kesiagaan	NN
+.	Z
+
+#
+
+"	Z
+Penelitian	NN
+membuktikan	VB
+bahwa	SC
+tekanan	NN
+dari	IN
+lingkungan	NN
+pergaulan	NN
+sekitar	IN,RB,NN 
+dan	CC
+anggota	NN
+keluarga	NN
+lah	RP
+yang	SC
+mendorong	VB
+remaja	NN
+untuk	SC 
+merokok	VB
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+Efektif	JJ
+sejak	SC,IN 
+Agustus	NNP
+2007	CD
+,	Z
+
+TRJE	NNP
+berubah	VB
+nama	NN
+menjadi	VB
+PT	NNP
+Truba	NNP
+Jaya	NNP
+Engineering	NNP
+,	Z
+setelah	SC
+PT	NNP
+Manunggal	NNP
+Infrasolusi	NNP
+mengakuisisi	VB
+45	CD
+persen	NN,CD 
+saham	NN
+nya	PRP
+dari	IN
+JEL	NNP
+.	Z
+
+#
+
+Dalam	IN 
+APBN	NNP
+2007	CD
+,	Z
+
+DPR	NN
+dan	CC
+pemerintah	NN
+meningkatkan	VB
+penerimaan	NN
+cukai	VB
+menjadi	VB
+Rp42,03	NNP
+triliun	CD
+karena	SC,IN 
+adanya	NN
+peningkatan	NN
+kebutuhan	NN
+pendanaan	NN
+.	Z
+
+#
+
+Menurutnya	NNP
+dengan	SC,IN 
+akuisisi	NN
+ini	PR
+diharapkan	VB
+perolehan	NN
+laba bersih	NN
+perseroan	NN
+untuk	SC,IN 
+2007	CD
+dapat	MD,VB 
+meningkat	VB
+signifikan	JJ
+dari	IN
+70	CD
+juta	CD
+dolar	NN
+AS	NNP
+menjadi	VB
+120	CD
+juta	CD
+dolar	NN
+AS	NNP
+.	Z
+
+#
+
+"	Z
+Pada	IN
+lelang	NN
+kali	NN,VB 
+ini	PR
+akan	IN,MD 
+dilakukan	VB
+secara	JJ
+dual	X
+transaksi	NN
+yaitu	SC
+reopening	X
+obligasi	NN
+negara	NN
+seri	JJ
+FR0046	NNP
+dan	CC
+lelang	NN
+obligasi	NN
+negara	NN
+baru	JJ,NN,MD 
+seri	JJ
+FR0047	NNP
+,	Z
+
+"	Z
+
+kata	NN
+Dirjen	NNP
+Pengelolaan	NNP
+Utang	NNP
+Departemen	NNP
+Keuangan	NNP
+,	Z
+Rahmat	NNP
+Waluyanto	NNP
+di	IN
+Jakarta	NNP
+,	Z
+Selasa	NNP
+.	Z
+
+#
+
+"	Z
+Memamerkan	VB
+naskah	NN
+Balada	NNP
+Nick	NNP
+si	DT
+Kepala	NNP
+Nyaris	NNP
+Putus	NNP
+adalah	VB
+cara	NN
+yang	SC
+sangat	RB
+bagus	JJ
+untuk	SC 
+membantu	VB
+mendukung	VB
+acara	NN
+ini	PR
+.	Z
+
+"	Z
+
+#
+
+Direktur	NN
+perseroan	NN
+Susanto	NNP
+,	Z
+dalam	IN 
+laporan	NN
+nya	PRP
+ke	IN
+bursa	NN
+,	Z
+Senin	NNP
+,	Z
+mengatakan	VB
+,	Z
+tinggi	JJ
+nya	PRP
+permintaan	NN
+CPO	NNP
+dalam negeri	JJ
+menyebabkan	VB
+volume	NN
+ekspor	NN,VB 
+sepanjang	X
+periode	NN
+Januari-Oktober	NNP
+2007	CD
+hanya	RB
+124.450	CD
+ton	NND
+atau	CC
+turun	VB
+51,6	CD
+persen	NN,CD 
+dibanding	VB
+periode	NN
+sama	JJ
+2006	CD
+yang	SC
+mencapai	VB
+257.145	CD
+ton	NND
+.	Z
+
+#
+
+Namun	CC
+demikian	PR
+,	Z
+BI	NNP
+mencermati	VB
+sentimen	NN
+negatif	JJ
+yang	SC
+bisa	MD 
+mempengaruhi	VB
+perekonomian	NN
+Indonesia	NNP
+seperti	SC,IN 
+sentimen	NN
+ekspektasi	NN
+terhadap	IN
+tekanan	NN
+inflasi	NN
+menjelang	X
+akhir	NN
+2007	CD
+.	Z
+
+#
+
+"	Z
+Semakin	RB
+membaik	VB
+nya	PRP
+pertumbuhan	NN
+kredit	NN
+tersebut	PR,VB 
+karena	SC,IN 
+iklim	NN
+ekonomi	NN,VB 
+yang	SC
+baik	JJ
+,	Z
+dan	CC
+kita	PRP
+perkirakan	X
+dalam	IN 
+kuartal	NN
+III	NNP
+dan	CC
+Kuartal	NNP
+IV	NNP
+kredit	NN
+akan	IN,MD 
+terus	RB
+tumbuh	VB
+membaik	VB
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+Indonesia	NNP
+meminta	VB
+perpanjangan	NN
+masa pinjaman	NN
+Bank Pembangunan	NN
+Asia	NNP
+ADB	NNP
+untuk	SC,IN 
+sejumlah	CD
+proyek	NN
+PLTA	NNP
+dengan	SC,IN 
+nilai	NN,VB 
+total	NN
+sekitar	RB 
+7,5	CD
+juta	CD
+dolar	NN
+AS	NNP
+yang	SC
+seharusnya	RB
+berakhir	VB
+pada	IN
+2008	CD
+menjadi	VB
+2011	CD
+karena	SC,IN 
+adanya	NN
+beberapa	CD
+keterlambatan	NN
+.	Z
+
+#
+
+Menurut	NNP
+dia	PRP
+,	Z
+pemerintah	NN
+perlu	MD
+membangun	VB
+Hutan	NNP
+Tanaman	NNP
+Rakyat	NNP
+supaya	SC
+rakyat	NN
+memiliki	VB
+akses	NN
+terhadap	IN
+sumber daya	NN
+hutan	NN
+,	Z
+dan	CC
+rakyat	NN
+berperan	VB
+dalam	IN 
+membangun	VB
+hutan	NN
+tanaman	NN
+sehingga	SC
+pada	IN
+akhirnya	RB
+pengamanan	NN
+hutan	NN
+juga	RB
+akan	IN,MD 
+lebih	RB
+efektif	JJ
+.	Z
+
+#
+
+"	Z
+Jadi	JJ
+tidak	NEG
+benar	JJ
+PMA	NNP
+ke	IN
+Malaysia	NNP
+semakin	RB
+memburuk	VB
+,	Z
+"	Z
+
+kata	NN
+Tan	NNP
+Yee	NNP
+Kew	NNP
+menanggapi	VB
+pernyataan	NN
+Tan	NNP
+Lian	NNP
+Hoe	NNP
+,	Z
+pimpinan	NN
+Barisan	NNP
+Nasional	NNP
+Bukit	NNP
+Gantang	NNP
+,	Z
+yang	SC
+menyatakan	VB
+bahwa	SC
+PMA	NNP
+Malaysia	NNP
+semakin	RB
+memburuk	VB
+dibandingkan	VB
+tetangga	NN
+nya	PRP
+di	IN
+Asean	NNP
+.	Z
+
+#
+
+Menurut	NNP
+Boediono	NNP
+,	Z
+APBN	NNP
+2008	CD
+akan	IN,MD 
+aman	JJ
+jika	SC
+produksi	NN
+minyak	NN
+bisa	MD 
+dijaga	VB
+sesuai	JJ
+sasaran	NN
+sebesar	X
+1.034	CD
+juta	CD
+barel	NN
+per	X
+hari	NN
+atau	CC
+kalau	SC
+bisa	MD 
+ditingkatkan	VB
+.	Z
+
+#
+
+Perebutan	NN
+jamrud	X
+Bahia	NNP
+raksasa	NN
+
+#
+
+Kisah	NN
+pendiri	NN
+Facebook	NNP
+Mark	NNP
+Zuckerberg	NNP
+akan	IN,MD 
+diceritakan	VB
+dalam	IN 
+sebuah	X
+komik	X
+biografi	NN
+.	Z
+
+#
+
+Dua	CD
+halaman	NN
+naskah	NN
+yang	SC
+dibingkai	VB
+dan	CC
+ditandatangani	VB
+oleh	IN
+JK	NNP
+Rowling	NNP
+itu	PR
+berisi	VB
+Balada	NNP
+Nick	NNP
+Si	NNP
+Kepala	NNP
+Nyaris	NNP
+Putus	NNP
+.	Z
+
+#
+
+Rencana	NN
+pembelian	NN
+dua	CD
+unit	NN
+tanker	X
+tersebut	PR,VB 
+,	Z
+kata	NN
+dia	PRP
+,	Z
+sesuai	JJ
+dengan	SC,IN 
+rencana	NN
+Rapat Umum	NN
+Pemegang Saham	NN
+Luar Biasa	JJ
+(RUPSLB)	X
+perseroan	NN
+yang	SC
+diselenggarakan	VB
+pada	IN
+28	CD
+Juli	NNP
+2006	CD
+.	Z
+
+#
+
+Saya	PRP
+akan	IN,MD 
+bekerja	VB
+di	IN
+pemerintah	NN
+Inggris	NNP
+.	Z
+
+#
+
+Mata uang	NN
+lokal	JJ
+kita	PRP
+itu	PR
+aneh	JJ
+sulit	JJ
+diduga	VB
+anomali	NN
+pergerakan	NN
+nya	PRP
+.	Z
+
+#
+
+Sementara	NNP
+Direktur	NNP
+INCO	NNP
+Sri	NNP
+Kuncoro	NNP
+,	Z
+dalam	IN 
+kesempatan	NN
+yang	SC
+sama	JJ
+,	Z
+perseroan	NN
+tahun	NN
+ini	PR
+telah	MD
+membeli	VB
+32	CD
+pembangkit	NN
+listrik	NN
+tenaga	NN
+diesel	X
+(PLTD)	X
+yang	SC
+setara	JJ
+dengan	SC,IN 
+32	CD
+Mega	NNP
+Watt	NNP
+untuk	SC 
+memberikan	VB
+tenaga listrik	NN
+tambahan	NN
+bagi	NN,IN,VB 
+perseroan	NN
+.	Z
+
+#
+
+Tiririca-	NNP
+yang	SC
+nama	NN
+asli	JJ
+nya	PRP
+Francisco	NNP
+Everardo	NNP
+Oliveira	NNP
+Silva-	NNP
+mulai	VB
+bekerja	VB
+di	IN
+sirkus	X
+sejak	SC 
+berusia	VB
+delapan	CD
+tahun	NN
+di	IN
+negara bagian	NN
+miskin	JJ
+,	Z
+Ceara	NNP
+.	Z
+
+#
+
+"	Z
+Penerimaan	NN
+pajak	NN
+sudah	MD
+mencapai	VB
+76,8	CD
+persen	NN,CD 
+dari	IN
+target	NN
+,	Z
+sedangkan	CC
+penerimaan	NN
+negara	NN
+bukan	NEG
+pajak	NN
+(PNBP)	X
+mencapai	VB
+73,5	CD
+persen	NN,CD 
+dari	IN
+target	NN
+,	Z
+"	Z
+
+kata	NN
+Menkeu	NNP
+.	Z
+
+#
+
+Sedangkan	CC
+target	NN
+laba bersih	NN
+2007	CD
+sebesar	X
+Rp30	NNP
+miliar	CD
+atau	CC
+naik	VB
+dibandingkan	VB
+2006	CD
+sebesar	X
+Rp28,6	NNP
+miliar	CD
+.	Z
+
+#
+
+Ronzulli	NNP
+yang	SC
+mewakili	VB
+Partai	NNP
+Kebebasan	NNP
+Rakyat	NNP
+pimpinan	NN
+PM	NNP
+Italia	NNP
+Silvio	NNP
+Berlusconi	NNP
+mendapat	VB
+sambutan	NN
+meriah	JJ
+ketika	SC
+berdiri	VB
+untuk	SC 
+menyampaikan	VB
+pidato	NN
+nya	PRP
+.	Z
+
+#
+
+Dari	IN
+obligasi	NN
+yang	SC
+bisa	MD 
+diperdagangkan	VB
+itu	PR
+,	Z
+obligasi	NN
+negara	NN
+dalam	IN 
+mata uang	NN
+rupiah	NN
+mencapai	VB
+Rp438,823	NNP
+triliun	CD
+dan	CC
+obligasi	NN
+negara	NN
+dalam	IN 
+mata uang	NN
+dolar	NN
+AS	NNP
+mencapai	VB
+Rp63,945	NNP
+triliun	CD
+kurs	NN
+Rp9.135	NNP
+,	Z
+
+termasuk	X
+penerbitan	NN
+terakhir	OD
+RI0037	NNP
+pada	IN
+14	CD
+Februari	NNP
+2007	CD
+senilai	X
+1,5	CD
+miliar	CD
+dolar	NN
+AS	NNP
+.	Z
+
+#
+
+Dengan	SC,IN 
+kata	NN
+lain	JJ
+,	Z
+pemerintah	NN
+sekarang	X
+dalam	IN 
+posisi	NN
+yang	SC
+kuat	JJ
+secara	JJ
+finansial	JJ
+dan	CC
+itu	PR
+sangat	RB
+bagus	JJ
+.	Z
+
+#
+
+Restrukturisasi	NN
+kredit	NN
+bermasa	VB
+lah	RP
+yang	SC
+sedang	JJ,CC,MD 
+dilakukan	VB
+terutama	JJ
+untuk	SC,IN 
+beberapa	CD
+kredit	NN
+korporasi	NN
+bermasa	VB
+lah	RP
+yang	SC
+jumlah	NN
+nya	PRP
+besar	JJ
+dan	CC
+ekspektasi	NN
+ekonomi	NN,VB 
+yang	SC
+lebih	RB
+baik	JJ
+diharapkan	VB
+akan	IN,MD 
+membantu	VB
+memperbaiki	VB
+kualitas	NN
+kredit	NN
+Panin	NNP
+di	IN
+tahun	NN
+ini	PR
+.	Z
+
+#
+
+Perusahaan	NN
+perkebunan	NN
+PT	NNP
+Bakrie	NNP
+Sumatra	NNP
+Plantation	NNP
+Tbk	NNP
+(UNSP)	X
+menyatakan	VB
+perolehan	NN
+laba	NN
+bersih	JJ
+nya	PRP
+dalam	IN 
+sembilan	CD
+bulan	NN
+pertama	OD
+yang	SC
+berakhir	VB
+30	CD
+September	NNP
+2007	CD
+,	Z
+
+turun	VB
+6	CD
+persen	NN,CD 
+menjadi	VB
+Rp136,14	NNP
+miliar	CD
+dari	IN
+Rp144,88	NNP
+miliar	CD
+pada	IN
+periode	NN
+yang	SC
+sama	JJ
+tahun	NN
+lalu	VB/CC 
+.	Z
+
+#
+
+Monyet	NN
+ini	PR
+diikat	VB
+dengan	SC,IN 
+tali	NN,VB 
+panjang	JJ
+dan	CC
+pelatih	NN
+yang	SC
+mengawasi	VB
+mereka	PRP
+akan	IN,MD 
+melepas	VB
+tali	NN,VB 
+begitu	SC,PR,RB 
+monyet-monyet	NN
+kecil	JJ
+lain	JJ
+mendekat	VB
+.	Z
+
+#
+
+Meski	SC
+telah	MD
+merencanakan	VB
+untuk	SC,IN 
+merger	NN
+dan	CC
+mengakuisisi	VB
+perusahaan	NN
+multifinance	X
+,	Z
+Agus	NNP
+enggan	JJ
+mengemukakan	VB
+lebih	RB
+lanjut	VB
+perihal	X
+rencana	NN
+nya	PRP
+tersebut	PR,VB 
+.	Z
+
+#
+
+Video	NN
+kampanye	NN
+nya	PRP
+yang	SC
+kocak	X
+berhasil	JJ
+meraih	VB
+jutaan	CD
+penonton	NN
+di	IN
+YouTube	NNP
+.	Z
+
+#
+
+Misalnya	SC
+untuk	SC,IN 
+perkebunan	NN
+di	IN
+Kalimantan	NNP
+turun	VB
+23,9	CD
+persen	NN,CD 
+,	Z
+wilayah	NN
+Sumatera	NNP
+turun	VB
+6,5	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Dengan	SC,IN 
+prediksi	NN
+pertumbuhan ekonomi	NN
+6-6,11	CD
+persen	NN,CD 
+pada	IN
+kuartal	NN
+Feb-07	NNP
+,	Z
+
+pemerintah	NN
+optimis	JJ
+target	NN
+pertumbuhan	NN
+6,3	CD
+persen	NN,CD 
+pada	IN
+2007	CD
+akan	IN,MD 
+bisa	MD 
+dicapai	VB
+.	Z
+
+#
+
+Untuk	SC 
+meningkatkan	VB
+efisiensi	NN
+dan	CC
+tingkat	NN
+profitabilitas	NN
+,	Z
+perseroan	NN
+mengusulkan	VB
+menjual	VB
+armada	NN
+kapal	NN
+tersebut	PR,VB 
+dan	CC
+menggunakan	VB
+hasil	NN
+penjualan	NN
+nya	PRP
+untuk	SC 
+membeli	VB
+kapal	NN
+dengan	SC,IN 
+jenis	NN 
+lain	JJ
+.	Z
+
+#
+
+Nilai tukar	NN
+rupiah	NN
+melemah	VB
+menjadi	VB
+Rp9.175/9.180	NNP
+per	X
+dolar	NN
+AS	NNP
+dari	IN
+penutupan	NN
+hari	NN
+sebelumnya	SC
+Rp9.165/9.177	NNP
+per	X
+dolar	NN
+AS	NNP
+atau	CC
+turun	VB
+10	CD
+poin	NN
+.	Z
+
+#
+
+"	Z
+Bahasa	NN
+Spanyol	NNP
+tidak	NEG
+mendapat	VB
+ruang	NN
+yang	SC
+sepatutnya	X
+di	IN
+internet	NN
+,	Z
+"	Z
+
+kata	NN
+sekretaris	NN
+akademi	NN
+,	Z
+Dario	NNP
+Villanueva	NNP
+,	Z
+kepada	IN
+kantor berita	NN
+AFP	NNP
+.	Z
+
+#
+
+Pada	IN
+Akhir	NNP
+Oktober	NNP
+2007	CD
+cadangan	NN
+devisa	NN
+menurut	X
+dia	PRP
+tercatat	VB
+54,2	CD
+miliar	CD
+dolar	NN
+AS	NNP
+.	Z
+
+#
+
+Kondisi	NN
+APBN	NNP
+2007	CD
+pada	IN
+dua	CD
+pekan	NN,VB 
+awal	NN
+secara	JJ
+umum	JJ
+baik	JJ
+dan	CC
+pemerintah	NN
+akan	IN,MD 
+terus	RB
+menjalankan	VB
+kebijakan	NN
+yang	SC
+sound	X
+(tepat	X
+,	Z
+red)	X
+sehingga	SC
+tercipta	VB
+konsistensi	X
+kebijakan	NN
+yang	SC
+memberikan	VB
+keyakinan	NN
+kepada	IN
+investor	NN
+.	Z
+
+#
+
+Sedangkan	CC
+kredit Komersial	NN
+dan	CC
+Usaha	NNP
+Kecil	NNP
+dan	CC
+Menengah	NNP
+(UKM)	X
+tumbuh	VB
+16,1	CD
+persen	NN,CD 
+menjadi	VB
+Rp29,2	NNP
+triliun	CD
+dan	CC
+Kredit	NNP
+Konsumer	NNP
+turun	VB
+4,9	CD
+persen	NN,CD 
+menjadi	VB
+Rp8,5	NNP
+triliun	CD
+terutama	JJ
+disebabkan	VB
+oleh	IN
+penurunan	NN
+Kredit	NNP
+Kendaraan Bermotor	NN
+yang	SC
+turun	VB
+40,9	CD
+persen	NN,CD 
+menjadi	VB
+Rp2,5	NNP
+triliun	CD
+.	Z
+
+#
+
+Kurs	NN
+rupiah	NN
+terhadap	IN
+dolar	NN
+AS	NNP
+di	IN
+Pasar	NNP
+Spot	NNP
+Antar	NNP
+Bank	NNP
+Jakarta	NNP
+,	Z
+Selasa	NNP
+pagi	NN
+,	Z
+merosot	JJ
+tajam	JJ
+kembali	VB
+di	IN
+atas	NN 
+level	X
+Rp9.400	NNP
+per	X
+dolar	NN
+AS	NNP
+,	Z
+pelaku pasar	NN
+masih	MD
+khawatir	JJ
+dengan	SC,IN 
+prospek	NN
+ekonomi	NN,VB 
+AS	NNP
+.	Z
+
+#
+
+EPA	NNP
+gencar	JJ
+dilakukan	VB
+Jepang	NNP
+guna	NN,SC,IN 
+menciptakan	VB
+iklim	NN
+pertumbuhan ekonomi	NN
+Asia	NNP
+yang	SC
+tetap	RB,JJ,VB 
+kondusif	JJ
+dalam	IN 
+percaturan	NN
+ekonomi	NN,VB 
+global	X
+,	Z
+selain	CC 
+sebagai	IN
+upaya	NN
+menjamin	VB
+pertumbuhan ekonomi	NN
+Negeri Sakura	NN
+itu	PR
+sendiri	JJ
+.	Z
+
+#
+
+Ke-23	CD
+saham	NN
+(BES)	X
+yang	SC
+akan	IN,MD 
+dilelang	VB
+tersebut	PR,VB 
+atas nama	NN
+PT	NNP
+Inti	NNP
+Prebon	NNP
+Securities	NNP
+,	Z
+PT	NNP
+Mashill	NNP
+Jaya	NNP
+Sekuritas	NNP
+,	Z
+PT	NNP
+Trisula	NNP
+Cipta	NNP
+Dana	NNP
+,	Z
+PT	NNP
+Pamamitra	NNP
+Artha	NNP
+Pertiwi	NNP
+,	Z
+PT	NNP
+Kestrel	NNP
+Sekuritas	NNP
+Surabaya	NNP
+,	Z
+PT	NNP
+Finanza	NNP
+Indonesia	NNP
+,	Z
+PT	NNP
+Pentasena	NNP
+Arthasentosa	NNP
+dan	CC
+PT	NNP
+Bomar	NNP
+Sekuritas	NNP
+.	Z
+
+#
+
+Dia	PRP
+mengingatkan	VB
+,	Z
+pada	IN
+bulan	NN
+Desember	NNP
+akan	IN,MD 
+terjadi	VB
+
+'	Z
+demand	X
+pull	X
+inflation	X
+'	Z
+
+karena	SC,IN 
+ada	JJ
+tekanan	NN
+menjelang	X
+Natal	NNP
+dan	CC
+Tahun Baru	NN
+.	Z
+
+#
+
+Dalam	IN 
+Rapat Kerja	NN
+Komisi	NNP
+XI	NNP
+DPR	NNP
+di	IN
+Jakarta	NNP
+,	Z
+Selasa	NNP
+,	Z
+Miranda	NNP
+mengatakan	VB
+,	Z
+pemerintah	NN
+harus	MD
+menganalisis	VB
+sumber-sumber	NN
+pertumbuhan ekonomi	NN
+pada	IN
+triwulan	NN
+I	NNP
+hingga	SC 
+mencapai	VB
+5,97	CD
+persen	NN,CD 
+,	Z
+apakah	X
+sumber-sumber	NN
+pertumbuhan	NN
+tersebut	PR,VB 
+mempunyai	VB
+multiplier	X
+effect	X
+yang	SC
+besar	JJ
+atau	CC
+tidak	NEG
+,	Z
+serta	CC 
+apakah	X
+memiliki	VB
+trend	NN
+meningkat	VB
+atau	CC
+tidak	NEG
+.	Z
+
+#
+
+Mengenai	IN,VB 
+kekhawatiran	NN
+besar	JJ
+nya	PRP
+kredit	NN
+akan	IN,MD 
+mengancam	VB
+kondisi	NN
+perbankan	NN
+,	Z
+akibat	NN
+meningkat	VB
+nya	PRP
+kredit	NN
+bermasa	VB
+lah	RP
+.	Z
+
+#
+
+"	Z
+Ini	PR
+edan	JJ
+,	Z
+edan	JJ
+,	Z
+edan	JJ
+.	Z
+
+"	Z
+
+#
+
+Sedangkan	CC
+jika	SC
+dibandingkan	VB
+dengan	SC,IN 
+semester	X
+I	NNP
+2006	CD
+,	Z
+
+pertumbuhan	NN
+tiga	CD
+sektor	NN
+tersebut	PR,VB 
+adalah	VB
+pengangkutan	NN
+-	SYM,Z 
+komunikasi	NN
+tumbuh	VB
+11,9	CD
+persen	NN,CD 
+,	Z
+listrik	NN
+-	SYM,Z 
+gas	NN
+-	SYM,Z 
+air bersih	NN
+10,5	CD
+persen	NN,CD 
+dan	CC
+sektor	NN
+perdagangan	NN
+-	SYM,Z 
+hotel	NN
+restoran	NN
+8,3	CD
+persen	NN,CD 
+.	Z
+
+#
+
+"	Z
+Kami	PRP
+ingin	RB
+mengadukan	VB
+nya	PRP
+dan	CC
+melakukan	VB
+sesuatu	PRP
+untuk	SC 
+mengoreksi	VB
+nya	PRP
+.	Z
+
+"	Z
+
+#
+
+Selama	JJ
+di	IN
+Jakarta	NNP
+,	Z
+PM	NNP
+Abe	NNP
+bersama	VB
+Presiden	NNP
+Susilo	NNP
+Bambang	NNP
+Yudhyono	NNP
+akan	IN,MD 
+menandatangani	VB
+kerja sama	NN
+ekonomi	NN,VB 
+dalam	IN 
+format	NN
+Economic	NNP
+Partnership	NNP
+Agreement	NNP
+(EPA).	X
+
+#
+
+Nilai	NN,VB 
+kontrak	NN
+berdasarkan	VB
+jam	NND
+terbang	VB
+pesawat	NN
+atau	CC
+paling	RB
+tidak	NEG
+sebulan	JJ
+sebesar	X
+160	CD
+ribu	CD
+dolar	NN
+AS	NNP
+per	X
+pesawat	NN
+.	Z
+
+#
+
+Produksi	NN
+sawit	NN
+PT	NNP
+Astra	NNP
+Agro	NNP
+Lestari	NNP
+AALI	NNP
+pada	IN
+kuartal	NN
+pertama	OD
+2007	CD
+turun	VB
+8,3	CD
+persen	NN,CD 
+dibandingkan	VB
+periode	NN
+sama	JJ
+sebelumnya	SC
+.	Z
+
+#
+
+Sektor	NN
+pengangkutan	NN
+dan	CC
+komunikasi	NN
+PPh	NNP
+-nya	X
+tumbuh	VB
+35,4	CD
+persen	NN,CD 
+,	Z
+meski	SC
+PPN	NNP
+agak	RB
+rendah	JJ
+tumbuh	VB
+sebesar	X
+3,4	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Sepanjang	NNP
+sepuluh	CD
+bulan	NN
+2007	CD
+penjualan	NN
+mobil	NN
+nasional	JJ
+mencapai	VB
+349.489	CD
+unit	NN
+.	Z
+
+#
+
+Dita	VB
+nya	PRP
+tentang	VB
+pembubaran	NN
+CGI	NNP
+,	Z
+Andrew	NNP
+menyatakan	VB
+pihak	NN
+nya	PRP
+sangat	RB
+mendukung	VB
+keputusan	NN
+pemerintah	NN
+karena	SC,IN 
+itu	PR
+berarti	VB
+kemajuan	NN
+.	Z
+
+#
+
+Fitch	NNP
+Ratings	NNP
+,	Z
+dalam	IN 
+siaran	NN
+pers	NN
+nya	PRP
+,	Z
+Senin	NNP
+,	Z
+mengatakan	VB
+bahwa	SC
+prospek	NN
+rating	X
+kedua	CD 
+bank	NN
+itu	PR
+tetap	RB,JJ,VB 
+stabil	JJ
+.	Z
+
+#
+
+Meski	SC
+pada	IN
+kuartal	NN
+II/2007	NNP
+ini	PR
+turun	VB
+26	CD
+persen	NN,CD 
+dibandingkan	VB
+kuartal	NN
+I	NNP
+2007	CD
+,	Z
+
+namun	CC
+neraca	NN
+modal	NN
+finansial	JJ
+tetap	RB,JJ,VB 
+surplus	X
+sebesar	X
+1,7	CD
+miliar	CD
+dolar	NN
+AS	NNP
+.	Z
+
+#
+
+Untuk	SC,IN 
+penerimaan	NN
+masih	MD
+
+'	Z
+on	X
+track	X
+'	Z
+.	Z
+
+#
+
+Dalam	IN 
+pertemuan	NN
+itu	PR
+,	Z
+Dubes	NNP
+melihat	VB
+banyak	CD
+hal	NN
+yang	SC
+bisa	MD 
+dilakukan	VB
+oleh	IN
+ICMI	NNP
+London	NNP
+dalam	IN 
+mengisi	VB
+peluang	NN
+yang	SC
+ada	JJ
+dalam	IN 
+upaya	NN
+membantu	VB
+pengusaha	NN
+Indonesia	NNP
+yang	SC
+akan	IN,MD 
+mengembangkan	VB
+sayap	NN
+nya	PRP
+di	IN
+Inggris	NNP
+.	Z
+
+#
+
+Penjualan	NN
+mobil	NN
+Astra	NNP
+ini	PR
+naik	VB
+dibandingkan	VB
+periode	NN
+sama	JJ
+sebelumnya	SC
+sebanyak	CD
+174.827	CD
+unit	NN
+.	Z
+
+#
+
+"	Z
+Di	IN
+November	NNP
+tahun	NN
+lalu	VB/CC 
+,	Z
+inflasi	NN
+'	Z
+
+cooling	X
+down	X
+
+'	Z
+cuma	RB
+0,34	CD
+persen	NN,CD 
+,	Z
+tapi	CC
+kita	PRP
+kan	X
+tidak	NEG
+bisa	MD 
+memotret	VB
+yang	SC
+lalu	VB 
+dan	CC
+yakin	JJ
+sekali	JJ
+akan	IN,MD 
+terjadi	VB
+seperti	SC,IN 
+itu	PR
+,	Z
+"	Z
+
+kata Kepala	NN
+BPS	NNP
+,	Z
+Rusman	NNP
+Heriawan	NNP
+.	Z
+
+#
+
+Namun	CC
+ia	PRP
+tidak	NEG
+menyebutkan	VB
+nilai	NN,VB 
+transaksi	NN
+dan	CC
+porsi	NN
+kepemilikan	X
+saham	NN
+pada	IN
+PT	NNP
+Nibung	NNP
+Arthamulia	NNP
+tersebut	PR,VB 
+.	Z
+
+#
+
+Menurut	NNP
+dia	PRP
+saat	SC,NN 
+ini	PR
+kredit	NN
+tumbuh	VB
+rata-rata	JJ
+20-25	CD
+triliun	CD
+,	Z
+meski	SC
+hal	NN
+ini	PR
+tidak	NEG
+sebesar	X
+bulan	NN
+Juni	NNP
+yang	SC
+mencapai	VB
+Rp36	NNP
+triliun	CD
+.	Z
+
+#
+
+Kisah	NN
+hantu	NN
+Nick	NNP
+itu	PR
+awal	NN
+nya	PRP
+ditulis	VB
+sebagai	IN
+bagian	NN
+dari	IN
+buku	NN 
+Harry	NNP
+Potter	NNP
+dan	CC
+Kamar	NNP
+Rahasia	NNP
+tetapi	CC
+kemudian	CC,NN 
+kedua	CD 
+halaman	NN
+itu	PR
+dibuang	VB
+sehingga	SC
+tidak	NEG
+termasuk	X
+dalam	IN 
+buku	NN 
+yang	SC
+diterbitkan	VB
+.	Z
+
+#
+
+Dana	NN
+pinjaman	NN
+yang	SC
+diperoleh	VB
+dari	IN
+Bank	NNP
+Mandiri	NNP
+,	Z
+menurut	X
+Agus	NNP
+Wartowardoyo	NNP
+untuk	SC,IN 
+keempat	CD 
+pabrik	NN
+baru	JJ,NN,MD 
+hanya	RB
+mencapai	VB
+70	CD
+persen	NN,CD 
+kebutuhan	NN
+dana	NN
+yang	SC
+diperlukan	VB
+,	Z
+sedangkan	CC
+30	CD
+persen	NN,CD 
+lagi	MD,RB 
+berasal	VB
+dari	IN
+internal	JJ
+PKG	NNP
+.	Z
+
+#
+
+Pemerintah	NN
+merencanakan	VB
+peningkatan	NN
+penerimaan	NN
+perpajakan	NN
+dalam	IN 
+RAPBN	NNP
+2008	CD
+mencapai	VB
+Rp583,7	NNP
+triliun	CD
+,	Z
+naik	VB
+sebesar	X
+Rp93,8	NNP
+triliun	CD
+,	Z
+atau	CC
+19,1	CD
+persen	NN,CD 
+dibanding	VB
+sasaran	NN
+penerimaan	NN
+perpajakan	NN
+pada	IN
+RAPBN-P	NNP
+2007	CD
+sebesar	X
+Rp489,9	NNP
+triliun	CD
+.	Z
+
+#
+
+"	Z
+Jasa	NN
+manajemen	NN
+ini	PR
+untuk	SC 
+meningkatkan	VB
+produktivitas	NN
+lahan	NN
+kebun	NN
+sawit	NN
+dan	CC
+pabrik	NN
+GIN	NNP
+untuk	SC 
+menghasilkan	VB
+minimal	JJ
+sebanyak	CD
+23.100	CD
+ton	NND
+minyak	NN
+sawit	NN
+mentah	NN
+CPO	NNP
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+Di	IN
+negara maju	NN
+itu	PR
+,	Z
+instrumen	NN
+nya	PRP
+sangat	RB
+lengkap	JJ
+dengan	SC 
+jatuh tempo	VB
+yang	SC
+berbeda-beda	VB
+.	Z
+
+#
+
+"	Z
+Secara	JJ
+'	Z
+
+overall	X
+
+'	Z
+saya	PRP
+belum	NEG
+lihat	VB
+,	Z
+tapi	CC
+nampaknya	X
+masih	MD
+surplus	X
+dalam	IN 
+dua	CD
+bulan	NN
+ini	PR
+,	Z
+"	Z
+
+kata	NN
+Menkeu	NNP
+di	IN
+Istana	NNP
+Negara	NNP
+,	Z
+Selasa	NNP
+.	Z
+
+#
+
+Sementara itu	NNP
+sampai	SC,IN 
+akhir	NN
+2007	CD
+perseroan	NN
+menargetkan	VB
+pendapatan	NN
+sebesar	X
+Rp300	NNP
+miliar	CD
+atau	CC
+naik	VB
+dibandingkan	VB
+2006	CD
+hanya	RB
+sebesar	X
+Rp204	NNP
+miliar	CD
+.	Z
+
+#
+
+Kebutuhan	NN
+pendanaan	NN
+bruto	NN
+Indonesia	NNP
+termasuk	X
+utang	NN
+jangka pendek	VB
+diperkirakan	VB
+akan	IN,MD 
+turun	VB
+ke	IN
+sekitar	RB 
+66	CD
+persen	NN,CD 
+dari	IN
+cadangan	NN
+resmi	JJ
+,	Z
+selaras	JJ
+dengan	SC,IN 
+median	X
+
+'	Z
+BB	NNP
+'	Z
+.	Z
+
+#
+
+Saham	NN
+PT	NNP
+Perusahaan	NNP
+Gas	NNP
+Negara	NNP
+Persero	NNP
+Tbk	NNP
+(PGAS)	X
+langsung	JJ
+melejit	VB
+naik	VB
+setelah	SC
+suspensi	NN
+penghentian	NN
+sementara	X
+dicabut	VB
+Bursa Efek	NN
+Jakarta	NNP
+(BEJ).	X
+
+#
+
+Sementara	NNP
+untuk	SC,IN 
+penjualan	NN
+mobil	NN
+non-Astra	X
+selama	JJ
+9	CD
+bulan	NN
+2007	CD
+mencapai	VB
+169.886	CD
+unit	NN
+.	Z
+
+#
+
+Olahragawan	NN
+,	Z
+panutan	X
+dan	CC
+merokok	VB
+
+#
+
+Ia	PRP
+mengatakan	VB
+,	Z
+peluang	NN
+rupiah	NN
+untuk	SC 
+naik	VB
+lagi	MD,RB 
+masih	MD
+bisa	MD,NN 
+,	Z
+namun	CC
+kenaikan	NN
+itu	PR
+diharapkan	VB
+tidak	NEG
+terlalu	X
+cepat	JJ
+,	Z
+karena	SC,IN 
+bisa	MD 
+menekan	VB
+rupiah	NN
+kembali	VB
+melemah	VB
+dalam	IN 
+waktu	NN
+yang	SC
+cepat	JJ
+pula	RB
+.	Z
+
+#
+
+Dampak	NN
+yang	SC
+dirasakan	VB
+dapat	MD,VB 
+dilihat	VB
+pada	IN
+koreksi	NN
+harga	NN
+saham	NN
+dan	CC
+nilai tukar	NN
+uang	NN
+yang	SC
+cukup	RB
+tajam	JJ
+di	IN
+seluruh	CD
+dunia	NN
+termasuk	X
+Indonesia	NNP
+.	Z
+
+#
+
+Pada	IN
+pukul	VB
+09.00	CD
+,	Z
+
+dolar	NN
+dikutip	VB
+pada	IN
+119,52-57	CD
+yen	NN
+dibandingkan	VB
+dengan	SC,IN 
+Rabu	NNP
+pukul	VB
+17.00	CD
+yang	SC
+dikutip	VB
+pada	IN
+119,58-68	CD
+yen	NN
+di	IN
+New	NNP
+York	NNP
+dan	CC
+119,26-29	CD
+yen	NN
+di	IN
+Tokyo	NNP
+.	Z
+
+#
+
+CPRL	NNP
+memiliki	VB
+60	CD
+persen	NN,CD 
+saham	NN
+nya	PRP
+di	IN
+blok	NN
+pertambangan	NN
+minyak	NN
+onshore	X
+Ramba	NNP
+di	IN
+Sumatera	NNP
+Selatan	NNP
+.	Z
+
+#
+
+Ini	PR
+sangat	RB
+meyakinkan	VB
+dan	CC
+memberi	VB
+suasana	NN
+kondusif	JJ
+.	Z
+
+#
+
+Tahun	NN
+ini	PR
+akan	IN,MD 
+22	CD
+persen	NN,CD 
+.	Z
+
+#
+
+The	NNP
+Hobbit	NNP
+cari	VB
+aktor	NN
+kerdil	X
+
+#
+
+Frekuensi	NN
+perdagangan	NN
+mencapai	VB
+2.343	CD
+kali	NN,VB 
+dengan	SC,IN 
+volume	NN
+52,033	CD
+juta	CD
+lembar	NN 
+dan	CC
+nilai	NN,VB 
+Rp424,222	NNP
+miliar	CD
+.	Z
+
+#
+
+"	Z
+Kita	PRP
+melihat	VB
+faktor	NN
+inflasi	NN
+dari	IN
+makanan	NN
+akan	IN,MD 
+segera	RB
+hilang	JJ
+yang	SC
+terkonfirmasi	VB
+dari	IN
+harga	NN
+beras	NN
+di	IN
+semua	CD
+provinsi	NN
+,	Z
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+Pencurian	NN
+ladang	NN
+anggur	NN
+
+#
+
+Dengan	SC,IN 
+demikian	PR
+,	Z
+pada	IN
+akhir	NN
+tahun	NN
+cadangan	NN
+devisa	NN
+diperkirakan	VB
+akan	IN,MD 
+mencapai	VB
+56,2	CD
+miliar	CD
+dolar	NN
+AS	NNP
+atau	CC
+setara	JJ
+dengan	SC,IN 
+5,6	CD
+bulan	NN
+impor	NN,VB 
+dan	CC
+pembayaran	NN
+utang	NN
+luar negeri	NN
+Pemerintah	NNP
+.	Z
+
+#
+
+Sementara itu	NNP
+,	Z
+pendapatan	NN
+bukan	NEG
+bunga	NN
+yang	SC
+lebih	RB
+tinggi	JJ
+berasal	VB
+dari	IN
+penjualan	NN
+obligasi	NN
+pemerintah	NN
+di	IN
+2006	CD
+.	Z
+
+#
+
+"	Z
+Jadi	JJ
+kita	PRP
+sepakat	JJ
+untuk	SC,IN 
+semakin	RB
+mempererat	VB
+hubungan	NN
+itu	PR
+,	Z
+"	Z
+
+ujar	VB
+nya	PRP
+.	Z
+
+#
+
+Disebutkan	VB
+nya	PRP
+,	Z
+keuangan	NN
+publik	X
+dan	CC
+perbaikan	NN
+pengawasan	NN
+atas	IN 
+risiko	NN
+fiskal	NN
+secara	JJ
+luas	JJ
+adalah	VB
+kekuatan	NN
+fundamental	NN
+peringkat	NN
+Indonesia	NNP
+.	Z
+
+#
+
+Hingga	SC,IN 
+Juli	NNP
+2010	CD
+lebih	RB
+dari	IN
+500	CD
+juta	CD
+yang	SC
+terdaftar	VB
+dalam	IN 
+situs	NN
+jejaring	X
+sosial	NN
+tersebut	PR,VB 
+.	Z
+
+#
+
+Sedangkan	CC
+untuk	SC,IN 
+obligasi	NN
+negara	NN
+dalam	IN 
+mata uang	NN
+rupiah	NN
+,	Z
+Pemerintah	NNP
+telah	MD
+menerbitkan	VB
+obligasi	NN
+negara	NN
+berbunga	VB
+tetap	RB,JJ,VB 
+hingga	SC,IN 
+Rp263,38	NNP
+triliun	CD
+,	Z
+yang	SC
+terdiri	VB
+atas	IN 
+Rp253,863	NNP
+triliun	CD
+berupa	VB
+Surat	NNP
+Utang	NNP
+Negara	NNP
+atau	CC
+SUN	NNP
+dan	CC
+Rp9,516	NNP
+triliun	CD
+berupa	VB
+Obligasi	NNP
+Negara	NNP
+Ritel	NNP
+atau	CC
+ORI	NNP
+.	Z
+
+#
+
+Menurut	NNP
+dia	PRP
+,	Z
+dalam	IN 
+rangka	NN
+meningkatkan	VB
+penerapan	NN
+good	X
+governance	X
+,	Z
+saat	SC,NN 
+ini	PR
+pemerintah	NN
+juga	RB
+tengah	MD 
+melaksanakan	VB
+Program	NNP
+Reformasi	NNP
+Birokrasi	NNP
+yang	SC
+bertujuan	VB
+untuk	SC 
+mendorong	VB
+kapasitas	NN
+atau	CC
+kemampuan	NN
+pemerintah	NN
+dalam	IN 
+mendorong	VB
+pertumbuhan ekonomi	NN
+nasional	JJ
+serta	CC 
+meningkatkan	VB
+pelayanan	NN
+masyarakat	NN
+secara	JJ
+lebih	RB
+maksimal	JJ
+.	Z
+
+#
+
+Tercatat	VB
+nama-nama	NN
+perusahaan	NN
+Toyota	NNP
+Motor	NNP
+Corp	NNP
+,	Z
+Suzuki	NNP
+,	Z
+Mitsubishi	NNP
+,	Z
+Mizuho	NNP
+Bank	NNP
+,	Z
+JBIC	NNP
+,	Z
+Bank	NNP
+of	X
+Tokyo-Mitsubishi	NNP
+,	Z
+JETRO	NNP
+,	Z
+Daiwa	NNP
+Securitas	NNP
+,	Z
+Kawasaki	NNP
+Heavy	NNP
+Industry	NNP
+,	Z
+Canon	NNP
+Inc	NNP
+.	Z
+
+dan	CC
+Marubeni	NNP
+Corp	NNP
+,	Z
+dan	CC
+Sumitomo	NNP
+Life	NNP
+Insurance	NNP
+Co	NNP
+.	Z
+
+#
+
+Sedangkan	CC
+konsumsi	NN
+pemerintah	NN
+tumbuh	VB
+8,9	CD
+persen	NN,CD 
+yang	SC
+terdiri	VB
+atas	IN 
+,	Z
+pertumbuhan	NN
+belanja	NN,VB 
+pegawai	NN
+55,8	CD
+persen	NN,CD 
+,	Z
+belanja	NN,VB 
+barang	NN
+10,1	CD
+persen	NN,CD 
+,	Z
+belanja	NN,VB 
+lain	JJ
+nya	PRP
+47,2	CD
+persen	NN,CD 
+,	Z
+dan	CC
+belanja	NN,VB 
+daerah	NN
+-4,9	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Untuk	SC 
+meningkatkan	VB
+ekspor	NN,VB 
+ini	PR
+kata	NN
+nya	PRP
+,	Z
+perlu	MD
+adanya	NN
+regulasi	NN
+untuk	SC 
+meningkatkan	VB
+dan	CC
+dapat	MD,VB 
+menghilangkan	VB
+hambatan	NN
+ekspor	NN,VB 
+.	Z
+
+#
+
+Mengenai	IN,VB 
+adanya	NN
+kekhawatiran	NN
+tentang	VB
+besar	JJ
+nya	PRP
+utang	NN
+perseroan	NN
+,	Z
+Kevin	NNP
+mengatakan	VB
+,	Z
+hal	NN
+itu	PR
+tidak	NEG
+perlu	MD
+dirisaukan	VB
+,	Z
+karena	SC,IN 
+perseroan	NN
+tidak	NEG
+hanya	RB
+mengutang	VB
+saja	RB
+,	Z
+melainkan	CC
+juga	RB
+berbuat	VB
+sesuatu	PRP
+untuk	SC 
+mengembalikan	VB
+rasio-rasio	NN
+utang	NN
+nya	PRP
+sehingga	SC
+kembali	VB
+menjadi	VB
+perusahaan	NN
+yang	SC
+sehat	NN
+.	Z
+
+#
+
+Pinjaman	NN
+LPBN	NNP
+meningkat	VB
+dengan	SC,IN 
+cepat	JJ
+di	IN
+tahun	NN
+2005-2006	CD
+namun	CC
+kualitas	NN
+nya	PRP
+belum	NEG
+cukup	RB
+teruji	VB
+.	Z
+
+#
+
+Iklan	NN
+yang	SC
+muncul	VB
+di	IN
+koran	NN
+terbitan	NN,VB 
+Wellington	NNP
+,	Z
+Selandia	NNP
+Baru	NNP
+menyebutkan	VB
+Wingnut	NNP
+Films	NNP
+mencari	VB
+pria	NN
+dengan	SC,IN 
+tinggi	JJ
+badan	NN
+antara	X
+123	CD
+cm	NND
+dan	CC
+maksimum	JJ
+158	CD
+cm	NND
+.	Z
+
+#
+
+Sebelumnya	SC
+,	Z
+berdasarkan	VB
+data	NN
+Bursa Efek	NN
+Jakarta	NNP
+(BEJ)	X
+pemegang saham	NN
+lima	CD
+persen	NN,CD 
+atau	CC
+lebih	RB
+PT	NNP
+Mobile-8	NNP
+Telecom	NNP
+Tbk	NNP
+per	X
+31	CD
+Agustus	NNP
+2007	CD
+terdiri	VB
+dari	IN
+PT	NNP
+Global	NNP
+Mediacom	NNP
+Tbk	NNP
+38,52	CD
+persen	NN,CD 
+,	Z
+PT	NNP
+Global	NNP
+Mediacom	NNP
+Tbk	NNP
+18,18	CD
+persen	NN,CD 
+dan	CC
+Qualcomm	NNP
+Incorporated	NNP
+5,01	CD
+persen	NN,CD 
+.	Z
+
+#
+
+"	Z
+Kita	PRP
+juga	RB
+tahu	NN,VB 
+bahwa	SC
+sponsor	NN
+pabrik	NN
+rokok	NN
+kepada	IN
+olahraga	NN
+ikut	VB
+mempengaruhi	VB
+anak-anak	NN
+untuk	SC 
+merokok	VB
+.	Z
+
+Jadi	JJ
+panutan	X
+yang	SC
+negatif	JJ
+,	Z
+termasuk	X
+olahragawan	NN
+,	Z
+memiliki	VB
+efek	NN
+yang	SC
+kurang	RB
+baik	JJ
+.	Z
+
+"	Z
+
+#
+
+Dalam	IN 
+keterangan	NN
+pers	NN
+nya	PRP
+di	IN
+Jakarta	NNP
+,	Z
+Kamis	NNP
+,	Z
+rating	X
+final	X
+tersebut	PR,VB 
+diberikan	VB
+menyusul	VB
+selesai	JJ
+nya	PRP
+proses	NN
+penerbitan	NN
+obligasi	NN
+Bank	NNP
+Panin	NNP
+.	Z
+
+#
+
+Dia	PRP
+antara	X
+lain	JJ
+menggunakan	VB
+slogan	NN
+
+"	Z
+Tidak	NEG
+bisa	MD,NN 
+lebih	RB
+buruk	JJ
+lagi	MD,RB 
+"	Z
+
+dan	CC
+
+"	Z
+Apa	WH 
+yang	SC
+dilakukan	VB
+wakil	NN
+anda	PRP
+?	Z
+
+
+Sungguh	RB
+saya	PRP
+tidak	NEG
+tahu	NN,VB 
+.	Z
+
+Tapi	CC
+pilih	VB
+lah	RP
+saya	PRP
+dan	CC
+saya	PRP
+akan	IN,MD 
+mencari tahu	VB
+untuk	IN 
+anda	PRP
+.	Z
+
+"	Z
+
+#
+
+Penjualan	NN
+ini	PR
+lebih	RB
+besar	JJ
+dibandingkan	VB
+periode	NN
+sama	JJ
+sebelumnya	SC
+sebanyak	CD
+144.077	CD
+unit	NN
+.	Z
+
+#
+
+Namun	CC
+peringkat	NN
+tersebut	PR,VB 
+diperlemah	VB
+oleh	IN
+agresif	JJ
+nya	PRP
+ekspansi	NN
+perusahaan	NN
+yang	SC
+akan	IN,MD 
+mengarah	VB
+pada	IN
+tinggi	JJ
+nya	PRP
+leverage	X
+keuangan	NN
+dan	CC
+potensi	NN
+tinggi	JJ
+nya	PRP
+risiko	NN
+perusahaan	NN
+terhadap	IN
+fluktuasi	NN
+mata uang	NN
+asing	JJ
+maupun	CC
+persaingan	NN
+di	IN
+industri	NN
+yang	SC
+makin	RB
+ketat	JJ
+.	Z
+
+#
+
+Sistem	NN
+administrasi	NN
+perpajakan	NN
+adalah	VB
+faktor	NN
+kunci	NN
+dalam	IN 
+upaya	NN
+memperbaiki	VB
+iklim	NN
+investasi	NN
+dan	CC
+memobilisasi	VB
+pendanaan	NN
+untuk	IN 
+pembangunan	NN
+.	Z
+
+#
+
+"	Z
+Dengan	SC,IN 
+demikian	PR
+,	Z
+belanja	NN,VB 
+pemerintah	NN
+secara	JJ
+keseluruhan	X
+tumbuh	VB
+24,18	CD
+persen	NN,CD 
+dibanding	VB
+periode	NN
+sebelumnya	SC
+,	Z
+atau	CC
+3,83	CD
+persen	NN,CD 
+dibanding	VB
+triwulan	NN
+II	NNP
+2006	CD
+,	Z
+
+"	Z
+
+kata	NN
+nya	PRP
+.	Z
+
+#
+
+Direktur Utama	NN
+PT	NNP
+Bursa Efek	NN
+Surabaya	NNP
+BES	NNP
+Bastian	NNP
+Purnama	NNP
+di	IN
+Jakarta	NNP
+,	Z
+Jumat	NNP
+,	Z
+mengatakan	VB
+pihak	NN
+nya	PRP
+kembali	VB
+akan	IN,MD 
+melakukan	VB
+pelelangan	NN
+atas	IN 
+23	CD
+saham	NN
+BES	NNP
+kategori	NN
+A	NNP
+treasury	X
+stock	X
+pada	IN
+4	CD
+Juni	NNP
+2007	CD
+di	IN
+Jakarta	NNP
+.	Z
+
+#
+
+Menurut	NNP
+data	NN
+BKF	NNP
+,	Z
+konsumsi	NN
+masyarakat	NN
+pada	IN
+kuartal	NN
+II/2007	NNP
+tumbuh	VB
+4,9	CD
+persen	NN,CD 
+,	Z
+yang	SC
+terdiri	VB
+atas	IN 
+pertumbuhan	NN
+penjualan	NN
+mobil	NN
+7,46	CD
+persen	NN,CD 
+,	Z
+penjualan	NN
+motor	NN
+61,9	CD
+persen	NN,CD 
+,	Z
+konsumsi	NN
+listrik	NN
+8,2	CD
+persen	NN,CD 
+,	Z
+kredit	NN
+konsumsi	NN
+18	CD
+persen	NN,CD 
+,	Z
+PPN	NNP
+dalam negeri	JJ
+20	CD
+persen	NN,CD 
+,	Z
+dan	CC
+PPN	NNP
+Impor	NNP
+28	CD
+persen	NN,CD 
+.	Z
+
+#
+
+"	Z
+Sehingga	SC
+rasio	NN
+utang	NN
+pemerintah	NN
+pada	IN
+akhir	NN
+2008	CD
+diperkirakan	VB
+turun	VB
+menjadi	VB
+sekitar	RB 
+33	CD
+persen	NN,CD 
+,	Z
+"	Z
+
+ujar	VB
+Presiden	NNP
+.	Z
+
+#
+
+Kita	PRP
+melihat	VB
+dari	IN
+laporan	NN
+perkembangan	NN
+terakhir	OD
+,	Z
+situasi	NN
+semakin	RB
+kondusif	JJ
+dan	CC
+
+'	Z
+manageable	X
+'	Z
+
+(dapat	X
+dikendalikan)	X
+serta	IN 
+perekonomian	NN
+dan	CC
+nilai tukar	NN
+sudah	MD
+kembali	VB
+ke	IN
+level	X
+yang	SC
+cukup	RB
+baik	JJ
+.	Z
+
+#
+
+Jumlah	NN
+ini	PR
+jauh	JJ
+melampaui	VB
+penjualan	NN
+mobil	NN
+selama	JJ
+2006	CD
+sebanyak	CD
+318.904	CD
+unit	NN
+.	Z
+
+#
+
+"	Z
+Pemegang saham	NN
+asing	JJ
+akan	IN,MD 
+menerima	VB
+dividen	NN
+dalam	IN 
+dolar	NN
+AS	NNP
+,	Z
+"	Z
+
+ujar	VB
+nya	PRP
+.	Z
+
+#
+
+"	Z
+Produksi	NN
+awal	NN
+diharapkan	VB
+berlangsung	VB
+dalam	IN 
+90	CD
+hingga	SC,IN 
+120	CD
+hari	NN
+.	Z
+
+Medco	NNP
+Energi	NNP
+US	NNP
+memiliki	VB
+60	CD
+persen	NN,CD 
+working	X
+interest	X
+dan	CC
+merupakan	VB
+operator	NN
+dalam	IN 
+proyek	NN
+ini	PR
+,	Z
+"	Z
+
+jelas	JJ
+nya	PRP
+.	Z
+
+#
+
+Menurut	NNP
+dia	PRP
+,	Z
+dengan	SC 
+menggunakan	VB
+batu bara	NN
+,	Z
+PKG	NNP
+bisa	MD 
+menghemat	VB
+biaya	NN
+Rp100	NNP
+miliar	CD
+per	X
+tahun	NN
+.	Z
+
+#
+
+Sementara	NNP
+ekspor	NN,VB 
+mengalami	VB
+pertumbuhan	NN
+9,4	CD
+persen	NN,CD 
+non-migas	NN
+22	CD
+persen	NN,CD 
+,	Z
+migas	NN
+7	CD
+persen	NN,CD 
+,	Z
+dan	CC
+sisi	NN,VB 
+impor	NN,VB 
+yang	SC
+tumbuh	VB
+11,99	CD
+persen	NN,CD 
+barang modal	NN
+40	CD
+persen	NN,CD 
+,	Z
+barang	NN
+konsumsi	NN
+2	CD
+persen	NN,CD 
+.	Z
+
+#
+
+Namun	CC
+menurut	X
+dia	PRP
+,	Z
+tingkat	NN
+suku	NN
+bunga	NN
+dapat	MD,VB 
+ditekan	VB
+bila	SC
+persaingan	NN
+bisnis	NN
+perbankan	NN
+makin	RB
+kompetitif	JJ
+sehingga	SC
+intermediasi	NN
+perbankan	NN
+pun	RP
+semakin	RB
+membaik	VB
+.	Z
+
+#
+
+Pertumbuhan ekonomi	NN
+Indonesia	NNP
+saat	SC,NN 
+ini	PR
+masih	MD
+didorong	VB
+oleh	IN
+sektor	NN
+konsumsi	NN
+,	Z
+sementara	X
+dari	IN
+sisi	NN,VB 
+investasi	NN
+masih	MD
+rendah	JJ
+,	Z
+walaupun	SC
+ada	JJ
+prospek	NN
+positif	NN
+.	Z
+
+#
+
+Target	NN
+tersebut	PR,VB 
+belum	NEG
+memasukkan	VB
+pendapatan	NN
+sewa/kontrak	X
+dari	IN
+Mirantha	NNP
+.	Z
+
+#
+
+Presiden	NN
+Susilo	NNP
+Bambang	NNP
+Yudhoyono	NNP
+menyatakan	VB
+keyakinan	NN
+nya	PRP
+bahwa	SC
+Indonesia	NNP
+dapat	MD,VB 
+melalui	X
+gejolak	NN
+di	IN
+pasar modal	NN
+global	X
+dengan	SC,IN 
+dampak	NN
+seminimal	JJ
+mungkin	MD
+.	Z
+
+#
+
+Rasio	NN
+kredit	NN
+bermasa	VB
+lah	RP
+Panin	NNP
+meningkat	VB
+ke	IN
+9,3	CD
+persen	NN,CD 
+di	IN
+akhir	NN
+2005	CD
+yang	SC
+sebagian	CD
+disebabkan	VB
+oleh	IN
+implementasi	NN
+regulasi	NN
+penggolongan	NN
+kredit	NN
+yang	SC
+lebih	RB
+ketat	JJ
+dan	CC
+juga	RB
+karena	SC,IN 
+kondisi	NN
+makroekonomi	NN
+yang	SC
+kurang	RB
+menguntungkan	JJ
+termasuk	X
+kenaikan	NN
+harga	NN
+bahan bakar	VB
+dan	CC
+kemudian	CC,NN 
+tingkat	NN
+suku	NN
+bunga	NN
+yang	SC
+meningkat	VB
+sejak	IN 
+2005	CD
+.	Z
+
+#
+
